@@ -1,0 +1,4 @@
+- [SentenceSplitter project context](project_context.md) — project goals, key artifacts, dataset domain, issue #5 summary
+- [User role and background](user_role.md) — Daniil Tsyplyackov, ITMO NLP researcher, Russian sentence splitting
+- [Conjunction table notes](conjunction_table_notes.md) — what was extracted from annotation guide; SSP/SPP/BSP counts, section structure, and exception rules (2.3–2.6)
+- [Edge cases reference](edge_cases_reference.md) — decisions per phenomenon from annotation doc; silent items (парцелляция, косвенная речь)

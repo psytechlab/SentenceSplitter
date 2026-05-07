@@ -1,0 +1,1 @@
+- [SentenceSplitter sampling pipeline](project_sampling_pipeline.md) — datasets, V1/V2 heuristic decision, nbclient execution workaround, output schema
