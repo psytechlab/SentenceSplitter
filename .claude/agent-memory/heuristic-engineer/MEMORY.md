@@ -1,0 +1,3 @@
+- [Ground-truth dataset shape](project_ground_truth_dataset.md) — data.csv parsing quirks: NaN and plain-string `simple_sentences` cells must be treated as 1-clause / simple
+- [Python environment](project_environment.md) — `.venv/bin/python` (3.14), `uv pip install`, Natasha works without MorphVocab (pymorphy2 deps break on 3.14)
+- [V1/V2 baseline metrics](project_v1_v2_baseline_metrics.md) — V1 P=0.825 R=1.000 F1=0.904; V2 P=0.959 R=0.745 F1=0.838; FN clusters for future refinement
