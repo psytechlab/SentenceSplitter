@@ -25,10 +25,10 @@ Retrieved: 2026-05-07
 
 ## Phenomenon: Парцелляция
 
-- **Decision: (silent) — no rule**
+- **Decision: OUT-OF-SCOPE (handled upstream)**
 - **Source quote:** N/A
 - **Section / location in doc:** Not mentioned anywhere in the document.
-- **Notes:** Doc is silent — no rule. Parcellation (deliberate sentence fragmentation for stylistic effect) is not addressed. Treat as an open question; flag candidate examples for manual review.
+- **Case-holder ruling:** — parcellated fragments are treated as separate sentences upstream during the dataset's initial sentence segmentation. They won't normally appear as single dataset entries. Noted as a potential edge case for future reference.
 
 ---
 
@@ -43,10 +43,11 @@ Retrieved: 2026-05-07
 
 ## Phenomenon: Прямая и косвенная речь
 
-- **Decision: FLAG (прямая речь) / Doc is silent (косвенная речь)**
+- **Decision: FLAG (прямая речь) / INCLUDE (косвенная речь)**
 - **Source quote (прямая речь):** "Прямая речь внутри авторских слов, если не образует самостоятельной реплики с интонацией конца (обрабатывается по отдельным правилам проекта)."
 - **Section / location in doc:** 2.6 — Исключения: что НЕ разделять (item 5)
-- **Notes:** Direct speech embedded in attribution text is excluded UNLESS it forms a standalone utterance with final intonation. The doc explicitly defers to separate project rules. Косвенная речь (indirect speech) is not mentioned — no rule. Flag all direct-speech sentences; do not include them as routine splitting examples without separate project-level guidance.
+- **Notes:** Direct speech embedded in attribution text is excluded UNLESS it forms a standalone utterance with final intonation. The doc explicitly defers to separate project rules. Flag all direct-speech sentences; do not include them as routine splitting examples without separate project-level guidance.
+- **Case-holder ruling (косвенная речь):** — INCLUDE. Indirect speech is treated as сложноподчинённое with изъяснительное придаточное (formally a complex sentence). Annotators split into clauses per the linguistic-theory approach already documented in the annotation instruction.
 
 ---
 
@@ -81,10 +82,10 @@ Retrieved: 2026-05-07
 |---|---|---|
 | Однородные сказуемые / однородные члены | EXCLUDE | 2.6 item 1 |
 | Причастные и деепричастные обороты | EXCLUDE | 2.6 item 2 |
-| Парцелляция | (silent) — no rule | Not in doc |
+| Парцелляция | OUT-OF-SCOPE — handled upstream (Buyanov, 2026-05-08) | Not in doc |
 | Эллипсис | FLAG — restore subject in [ ] | 2.4.3 |
 | Прямая речь | FLAG — defer to project rules | 2.6 item 5 |
-| Косвенная речь | (silent) — no rule | Not in doc |
+| Косвенная речь | INCLUDE — сложноподчинённое with изъяснительное придаточное (Buyanov, 2026-05-08) | Not in doc |
 | Вводные конструкции | EXCLUDE | 2.6 item 4 |
 | БСП (asyndetic) | INCLUDE — split on comma/colon/dash | 2.3.3 |
 
@@ -92,8 +93,6 @@ Retrieved: 2026-05-07
 
 ## Open questions
 
-- **Парцелляция:** Doc is silent. No rule for handling stylistically fragmented sentences. Requires a project-level decision.
-- **Косвенная речь:** Doc is silent. Indirect speech constructions (e.g., "Он сказал, что придёт") are presumably handled under normal SPP rules (2.3.2), but this is not stated explicitly.
 - **Прямая речь — project rules referenced but not included:** Section 2.6 item 5 defers to "отдельные правила проекта" without specifying them. These rules need to be located and appended here.
 - **Comparative phrases without a predicate:** Section 2.6 item 3 lists "Сравнительные обороты без сказуемого: Она бежала быстро, как ветер. (Нет основы → не делим)" — not in the original 7 phenomena but relevant for sampler filtering.
 - **Прямая речь forming a standalone utterance:** The doc creates an exception ("если не образует самостоятельной реплики с интонацией конца") but gives no example or test for what counts as a standalone utterance with final intonation.
