@@ -1,0 +1,171 @@
+{
+ "task_idx": 193,
+ "text": "психолог сказала мне что своими истериками я манипулирую людьми чтобы они уделяли мне больше времени я и сама это понимала но когда тебе такое говорят думаешь об этом сильнее и теперь я не хочу никому жаловаться просто пиздец",
+ "stratum": "presuicidal_multilabel_conj",
+ "data_id": "9bee0335779e4937b6301c9e82cb44b4-0",
+ "n_tokens": 38,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 20,
+     "norm_start": 0,
+     "norm_end": 20,
+     "norm_text": "психолог сказала мне"
+    },
+    {
+     "start": 21,
+     "end": 100,
+     "norm_start": 21,
+     "norm_end": 100,
+     "norm_text": "что своими истериками я манипулирую людьми чтобы они уделяли мне больше времени"
+    },
+    {
+     "start": 101,
+     "end": 122,
+     "norm_start": 101,
+     "norm_end": 122,
+     "norm_text": "я и сама это понимала"
+    },
+    {
+     "start": 123,
+     "end": 150,
+     "norm_start": 123,
+     "norm_end": 150,
+     "norm_text": "но когда тебе такое говорят"
+    },
+    {
+     "start": 151,
+     "end": 174,
+     "norm_start": 151,
+     "norm_end": 174,
+     "norm_text": "думаешь об этом сильнее"
+    },
+    {
+     "start": 175,
+     "end": 225,
+     "norm_start": 175,
+     "norm_end": 225,
+     "norm_text": "и теперь я не хочу никому жаловаться просто пиздец"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 24,
+     "norm_start": 0,
+     "norm_end": 24,
+     "norm_text": "психолог сказала мне что"
+    },
+    {
+     "start": 25,
+     "end": 63,
+     "norm_start": 25,
+     "norm_end": 63,
+     "norm_text": "своими истериками я манипулирую людьми"
+    },
+    {
+     "start": 64,
+     "end": 100,
+     "norm_start": 64,
+     "norm_end": 100,
+     "norm_text": "чтобы они уделяли мне больше времени"
+    },
+    {
+     "start": 101,
+     "end": 122,
+     "norm_start": 101,
+     "norm_end": 122,
+     "norm_text": "я и сама это понимала"
+    },
+    {
+     "start": 123,
+     "end": 150,
+     "norm_start": 123,
+     "norm_end": 150,
+     "norm_text": "но когда тебе такое говорят"
+    },
+    {
+     "start": 151,
+     "end": 174,
+     "norm_start": 151,
+     "norm_end": 174,
+     "norm_text": "думаешь об этом сильнее"
+    },
+    {
+     "start": 175,
+     "end": 211,
+     "norm_start": 175,
+     "norm_end": 211,
+     "norm_text": "и теперь я не хочу никому жаловаться"
+    },
+    {
+     "start": 212,
+     "end": 225,
+     "norm_start": 212,
+     "norm_end": 225,
+     "norm_text": "просто пиздец"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 20,
+     "norm_start": 0,
+     "norm_end": 20,
+     "norm_text": "психолог сказала мне"
+    },
+    {
+     "start": 21,
+     "end": 63,
+     "norm_start": 21,
+     "norm_end": 63,
+     "norm_text": "что своими истериками я манипулирую людьми"
+    },
+    {
+     "start": 64,
+     "end": 100,
+     "norm_start": 64,
+     "norm_end": 100,
+     "norm_text": "чтобы они уделяли мне больше времени"
+    },
+    {
+     "start": 101,
+     "end": 122,
+     "norm_start": 101,
+     "norm_end": 122,
+     "norm_text": "я и сама это понимала"
+    },
+    {
+     "start": 123,
+     "end": 150,
+     "norm_start": 123,
+     "norm_end": 150,
+     "norm_text": "но когда тебе такое говорят"
+    },
+    {
+     "start": 151,
+     "end": 174,
+     "norm_start": 151,
+     "norm_end": 174,
+     "norm_text": "думаешь об этом сильнее"
+    },
+    {
+     "start": 175,
+     "end": 225,
+     "norm_start": 175,
+     "norm_end": 225,
+     "norm_text": "и теперь я не хочу никому жаловаться просто пиздец"
+    }
+   ]
+  }
+ }
+}

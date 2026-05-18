@@ -1,0 +1,101 @@
+{
+ "task_idx": 102,
+ "text": "Потом испытали ( прошли по мосту всей командой , в ногу , громко топая ) и сказали :\" Теперь тут могут любить друг друга 500 пар одновременно \" .",
+ "stratum": "solyanka_lj_long",
+ "data_id": "",
+ "n_tokens": 30,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 14,
+     "norm_start": 0,
+     "norm_end": 14,
+     "norm_text": "Потом испытали"
+    },
+    {
+     "start": 15,
+     "end": 72,
+     "norm_start": 17,
+     "norm_end": 70,
+     "norm_text": "прошли по мосту всей командой , в ногу , громко топая"
+    },
+    {
+     "start": 73,
+     "end": 84,
+     "norm_start": 73,
+     "norm_end": 82,
+     "norm_text": "и сказали"
+    },
+    {
+     "start": 84,
+     "end": 143,
+     "norm_start": 86,
+     "norm_end": 141,
+     "norm_text": "Теперь тут могут любить друг друга 500 пар одновременно"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 14,
+     "norm_start": 0,
+     "norm_end": 14,
+     "norm_text": "Потом испытали"
+    },
+    {
+     "start": 17,
+     "end": 71,
+     "norm_start": 17,
+     "norm_end": 70,
+     "norm_text": "прошли по мосту всей командой , в ногу , громко топая"
+    },
+    {
+     "start": 73,
+     "end": 142,
+     "norm_start": 73,
+     "norm_end": 141,
+     "norm_text": "и сказали :\" Теперь тут могут любить друг друга 500 пар одновременно"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "БСП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 14,
+     "norm_start": 0,
+     "norm_end": 14,
+     "norm_text": "Потом испытали"
+    },
+    {
+     "start": 16,
+     "end": 71,
+     "norm_start": 17,
+     "norm_end": 70,
+     "norm_text": "прошли по мосту всей командой , в ногу , громко топая"
+    },
+    {
+     "start": 73,
+     "end": 84,
+     "norm_start": 73,
+     "norm_end": 82,
+     "norm_text": "и сказали"
+    },
+    {
+     "start": 86,
+     "end": 142,
+     "norm_start": 86,
+     "norm_end": 141,
+     "norm_text": "Теперь тут могут любить друг друга 500 пар одновременно"
+    }
+   ]
+  }
+ }
+}

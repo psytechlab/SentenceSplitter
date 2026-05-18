@@ -1,0 +1,37 @@
+{
+ "task_idx": 90,
+ "text": "О самоубийстве я думаю уже давно.",
+ "stratum": "presuicidal_short_simple",
+ "data_id": "d2aabd9d8fe04a52922b53ee13e7982c-0",
+ "n_tokens": 7,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "Не сложное",
+   "spans": []
+  },
+  "shirin": {
+   "sentence_type": "Не сложное",
+   "spans": [
+    {
+     "start": 0,
+     "end": 32,
+     "norm_start": 0,
+     "norm_end": 32,
+     "norm_text": "О самоубийстве я думаю уже давно"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "Не сложное",
+   "spans": [
+    {
+     "start": 0,
+     "end": 33,
+     "norm_start": 0,
+     "norm_end": 32,
+     "norm_text": "О самоубийстве я думаю уже давно"
+    }
+   ]
+  }
+ }
+}

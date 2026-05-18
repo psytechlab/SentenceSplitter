@@ -1,0 +1,101 @@
+{
+ "task_idx": 154,
+ "text": "Я сказала я богом клянусь я тебя люблю прости, а он сказал пошла ты.",
+ "stratum": "presuicidal_multilabel_conj",
+ "data_id": "dabd422a10174111b74c86e1496e8229-2",
+ "n_tokens": 16,
+ "annotations": {
+  "daniil": {
+   "sentence_type": null,
+   "spans": [
+    {
+     "start": 0,
+     "end": 9,
+     "norm_start": 0,
+     "norm_end": 9,
+     "norm_text": "Я сказала"
+    },
+    {
+     "start": 10,
+     "end": 25,
+     "norm_start": 10,
+     "norm_end": 25,
+     "norm_text": "я богом клянусь"
+    },
+    {
+     "start": 26,
+     "end": 45,
+     "norm_start": 26,
+     "norm_end": 45,
+     "norm_text": "я тебя люблю прости"
+    },
+    {
+     "start": 47,
+     "end": 68,
+     "norm_start": 47,
+     "norm_end": 67,
+     "norm_text": "а он сказал пошла ты"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "ССП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 45,
+     "norm_start": 0,
+     "norm_end": 45,
+     "norm_text": "Я сказала я богом клянусь я тебя люблю прости"
+    },
+    {
+     "start": 47,
+     "end": 68,
+     "norm_start": 47,
+     "norm_end": 67,
+     "norm_text": "а он сказал пошла ты"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 9,
+     "norm_start": 0,
+     "norm_end": 9,
+     "norm_text": "Я сказала"
+    },
+    {
+     "start": 10,
+     "end": 25,
+     "norm_start": 10,
+     "norm_end": 25,
+     "norm_text": "я богом клянусь"
+    },
+    {
+     "start": 26,
+     "end": 46,
+     "norm_start": 26,
+     "norm_end": 45,
+     "norm_text": "я тебя люблю прости"
+    },
+    {
+     "start": 47,
+     "end": 58,
+     "norm_start": 47,
+     "norm_end": 58,
+     "norm_text": "а он сказал"
+    },
+    {
+     "start": 59,
+     "end": 68,
+     "norm_start": 59,
+     "norm_end": 67,
+     "norm_text": "пошла ты"
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,101 @@
+{
+ "task_idx": 86,
+ "text": "Но в последнее время эта мысль все чаще появляется в моей голове и меня это сильно пугает, пугает то, что сорвусь и сделаю это, возьму лезвие и.",
+ "stratum": "presuicidal_monolabel_long",
+ "data_id": "940cc949fc7f46a5b7249fd536e69916-3",
+ "n_tokens": 31,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 64,
+     "norm_start": 0,
+     "norm_end": 64,
+     "norm_text": "Но в последнее время эта мысль все чаще появляется в моей голове"
+    },
+    {
+     "start": 65,
+     "end": 89,
+     "norm_start": 65,
+     "norm_end": 89,
+     "norm_text": "и меня это сильно пугает"
+    },
+    {
+     "start": 91,
+     "end": 100,
+     "norm_start": 91,
+     "norm_end": 100,
+     "norm_text": "пугает то"
+    },
+    {
+     "start": 102,
+     "end": 144,
+     "norm_start": 102,
+     "norm_end": 143,
+     "norm_text": "что сорвусь и сделаю это, возьму лезвие и"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 64,
+     "norm_start": 0,
+     "norm_end": 64,
+     "norm_text": "Но в последнее время эта мысль все чаще появляется в моей голове"
+    },
+    {
+     "start": 65,
+     "end": 89,
+     "norm_start": 65,
+     "norm_end": 89,
+     "norm_text": "и меня это сильно пугает"
+    },
+    {
+     "start": 91,
+     "end": 143,
+     "norm_start": 91,
+     "norm_end": 143,
+     "norm_text": "пугает то, что сорвусь и сделаю это, возьму лезвие и"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 64,
+     "norm_start": 0,
+     "norm_end": 64,
+     "norm_text": "Но в последнее время эта мысль все чаще появляется в моей голове"
+    },
+    {
+     "start": 65,
+     "end": 90,
+     "norm_start": 65,
+     "norm_end": 89,
+     "norm_text": "и меня это сильно пугает"
+    },
+    {
+     "start": 91,
+     "end": 101,
+     "norm_start": 91,
+     "norm_end": 100,
+     "norm_text": "пугает то"
+    },
+    {
+     "start": 102,
+     "end": 144,
+     "norm_start": 102,
+     "norm_end": 143,
+     "norm_text": "что сорвусь и сделаю это, возьму лезвие и"
+    }
+   ]
+  }
+ }
+}

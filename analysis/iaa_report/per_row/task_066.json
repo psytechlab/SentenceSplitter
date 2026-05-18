@@ -1,0 +1,108 @@
+{
+ "task_idx": 66,
+ "text": "Мы видимся с ним, он со своей новой семьей живет в доме напротив, я очень люблю его, ну не в этом суть.",
+ "stratum": "presuicidal_multilabel_conj",
+ "data_id": "bfd83cef7e614f968d2b69aec4216e74-5",
+ "n_tokens": 26,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "ССП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 16,
+     "norm_start": 0,
+     "norm_end": 16,
+     "norm_text": "Мы видимся с ним"
+    },
+    {
+     "start": 18,
+     "end": 64,
+     "norm_start": 18,
+     "norm_end": 64,
+     "norm_text": "он со своей новой семьей живет в доме напротив"
+    },
+    {
+     "start": 66,
+     "end": 83,
+     "norm_start": 66,
+     "norm_end": 83,
+     "norm_text": "я очень люблю его"
+    },
+    {
+     "start": 85,
+     "end": 103,
+     "norm_start": 85,
+     "norm_end": 102,
+     "norm_text": "ну не в этом суть"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "БСП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 16,
+     "norm_start": 0,
+     "norm_end": 16,
+     "norm_text": "Мы видимся с ним"
+    },
+    {
+     "start": 18,
+     "end": 64,
+     "norm_start": 18,
+     "norm_end": 64,
+     "norm_text": "он со своей новой семьей живет в доме напротив"
+    },
+    {
+     "start": 66,
+     "end": 83,
+     "norm_start": 66,
+     "norm_end": 83,
+     "norm_text": "я очень люблю его"
+    },
+    {
+     "start": 85,
+     "end": 102,
+     "norm_start": 85,
+     "norm_end": 102,
+     "norm_text": "ну не в этом суть"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "БСП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 17,
+     "norm_start": 0,
+     "norm_end": 16,
+     "norm_text": "Мы видимся с ним"
+    },
+    {
+     "start": 18,
+     "end": 65,
+     "norm_start": 18,
+     "norm_end": 64,
+     "norm_text": "он со своей новой семьей живет в доме напротив"
+    },
+    {
+     "start": 66,
+     "end": 84,
+     "norm_start": 66,
+     "norm_end": 83,
+     "norm_text": "я очень люблю его"
+    },
+    {
+     "start": 85,
+     "end": 103,
+     "norm_start": 85,
+     "norm_end": 102,
+     "norm_text": "ну не в этом суть"
+    }
+   ]
+  }
+ }
+}

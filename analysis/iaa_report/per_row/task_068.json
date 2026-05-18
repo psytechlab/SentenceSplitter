@@ -1,0 +1,45 @@
+{
+ "task_idx": 68,
+ "text": "Мы расстались летом 2007 года.",
+ "stratum": "presuicidal_short_simple",
+ "data_id": "72adf2980f094ffea7643b3efd2500fd-0",
+ "n_tokens": 6,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "Не сложное",
+   "spans": [
+    {
+     "start": 0,
+     "end": 30,
+     "norm_start": 0,
+     "norm_end": 29,
+     "norm_text": "Мы расстались летом 2007 года"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "Не сложное",
+   "spans": [
+    {
+     "start": 0,
+     "end": 29,
+     "norm_start": 0,
+     "norm_end": 29,
+     "norm_text": "Мы расстались летом 2007 года"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "Не сложное",
+   "spans": [
+    {
+     "start": 0,
+     "end": 30,
+     "norm_start": 0,
+     "norm_end": 29,
+     "norm_text": "Мы расстались летом 2007 года"
+    }
+   ]
+  }
+ }
+}

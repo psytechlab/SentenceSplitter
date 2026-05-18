@@ -1,0 +1,178 @@
+{
+ "task_idx": 110,
+ "text": "С каждым днем только хуже, срывы, истерики, слезы, мысли о самоубийстве вообще впереди планеты всей, только вот слаб я для того чтобы убиться, осознаю это и становится еще хуже, пытался наглотаться таблеток-не вышло как видите, плохой способ.",
+ "stratum": "presuicidal_multilabel_conj",
+ "data_id": "822e976e3fd54ec9bc6577ac6bd64547-5",
+ "n_tokens": 46,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 25,
+     "norm_start": 0,
+     "norm_end": 25,
+     "norm_text": "С каждым днем только хуже"
+    },
+    {
+     "start": 27,
+     "end": 49,
+     "norm_start": 27,
+     "norm_end": 49,
+     "norm_text": "срывы, истерики, слезы"
+    },
+    {
+     "start": 51,
+     "end": 99,
+     "norm_start": 51,
+     "norm_end": 99,
+     "norm_text": "мысли о самоубийстве вообще впереди планеты всей"
+    },
+    {
+     "start": 101,
+     "end": 141,
+     "norm_start": 101,
+     "norm_end": 141,
+     "norm_text": "только вот слаб я для того чтобы убиться"
+    },
+    {
+     "start": 143,
+     "end": 176,
+     "norm_start": 143,
+     "norm_end": 176,
+     "norm_text": "осознаю это и становится еще хуже"
+    },
+    {
+     "start": 178,
+     "end": 226,
+     "norm_start": 178,
+     "norm_end": 226,
+     "norm_text": "пытался наглотаться таблеток-не вышло как видите"
+    },
+    {
+     "start": 228,
+     "end": 242,
+     "norm_start": 228,
+     "norm_end": 241,
+     "norm_text": "плохой способ"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 25,
+     "norm_start": 0,
+     "norm_end": 25,
+     "norm_text": "С каждым днем только хуже"
+    },
+    {
+     "start": 27,
+     "end": 49,
+     "norm_start": 27,
+     "norm_end": 49,
+     "norm_text": "срывы, истерики, слезы"
+    },
+    {
+     "start": 51,
+     "end": 99,
+     "norm_start": 51,
+     "norm_end": 99,
+     "norm_text": "мысли о самоубийстве вообще впереди планеты всей"
+    },
+    {
+     "start": 101,
+     "end": 127,
+     "norm_start": 101,
+     "norm_end": 127,
+     "norm_text": "только вот слаб я для того"
+    },
+    {
+     "start": 128,
+     "end": 141,
+     "norm_start": 128,
+     "norm_end": 141,
+     "norm_text": "чтобы убиться"
+    },
+    {
+     "start": 143,
+     "end": 154,
+     "norm_start": 143,
+     "norm_end": 154,
+     "norm_text": "осознаю это"
+    },
+    {
+     "start": 155,
+     "end": 176,
+     "norm_start": 155,
+     "norm_end": 176,
+     "norm_text": "и становится еще хуже"
+    },
+    {
+     "start": 178,
+     "end": 206,
+     "norm_start": 178,
+     "norm_end": 206,
+     "norm_text": "пытался наглотаться таблеток"
+    },
+    {
+     "start": 207,
+     "end": 226,
+     "norm_start": 207,
+     "norm_end": 226,
+     "norm_text": "не вышло как видите"
+    },
+    {
+     "start": 228,
+     "end": 241,
+     "norm_start": 228,
+     "norm_end": 241,
+     "norm_text": "плохой способ"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 100,
+     "norm_start": 0,
+     "norm_end": 99,
+     "norm_text": "С каждым днем только хуже, срывы, истерики, слезы, мысли о самоубийстве вообще впереди планеты всей"
+    },
+    {
+     "start": 101,
+     "end": 118,
+     "norm_start": 101,
+     "norm_end": 118,
+     "norm_text": "только вот слаб я"
+    },
+    {
+     "start": 119,
+     "end": 142,
+     "norm_start": 119,
+     "norm_end": 141,
+     "norm_text": "для того чтобы убиться"
+    },
+    {
+     "start": 143,
+     "end": 177,
+     "norm_start": 143,
+     "norm_end": 176,
+     "norm_text": "осознаю это и становится еще хуже"
+    },
+    {
+     "start": 178,
+     "end": 242,
+     "norm_start": 178,
+     "norm_end": 241,
+     "norm_text": "пытался наглотаться таблеток-не вышло как видите, плохой способ"
+    }
+   ]
+  }
+ }
+}

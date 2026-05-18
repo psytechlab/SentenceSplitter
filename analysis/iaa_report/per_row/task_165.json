@@ -1,0 +1,66 @@
+{
+ "task_idx": 165,
+ "text": "Я хочу покончить с собой, мне очень тяжело терпеть это на протяжении 3 лет.",
+ "stratum": "presuicidal_multilabel_bsp",
+ "data_id": "e96e59aefd734e74a4aa8edca9bfa03d-19",
+ "n_tokens": 16,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "БСП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 24,
+     "norm_start": 0,
+     "norm_end": 24,
+     "norm_text": "Я хочу покончить с собой"
+    },
+    {
+     "start": 26,
+     "end": 75,
+     "norm_start": 26,
+     "norm_end": 74,
+     "norm_text": "мне очень тяжело терпеть это на протяжении 3 лет"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "БСП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 24,
+     "norm_start": 0,
+     "norm_end": 24,
+     "norm_text": "Я хочу покончить с собой"
+    },
+    {
+     "start": 26,
+     "end": 75,
+     "norm_start": 26,
+     "norm_end": 74,
+     "norm_text": "мне очень тяжело терпеть это на протяжении 3 лет"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "БСП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 25,
+     "norm_start": 0,
+     "norm_end": 24,
+     "norm_text": "Я хочу покончить с собой"
+    },
+    {
+     "start": 26,
+     "end": 75,
+     "norm_start": 26,
+     "norm_end": 74,
+     "norm_text": "мне очень тяжело терпеть это на протяжении 3 лет"
+    }
+   ]
+  }
+ }
+}

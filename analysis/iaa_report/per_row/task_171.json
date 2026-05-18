@@ -1,0 +1,108 @@
+{
+ "task_idx": 171,
+ "text": "бесят мужики, которые идут по дороге и харкаются, смаркаются, а ты значит обходи это все. в глаз себе харкани мудила ебаная",
+ "stratum": "solyanka_social_media_multi",
+ "data_id": "",
+ "n_tokens": 25,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 13,
+     "norm_start": 0,
+     "norm_end": 12,
+     "norm_text": "бесят мужики"
+    },
+    {
+     "start": 14,
+     "end": 61,
+     "norm_start": 14,
+     "norm_end": 60,
+     "norm_text": "которые идут по дороге и харкаются, смаркаются"
+    },
+    {
+     "start": 62,
+     "end": 89,
+     "norm_start": 62,
+     "norm_end": 88,
+     "norm_text": "а ты значит обходи это все"
+    },
+    {
+     "start": 90,
+     "end": 123,
+     "norm_start": 90,
+     "norm_end": 123,
+     "norm_text": "в глаз себе харкани мудила ебаная"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 12,
+     "norm_start": 0,
+     "norm_end": 12,
+     "norm_text": "бесят мужики"
+    },
+    {
+     "start": 14,
+     "end": 60,
+     "norm_start": 14,
+     "norm_end": 60,
+     "norm_text": "которые идут по дороге и харкаются, смаркаются"
+    },
+    {
+     "start": 62,
+     "end": 88,
+     "norm_start": 62,
+     "norm_end": 88,
+     "norm_text": "а ты значит обходи это все"
+    },
+    {
+     "start": 90,
+     "end": 123,
+     "norm_start": 90,
+     "norm_end": 123,
+     "norm_text": "в глаз себе харкани мудила ебаная"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 13,
+     "norm_start": 0,
+     "norm_end": 12,
+     "norm_text": "бесят мужики"
+    },
+    {
+     "start": 14,
+     "end": 61,
+     "norm_start": 14,
+     "norm_end": 60,
+     "norm_text": "которые идут по дороге и харкаются, смаркаются"
+    },
+    {
+     "start": 62,
+     "end": 89,
+     "norm_start": 62,
+     "norm_end": 88,
+     "norm_text": "а ты значит обходи это все"
+    },
+    {
+     "start": 90,
+     "end": 123,
+     "norm_start": 90,
+     "norm_end": 123,
+     "norm_text": "в глаз себе харкани мудила ебаная"
+    }
+   ]
+  }
+ }
+}

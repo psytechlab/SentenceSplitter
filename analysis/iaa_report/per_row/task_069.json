@@ -1,0 +1,87 @@
+{
+ "task_idx": 69,
+ "text": "Мы хорошо живем, у нас всё есть, через два года переедем в Кудрово ближе к Питеру.",
+ "stratum": "presuicidal_multilabel_bsp",
+ "data_id": "51f4bd6c865c40dfa06c89781d5d441f-16",
+ "n_tokens": 19,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "БСП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 16,
+     "norm_start": 0,
+     "norm_end": 15,
+     "norm_text": "Мы хорошо живем"
+    },
+    {
+     "start": 17,
+     "end": 31,
+     "norm_start": 17,
+     "norm_end": 31,
+     "norm_text": "у нас всё есть"
+    },
+    {
+     "start": 33,
+     "end": 82,
+     "norm_start": 33,
+     "norm_end": 81,
+     "norm_text": "через два года переедем в Кудрово ближе к Питеру"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "БСП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 15,
+     "norm_start": 0,
+     "norm_end": 15,
+     "norm_text": "Мы хорошо живем"
+    },
+    {
+     "start": 17,
+     "end": 31,
+     "norm_start": 17,
+     "norm_end": 31,
+     "norm_text": "у нас всё есть"
+    },
+    {
+     "start": 33,
+     "end": 81,
+     "norm_start": 33,
+     "norm_end": 81,
+     "norm_text": "через два года переедем в Кудрово ближе к Питеру"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "БСП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 16,
+     "norm_start": 0,
+     "norm_end": 15,
+     "norm_text": "Мы хорошо живем"
+    },
+    {
+     "start": 16,
+     "end": 32,
+     "norm_start": 17,
+     "norm_end": 31,
+     "norm_text": "у нас всё есть"
+    },
+    {
+     "start": 33,
+     "end": 82,
+     "norm_start": 33,
+     "norm_end": 81,
+     "norm_text": "через два года переедем в Кудрово ближе к Питеру"
+    }
+   ]
+  }
+ }
+}

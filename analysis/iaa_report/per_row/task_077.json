@@ -1,0 +1,150 @@
+{
+ "task_idx": 77,
+ "text": "Народ кипятком писает , но мы решили , что в Перу и так хватает погружения в древнюю цивилизацию : горячая вода не везде , по утрам встаешь с петухами , а они на тебя орут , представляете ?",
+ "stratum": "solyanka_lj_long",
+ "data_id": "",
+ "n_tokens": 38,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 23,
+     "norm_start": 0,
+     "norm_end": 21,
+     "norm_text": "Народ кипятком писает"
+    },
+    {
+     "start": 24,
+     "end": 38,
+     "norm_start": 24,
+     "norm_end": 36,
+     "norm_text": "но мы решили"
+    },
+    {
+     "start": 39,
+     "end": 98,
+     "norm_start": 39,
+     "norm_end": 96,
+     "norm_text": "что в Перу и так хватает погружения в древнюю цивилизацию"
+    },
+    {
+     "start": 99,
+     "end": 122,
+     "norm_start": 99,
+     "norm_end": 120,
+     "norm_text": "горячая вода не везде"
+    },
+    {
+     "start": 123,
+     "end": 152,
+     "norm_start": 123,
+     "norm_end": 150,
+     "norm_text": "по утрам встаешь с петухами"
+    },
+    {
+     "start": 153,
+     "end": 173,
+     "norm_start": 153,
+     "norm_end": 171,
+     "norm_text": "а они на тебя орут"
+    },
+    {
+     "start": 174,
+     "end": 189,
+     "norm_start": 174,
+     "norm_end": 187,
+     "norm_text": "представляете"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 21,
+     "norm_start": 0,
+     "norm_end": 21,
+     "norm_text": "Народ кипятком писает"
+    },
+    {
+     "start": 24,
+     "end": 36,
+     "norm_start": 24,
+     "norm_end": 36,
+     "norm_text": "но мы решили"
+    },
+    {
+     "start": 39,
+     "end": 97,
+     "norm_start": 39,
+     "norm_end": 96,
+     "norm_text": "что в Перу и так хватает погружения в древнюю цивилизацию"
+    },
+    {
+     "start": 100,
+     "end": 120,
+     "norm_start": 100,
+     "norm_end": 120,
+     "norm_text": "орячая вода не везде"
+    },
+    {
+     "start": 123,
+     "end": 150,
+     "norm_start": 123,
+     "norm_end": 150,
+     "norm_text": "по утрам встаешь с петухами"
+    },
+    {
+     "start": 153,
+     "end": 171,
+     "norm_start": 153,
+     "norm_end": 171,
+     "norm_text": "а они на тебя орут"
+    },
+    {
+     "start": 174,
+     "end": 187,
+     "norm_start": 174,
+     "norm_end": 187,
+     "norm_text": "представляете"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 23,
+     "norm_start": 0,
+     "norm_end": 21,
+     "norm_text": "Народ кипятком писает"
+    },
+    {
+     "start": 24,
+     "end": 38,
+     "norm_start": 24,
+     "norm_end": 36,
+     "norm_text": "но мы решили"
+    },
+    {
+     "start": 39,
+     "end": 152,
+     "norm_start": 39,
+     "norm_end": 150,
+     "norm_text": "что в Перу и так хватает погружения в древнюю цивилизацию : горячая вода не везде , по утрам встаешь с петухами"
+    },
+    {
+     "start": 153,
+     "end": 189,
+     "norm_start": 153,
+     "norm_end": 187,
+     "norm_text": "а они на тебя орут , представляете"
+    }
+   ]
+  }
+ }
+}

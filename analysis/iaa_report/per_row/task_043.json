@@ -1,0 +1,150 @@
+{
+ "task_idx": 43,
+ "text": "Когда я еду в метро, я представляю, в какой бы момент я бы взорвал бомбу, будь она у меня, и чем бы я её начинил, в каком бы месте расположил, или взорвал бы её вместе с собой.",
+ "stratum": "presuicidal_monolabel_long",
+ "data_id": "21bb0d37b4954a8985198f808f9ba4cc-65",
+ "n_tokens": 44,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 19,
+     "norm_start": 0,
+     "norm_end": 19,
+     "norm_text": "Когда я еду в метро"
+    },
+    {
+     "start": 21,
+     "end": 34,
+     "norm_start": 21,
+     "norm_end": 34,
+     "norm_text": "я представляю"
+    },
+    {
+     "start": 36,
+     "end": 72,
+     "norm_start": 36,
+     "norm_end": 72,
+     "norm_text": "в какой бы момент я бы взорвал бомбу"
+    },
+    {
+     "start": 74,
+     "end": 89,
+     "norm_start": 74,
+     "norm_end": 89,
+     "norm_text": "будь она у меня"
+    },
+    {
+     "start": 91,
+     "end": 112,
+     "norm_start": 91,
+     "norm_end": 112,
+     "norm_text": "и чем бы я её начинил"
+    },
+    {
+     "start": 114,
+     "end": 141,
+     "norm_start": 114,
+     "norm_end": 141,
+     "norm_text": "в каком бы месте расположил"
+    },
+    {
+     "start": 143,
+     "end": 176,
+     "norm_start": 143,
+     "norm_end": 175,
+     "norm_text": "или взорвал бы её вместе с собой"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "СПП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 19,
+     "norm_start": 0,
+     "norm_end": 19,
+     "norm_text": "Когда я еду в метро"
+    },
+    {
+     "start": 21,
+     "end": 34,
+     "norm_start": 21,
+     "norm_end": 34,
+     "norm_text": "я представляю"
+    },
+    {
+     "start": 36,
+     "end": 72,
+     "norm_start": 36,
+     "norm_end": 72,
+     "norm_text": "в какой бы момент я бы взорвал бомбу"
+    },
+    {
+     "start": 74,
+     "end": 89,
+     "norm_start": 74,
+     "norm_end": 89,
+     "norm_text": "будь она у меня"
+    },
+    {
+     "start": 91,
+     "end": 112,
+     "norm_start": 91,
+     "norm_end": 112,
+     "norm_text": "и чем бы я её начинил"
+    },
+    {
+     "start": 114,
+     "end": 141,
+     "norm_start": 114,
+     "norm_end": 141,
+     "norm_text": "в каком бы месте расположил"
+    },
+    {
+     "start": 143,
+     "end": 175,
+     "norm_start": 143,
+     "norm_end": 175,
+     "norm_text": "или взорвал бы её вместе с собой"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "СПП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 20,
+     "norm_start": 0,
+     "norm_end": 19,
+     "norm_text": "Когда я еду в метро"
+    },
+    {
+     "start": 21,
+     "end": 73,
+     "norm_start": 21,
+     "norm_end": 72,
+     "norm_text": "я представляю, в какой бы момент я бы взорвал бомбу"
+    },
+    {
+     "start": 74,
+     "end": 90,
+     "norm_start": 74,
+     "norm_end": 89,
+     "norm_text": "будь она у меня"
+    },
+    {
+     "start": 91,
+     "end": 176,
+     "norm_start": 91,
+     "norm_end": 175,
+     "norm_text": "и чем бы я её начинил, в каком бы месте расположил, или взорвал бы её вместе с собой"
+    }
+   ]
+  }
+ }
+}

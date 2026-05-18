@@ -1,0 +1,45 @@
+{
+ "task_idx": 197,
+ "text": "через 28 дней мне исполниться 16 лет.",
+ "stratum": "presuicidal_short_simple",
+ "data_id": "017486df65ee4a8b90881fea0115b669-23",
+ "n_tokens": 8,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "Не сложное",
+   "spans": [
+    {
+     "start": 0,
+     "end": 37,
+     "norm_start": 0,
+     "norm_end": 36,
+     "norm_text": "через 28 дней мне исполниться 16 лет"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "Не сложное",
+   "spans": [
+    {
+     "start": 0,
+     "end": 36,
+     "norm_start": 0,
+     "norm_end": 36,
+     "norm_text": "через 28 дней мне исполниться 16 лет"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "Не сложное",
+   "spans": [
+    {
+     "start": 0,
+     "end": 37,
+     "norm_start": 0,
+     "norm_end": 36,
+     "norm_text": "через 28 дней мне исполниться 16 лет"
+    }
+   ]
+  }
+ }
+}

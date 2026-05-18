@@ -1,0 +1,136 @@
+{
+ "task_idx": 37,
+ "text": "И опять получилось, что произошло это у меня на глазах, я ездила с ней в больницу, помогала врачам делать все процедуры, а она всё шептала, что умирает, а я все н хотела слушать.",
+ "stratum": "presuicidal_monolabel_long",
+ "data_id": "f8c20c04943848f4abf33e2695893e9c-10",
+ "n_tokens": 40,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 18,
+     "norm_start": 0,
+     "norm_end": 18,
+     "norm_text": "И опять получилось"
+    },
+    {
+     "start": 20,
+     "end": 54,
+     "norm_start": 20,
+     "norm_end": 54,
+     "norm_text": "что произошло это у меня на глазах"
+    },
+    {
+     "start": 56,
+     "end": 119,
+     "norm_start": 56,
+     "norm_end": 119,
+     "norm_text": "я ездила с ней в больницу, помогала врачам делать все процедуры"
+    },
+    {
+     "start": 121,
+     "end": 138,
+     "norm_start": 121,
+     "norm_end": 138,
+     "norm_text": "а она всё шептала"
+    },
+    {
+     "start": 140,
+     "end": 151,
+     "norm_start": 140,
+     "norm_end": 151,
+     "norm_text": "что умирает"
+    },
+    {
+     "start": 153,
+     "end": 178,
+     "norm_start": 153,
+     "norm_end": 177,
+     "norm_text": "а я все н хотела слушать"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 18,
+     "norm_start": 0,
+     "norm_end": 18,
+     "norm_text": "И опять получилось"
+    },
+    {
+     "start": 20,
+     "end": 54,
+     "norm_start": 20,
+     "norm_end": 54,
+     "norm_text": "что произошло это у меня на глазах"
+    },
+    {
+     "start": 56,
+     "end": 119,
+     "norm_start": 56,
+     "norm_end": 119,
+     "norm_text": "я ездила с ней в больницу, помогала врачам делать все процедуры"
+    },
+    {
+     "start": 121,
+     "end": 138,
+     "norm_start": 121,
+     "norm_end": 138,
+     "norm_text": "а она всё шептала"
+    },
+    {
+     "start": 140,
+     "end": 151,
+     "norm_start": 140,
+     "norm_end": 151,
+     "norm_text": "что умирает"
+    },
+    {
+     "start": 153,
+     "end": 177,
+     "norm_start": 153,
+     "norm_end": 177,
+     "norm_text": "а я все н хотела слушать"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 55,
+     "norm_start": 0,
+     "norm_end": 54,
+     "norm_text": "И опять получилось, что произошло это у меня на глазах"
+    },
+    {
+     "start": 56,
+     "end": 120,
+     "norm_start": 56,
+     "norm_end": 119,
+     "norm_text": "я ездила с ней в больницу, помогала врачам делать все процедуры"
+    },
+    {
+     "start": 121,
+     "end": 152,
+     "norm_start": 121,
+     "norm_end": 151,
+     "norm_text": "а она всё шептала, что умирает"
+    },
+    {
+     "start": 152,
+     "end": 178,
+     "norm_start": 153,
+     "norm_end": 177,
+     "norm_text": "а я все н хотела слушать"
+    }
+   ]
+  }
+ }
+}

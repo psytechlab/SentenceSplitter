@@ -1,0 +1,45 @@
+{
+ "task_idx": 191,
+ "text": "почему в свои 14 лет я должна думать о самоубийстве!",
+ "stratum": "other",
+ "data_id": "c0b2315873ac4b64bee92cd56725afeb-18",
+ "n_tokens": 11,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "Не сложное",
+   "spans": [
+    {
+     "start": 0,
+     "end": 52,
+     "norm_start": 0,
+     "norm_end": 51,
+     "norm_text": "почему в свои 14 лет я должна думать о самоубийстве"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "Не сложное",
+   "spans": [
+    {
+     "start": 0,
+     "end": 51,
+     "norm_start": 0,
+     "norm_end": 51,
+     "norm_text": "почему в свои 14 лет я должна думать о самоубийстве"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "Не сложное",
+   "spans": [
+    {
+     "start": 0,
+     "end": 52,
+     "norm_start": 0,
+     "norm_end": 51,
+     "norm_text": "почему в свои 14 лет я должна думать о самоубийстве"
+    }
+   ]
+  }
+ }
+}

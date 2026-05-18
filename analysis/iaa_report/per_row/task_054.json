@@ -1,0 +1,87 @@
+{
+ "task_idx": 54,
+ "text": "Мне было плохо два месяца, сейчас выхожу уже из депрессии, в принципе, мне любая поддержка сейчас пригодится.",
+ "stratum": "presuicidal_multilabel_bsp",
+ "data_id": "d0e58441652343e8871f7d065a539b42-3",
+ "n_tokens": 21,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "БСП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 25,
+     "norm_start": 0,
+     "norm_end": 25,
+     "norm_text": "Мне было плохо два месяца"
+    },
+    {
+     "start": 27,
+     "end": 57,
+     "norm_start": 27,
+     "norm_end": 57,
+     "norm_text": "сейчас выхожу уже из депрессии"
+    },
+    {
+     "start": 59,
+     "end": 109,
+     "norm_start": 59,
+     "norm_end": 108,
+     "norm_text": "в принципе, мне любая поддержка сейчас пригодится"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "БСП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 25,
+     "norm_start": 0,
+     "norm_end": 25,
+     "norm_text": "Мне было плохо два месяца"
+    },
+    {
+     "start": 27,
+     "end": 57,
+     "norm_start": 27,
+     "norm_end": 57,
+     "norm_text": "сейчас выхожу уже из депрессии"
+    },
+    {
+     "start": 59,
+     "end": 108,
+     "norm_start": 59,
+     "norm_end": 108,
+     "norm_text": "в принципе, мне любая поддержка сейчас пригодится"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "БСП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 26,
+     "norm_start": 0,
+     "norm_end": 25,
+     "norm_text": "Мне было плохо два месяца"
+    },
+    {
+     "start": 27,
+     "end": 58,
+     "norm_start": 27,
+     "norm_end": 57,
+     "norm_text": "сейчас выхожу уже из депрессии"
+    },
+    {
+     "start": 59,
+     "end": 109,
+     "norm_start": 59,
+     "norm_end": 108,
+     "norm_text": "в принципе, мне любая поддержка сейчас пригодится"
+    }
+   ]
+  }
+ }
+}

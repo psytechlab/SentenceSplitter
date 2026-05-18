@@ -1,0 +1,59 @@
+{
+ "task_idx": 166,
+ "text": "Я хочу покончить с собой, это невыносимо!",
+ "stratum": "presuicidal_multilabel_bsp",
+ "data_id": "72dab57de8aa48fd8908723b925177ca-2",
+ "n_tokens": 9,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "БСП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 24,
+     "norm_start": 0,
+     "norm_end": 24,
+     "norm_text": "Я хочу покончить с собой"
+    },
+    {
+     "start": 26,
+     "end": 41,
+     "norm_start": 26,
+     "norm_end": 40,
+     "norm_text": "это невыносимо"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "БСП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 24,
+     "norm_start": 0,
+     "norm_end": 24,
+     "norm_text": "Я хочу покончить с собой"
+    },
+    {
+     "start": 26,
+     "end": 40,
+     "norm_start": 26,
+     "norm_end": 40,
+     "norm_text": "это невыносимо"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "Не сложное",
+   "spans": [
+    {
+     "start": 0,
+     "end": 41,
+     "norm_start": 0,
+     "norm_end": 40,
+     "norm_text": "Я хочу покончить с собой, это невыносимо"
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,59 @@
+{
+ "task_idx": 141,
+ "text": "Я в проблемах, без образования, по уши в долгах.",
+ "stratum": "presuicidal_multilabel_bsp",
+ "data_id": "12662f04f8b84525a7b34ee12100c0ef-2",
+ "n_tokens": 12,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "Не сложное",
+   "spans": [
+    {
+     "start": 0,
+     "end": 48,
+     "norm_start": 0,
+     "norm_end": 47,
+     "norm_text": "Я в проблемах, без образования, по уши в долгах"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "БСП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 13,
+     "norm_start": 0,
+     "norm_end": 13,
+     "norm_text": "Я в проблемах"
+    },
+    {
+     "start": 15,
+     "end": 30,
+     "norm_start": 15,
+     "norm_end": 30,
+     "norm_text": "без образования"
+    },
+    {
+     "start": 32,
+     "end": 47,
+     "norm_start": 32,
+     "norm_end": 47,
+     "norm_text": "по уши в долгах"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "Не сложное",
+   "spans": [
+    {
+     "start": 0,
+     "end": 48,
+     "norm_start": 0,
+     "norm_end": 47,
+     "norm_text": "Я в проблемах, без образования, по уши в долгах"
+    }
+   ]
+  }
+ }
+}

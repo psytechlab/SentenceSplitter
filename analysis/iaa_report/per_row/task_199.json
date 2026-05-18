@@ -1,0 +1,374 @@
+{
+ "task_idx": 199,
+ "text": "я без него не знаю как дышать, у меня мысли суицидные каждую секунду, я звоню ему он меня везде заблокировал просто все ходы связи перекрыл, мы расставались раньше на один месяц но тогда я чувствовала себя уверенно, а сейчас нет я не могу у меня истерика, я не могу существовать без него мы буквально вчера с ним смеялись нам было хорошо, а сейчас он не хочет меня слышать знать, а тут ещё эта учеба, не хочу без него жить хочу покончить с собой может тогда он поймёт как я его люблю.",
+ "stratum": "presuicidal_multilabel_conj",
+ "data_id": "08802f83d5ea4ec9bdf9d5a312fa976e-3",
+ "n_tokens": 100,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 29,
+     "norm_start": 0,
+     "norm_end": 29,
+     "norm_text": "я без него не знаю как дышать"
+    },
+    {
+     "start": 31,
+     "end": 68,
+     "norm_start": 31,
+     "norm_end": 68,
+     "norm_text": "у меня мысли суицидные каждую секунду"
+    },
+    {
+     "start": 70,
+     "end": 81,
+     "norm_start": 70,
+     "norm_end": 81,
+     "norm_text": "я звоню ему"
+    },
+    {
+     "start": 82,
+     "end": 140,
+     "norm_start": 82,
+     "norm_end": 139,
+     "norm_text": "он меня везде заблокировал просто все ходы связи перекрыл"
+    },
+    {
+     "start": 141,
+     "end": 177,
+     "norm_start": 141,
+     "norm_end": 177,
+     "norm_text": "мы расставались раньше на один месяц"
+    },
+    {
+     "start": 178,
+     "end": 214,
+     "norm_start": 178,
+     "norm_end": 214,
+     "norm_text": "но тогда я чувствовала себя уверенно"
+    },
+    {
+     "start": 216,
+     "end": 228,
+     "norm_start": 216,
+     "norm_end": 228,
+     "norm_text": "а сейчас нет"
+    },
+    {
+     "start": 229,
+     "end": 239,
+     "norm_start": 229,
+     "norm_end": 238,
+     "norm_text": "я не могу"
+    },
+    {
+     "start": 239,
+     "end": 254,
+     "norm_start": 239,
+     "norm_end": 254,
+     "norm_text": "у меня истерика"
+    },
+    {
+     "start": 256,
+     "end": 287,
+     "norm_start": 256,
+     "norm_end": 287,
+     "norm_text": "я не могу существовать без него"
+    },
+    {
+     "start": 288,
+     "end": 321,
+     "norm_start": 288,
+     "norm_end": 321,
+     "norm_text": "мы буквально вчера с ним смеялись"
+    },
+    {
+     "start": 322,
+     "end": 337,
+     "norm_start": 322,
+     "norm_end": 337,
+     "norm_text": "нам было хорошо"
+    },
+    {
+     "start": 339,
+     "end": 378,
+     "norm_start": 339,
+     "norm_end": 378,
+     "norm_text": "а сейчас он не хочет меня слышать знать"
+    },
+    {
+     "start": 380,
+     "end": 399,
+     "norm_start": 380,
+     "norm_end": 399,
+     "norm_text": "а тут ещё эта учеба"
+    },
+    {
+     "start": 401,
+     "end": 445,
+     "norm_start": 401,
+     "norm_end": 445,
+     "norm_text": "не хочу без него жить хочу покончить с собой"
+    },
+    {
+     "start": 446,
+     "end": 467,
+     "norm_start": 446,
+     "norm_end": 467,
+     "norm_text": "может тогда он поймёт"
+    },
+    {
+     "start": 468,
+     "end": 483,
+     "norm_start": 468,
+     "norm_end": 483,
+     "norm_text": "как я его люблю"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 29,
+     "norm_start": 0,
+     "norm_end": 29,
+     "norm_text": "я без него не знаю как дышать"
+    },
+    {
+     "start": 31,
+     "end": 68,
+     "norm_start": 31,
+     "norm_end": 68,
+     "norm_text": "у меня мысли суицидные каждую секунду"
+    },
+    {
+     "start": 70,
+     "end": 81,
+     "norm_start": 70,
+     "norm_end": 81,
+     "norm_text": "я звоню ему"
+    },
+    {
+     "start": 82,
+     "end": 139,
+     "norm_start": 82,
+     "norm_end": 139,
+     "norm_text": "он меня везде заблокировал просто все ходы связи перекрыл"
+    },
+    {
+     "start": 141,
+     "end": 177,
+     "norm_start": 141,
+     "norm_end": 177,
+     "norm_text": "мы расставались раньше на один месяц"
+    },
+    {
+     "start": 178,
+     "end": 214,
+     "norm_start": 178,
+     "norm_end": 214,
+     "norm_text": "но тогда я чувствовала себя уверенно"
+    },
+    {
+     "start": 216,
+     "end": 228,
+     "norm_start": 216,
+     "norm_end": 228,
+     "norm_text": "а сейчас нет"
+    },
+    {
+     "start": 229,
+     "end": 238,
+     "norm_start": 229,
+     "norm_end": 238,
+     "norm_text": "я не могу"
+    },
+    {
+     "start": 239,
+     "end": 254,
+     "norm_start": 239,
+     "norm_end": 254,
+     "norm_text": "у меня истерика"
+    },
+    {
+     "start": 256,
+     "end": 287,
+     "norm_start": 256,
+     "norm_end": 287,
+     "norm_text": "я не могу существовать без него"
+    },
+    {
+     "start": 288,
+     "end": 321,
+     "norm_start": 288,
+     "norm_end": 321,
+     "norm_text": "мы буквально вчера с ним смеялись"
+    },
+    {
+     "start": 322,
+     "end": 337,
+     "norm_start": 322,
+     "norm_end": 337,
+     "norm_text": "нам было хорошо"
+    },
+    {
+     "start": 339,
+     "end": 378,
+     "norm_start": 339,
+     "norm_end": 378,
+     "norm_text": "а сейчас он не хочет меня слышать знать"
+    },
+    {
+     "start": 380,
+     "end": 399,
+     "norm_start": 380,
+     "norm_end": 399,
+     "norm_text": "а тут ещё эта учеба"
+    },
+    {
+     "start": 401,
+     "end": 422,
+     "norm_start": 401,
+     "norm_end": 422,
+     "norm_text": "не хочу без него жить"
+    },
+    {
+     "start": 423,
+     "end": 445,
+     "norm_start": 423,
+     "norm_end": 445,
+     "norm_text": "хочу покончить с собой"
+    },
+    {
+     "start": 446,
+     "end": 467,
+     "norm_start": 446,
+     "norm_end": 467,
+     "norm_text": "может тогда он поймёт"
+    },
+    {
+     "start": 468,
+     "end": 483,
+     "norm_start": 468,
+     "norm_end": 483,
+     "norm_text": "как я его люблю"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 69,
+     "norm_start": 0,
+     "norm_end": 68,
+     "norm_text": "я без него не знаю как дышать, у меня мысли суицидные каждую секунду"
+    },
+    {
+     "start": 70,
+     "end": 84,
+     "norm_start": 70,
+     "norm_end": 84,
+     "norm_text": "я звоню ему он"
+    },
+    {
+     "start": 84,
+     "end": 140,
+     "norm_start": 85,
+     "norm_end": 139,
+     "norm_text": "меня везде заблокировал просто все ходы связи перекрыл"
+    },
+    {
+     "start": 141,
+     "end": 177,
+     "norm_start": 141,
+     "norm_end": 177,
+     "norm_text": "мы расставались раньше на один месяц"
+    },
+    {
+     "start": 178,
+     "end": 215,
+     "norm_start": 178,
+     "norm_end": 214,
+     "norm_text": "но тогда я чувствовала себя уверенно"
+    },
+    {
+     "start": 216,
+     "end": 228,
+     "norm_start": 216,
+     "norm_end": 228,
+     "norm_text": "а сейчас нет"
+    },
+    {
+     "start": 229,
+     "end": 255,
+     "norm_start": 229,
+     "norm_end": 254,
+     "norm_text": "я не могу у меня истерика"
+    },
+    {
+     "start": 256,
+     "end": 287,
+     "norm_start": 256,
+     "norm_end": 287,
+     "norm_text": "я не могу существовать без него"
+    },
+    {
+     "start": 288,
+     "end": 321,
+     "norm_start": 288,
+     "norm_end": 321,
+     "norm_text": "мы буквально вчера с ним смеялись"
+    },
+    {
+     "start": 322,
+     "end": 338,
+     "norm_start": 322,
+     "norm_end": 337,
+     "norm_text": "нам было хорошо"
+    },
+    {
+     "start": 339,
+     "end": 379,
+     "norm_start": 339,
+     "norm_end": 378,
+     "norm_text": "а сейчас он не хочет меня слышать знать"
+    },
+    {
+     "start": 380,
+     "end": 400,
+     "norm_start": 380,
+     "norm_end": 399,
+     "norm_text": "а тут ещё эта учеба"
+    },
+    {
+     "start": 401,
+     "end": 417,
+     "norm_start": 401,
+     "norm_end": 417,
+     "norm_text": "не хочу без него"
+    },
+    {
+     "start": 418,
+     "end": 446,
+     "norm_start": 418,
+     "norm_end": 445,
+     "norm_text": "жить хочу покончить с собой"
+    },
+    {
+     "start": 446,
+     "end": 484,
+     "norm_start": 446,
+     "norm_end": 483,
+     "norm_text": "может тогда он поймёт как я его люблю"
+    }
+   ]
+  }
+ }
+}

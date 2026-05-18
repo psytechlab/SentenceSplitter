@@ -1,0 +1,101 @@
+{
+ "task_idx": 97,
+ "text": "Очевидцы рассказали в ролике, что многие чувствовали себя плохо, некоторые плакали, а кислородные маски не работали во время инцидента.",
+ "stratum": "solyanka_lenta_long",
+ "data_id": "",
+ "n_tokens": 23,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 28,
+     "norm_start": 0,
+     "norm_end": 28,
+     "norm_text": "Очевидцы рассказали в ролике"
+    },
+    {
+     "start": 30,
+     "end": 63,
+     "norm_start": 30,
+     "norm_end": 63,
+     "norm_text": "что многие чувствовали себя плохо"
+    },
+    {
+     "start": 65,
+     "end": 82,
+     "norm_start": 65,
+     "norm_end": 82,
+     "norm_text": "некоторые плакали"
+    },
+    {
+     "start": 84,
+     "end": 135,
+     "norm_start": 84,
+     "norm_end": 134,
+     "norm_text": "а кислородные маски не работали во время инцидента"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "СПП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 28,
+     "norm_start": 0,
+     "norm_end": 28,
+     "norm_text": "Очевидцы рассказали в ролике"
+    },
+    {
+     "start": 30,
+     "end": 63,
+     "norm_start": 30,
+     "norm_end": 63,
+     "norm_text": "что многие чувствовали себя плохо"
+    },
+    {
+     "start": 65,
+     "end": 82,
+     "norm_start": 65,
+     "norm_end": 82,
+     "norm_text": "некоторые плакали"
+    },
+    {
+     "start": 84,
+     "end": 134,
+     "norm_start": 84,
+     "norm_end": 134,
+     "norm_text": "а кислородные маски не работали во время инцидента"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 29,
+     "norm_start": 0,
+     "norm_end": 28,
+     "norm_text": "Очевидцы рассказали в ролике"
+    },
+    {
+     "start": 30,
+     "end": 83,
+     "norm_start": 30,
+     "norm_end": 82,
+     "norm_text": "что многие чувствовали себя плохо, некоторые плакали"
+    },
+    {
+     "start": 84,
+     "end": 135,
+     "norm_start": 84,
+     "norm_end": 134,
+     "norm_text": "а кислородные маски не работали во время инцидента"
+    }
+   ]
+  }
+ }
+}

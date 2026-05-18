@@ -1,0 +1,45 @@
+{
+ "task_idx": 88,
+ "text": "Но придя домой я разревелась, чувствуя свою ущербность.",
+ "stratum": "presuicidal_multilabel_conj",
+ "data_id": "1b77a04d466b4b00a6fd18f71ac13d9f-12",
+ "n_tokens": 10,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "Не сложное",
+   "spans": [
+    {
+     "start": 0,
+     "end": 55,
+     "norm_start": 0,
+     "norm_end": 54,
+     "norm_text": "Но придя домой я разревелась, чувствуя свою ущербность"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "Не сложное",
+   "spans": [
+    {
+     "start": 0,
+     "end": 55,
+     "norm_start": 0,
+     "norm_end": 54,
+     "norm_text": "Но придя домой я разревелась, чувствуя свою ущербность"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "Не сложное",
+   "spans": [
+    {
+     "start": 0,
+     "end": 55,
+     "norm_start": 0,
+     "norm_end": 54,
+     "norm_text": "Но придя домой я разревелась, чувствуя свою ущербность"
+    }
+   ]
+  }
+ }
+}

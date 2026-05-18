@@ -1,0 +1,66 @@
+{
+ "task_idx": 195,
+ "text": "так паршиво, когдв человек опускается на твоих глазах",
+ "stratum": "solyanka_social_media_multi",
+ "data_id": "",
+ "n_tokens": 9,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "СПП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 12,
+     "norm_start": 0,
+     "norm_end": 11,
+     "norm_text": "так паршиво"
+    },
+    {
+     "start": 13,
+     "end": 53,
+     "norm_start": 13,
+     "norm_end": 53,
+     "norm_text": "когдв человек опускается на твоих глазах"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "СПП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 11,
+     "norm_start": 0,
+     "norm_end": 11,
+     "norm_text": "так паршиво"
+    },
+    {
+     "start": 13,
+     "end": 53,
+     "norm_start": 13,
+     "norm_end": 53,
+     "norm_text": "когдв человек опускается на твоих глазах"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "СПП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 12,
+     "norm_start": 0,
+     "norm_end": 11,
+     "norm_text": "так паршиво"
+    },
+    {
+     "start": 13,
+     "end": 53,
+     "norm_start": 13,
+     "norm_end": 53,
+     "norm_text": "когдв человек опускается на твоих глазах"
+    }
+   ]
+  }
+ }
+}

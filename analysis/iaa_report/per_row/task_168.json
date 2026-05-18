@@ -1,0 +1,157 @@
+{
+ "task_idx": 168,
+ "text": "Я. особо ничего не хочу, если же вы просто попадали в такие ситуации и вы думаете что жизнь уже окончена, и не надо жить, то ответьте мне пожалуйста как с этим покончить кто сталкивался",
+ "stratum": "presuicidal_multilabel_conj",
+ "data_id": "24e7e7e7f9214539b8df973e3400d59f-1",
+ "n_tokens": 38,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 23,
+     "norm_start": 0,
+     "norm_end": 23,
+     "norm_text": "Я. особо ничего не хочу"
+    },
+    {
+     "start": 25,
+     "end": 68,
+     "norm_start": 25,
+     "norm_end": 68,
+     "norm_text": "если же вы просто попадали в такие ситуации"
+    },
+    {
+     "start": 69,
+     "end": 104,
+     "norm_start": 69,
+     "norm_end": 104,
+     "norm_text": "и вы думаете что жизнь уже окончена"
+    },
+    {
+     "start": 106,
+     "end": 121,
+     "norm_start": 106,
+     "norm_end": 120,
+     "norm_text": "и не надо жить"
+    },
+    {
+     "start": 122,
+     "end": 148,
+     "norm_start": 122,
+     "norm_end": 148,
+     "norm_text": "то ответьте мне пожалуйста"
+    },
+    {
+     "start": 149,
+     "end": 169,
+     "norm_start": 149,
+     "norm_end": 169,
+     "norm_text": "как с этим покончить"
+    },
+    {
+     "start": 170,
+     "end": 185,
+     "norm_start": 170,
+     "norm_end": 185,
+     "norm_text": "кто сталкивался"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 23,
+     "norm_start": 0,
+     "norm_end": 23,
+     "norm_text": "Я. особо ничего не хочу"
+    },
+    {
+     "start": 25,
+     "end": 68,
+     "norm_start": 25,
+     "norm_end": 68,
+     "norm_text": "если же вы просто попадали в такие ситуации"
+    },
+    {
+     "start": 69,
+     "end": 81,
+     "norm_start": 69,
+     "norm_end": 81,
+     "norm_text": "и вы думаете"
+    },
+    {
+     "start": 82,
+     "end": 104,
+     "norm_start": 82,
+     "norm_end": 104,
+     "norm_text": "что жизнь уже окончена"
+    },
+    {
+     "start": 105,
+     "end": 120,
+     "norm_start": 106,
+     "norm_end": 120,
+     "norm_text": "и не надо жить"
+    },
+    {
+     "start": 122,
+     "end": 148,
+     "norm_start": 122,
+     "norm_end": 148,
+     "norm_text": "то ответьте мне пожалуйста"
+    },
+    {
+     "start": 149,
+     "end": 169,
+     "norm_start": 149,
+     "norm_end": 169,
+     "norm_text": "как с этим покончить"
+    },
+    {
+     "start": 170,
+     "end": 185,
+     "norm_start": 170,
+     "norm_end": 185,
+     "norm_text": "кто сталкивался"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 24,
+     "norm_start": 0,
+     "norm_end": 23,
+     "norm_text": "Я. особо ничего не хочу"
+    },
+    {
+     "start": 25,
+     "end": 68,
+     "norm_start": 25,
+     "norm_end": 68,
+     "norm_text": "если же вы просто попадали в такие ситуации"
+    },
+    {
+     "start": 69,
+     "end": 121,
+     "norm_start": 69,
+     "norm_end": 120,
+     "norm_text": "и вы думаете что жизнь уже окончена, и не надо жить"
+    },
+    {
+     "start": 122,
+     "end": 185,
+     "norm_start": 122,
+     "norm_end": 185,
+     "norm_text": "то ответьте мне пожалуйста как с этим покончить кто сталкивался"
+    }
+   ]
+  }
+ }
+}

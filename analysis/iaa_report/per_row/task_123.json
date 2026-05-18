@@ -1,0 +1,101 @@
+{
+ "task_idx": 123,
+ "text": "Уже в 16 у меня появились мысли о суициде, мне не для чего жить, себя я не люблю да и мама меня тоже не любит.",
+ "stratum": "presuicidal_multilabel_conj",
+ "data_id": "24078e6e46254e3aaba8c3748cc0df76-13",
+ "n_tokens": 28,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 41,
+     "norm_start": 0,
+     "norm_end": 41,
+     "norm_text": "Уже в 16 у меня появились мысли о суициде"
+    },
+    {
+     "start": 43,
+     "end": 63,
+     "norm_start": 43,
+     "norm_end": 63,
+     "norm_text": "мне не для чего жить"
+    },
+    {
+     "start": 65,
+     "end": 109,
+     "norm_start": 65,
+     "norm_end": 109,
+     "norm_text": "себя я не люблю да и мама меня тоже не любит"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 41,
+     "norm_start": 0,
+     "norm_end": 41,
+     "norm_text": "Уже в 16 у меня появились мысли о суициде"
+    },
+    {
+     "start": 43,
+     "end": 63,
+     "norm_start": 43,
+     "norm_end": 63,
+     "norm_text": "мне не для чего жить"
+    },
+    {
+     "start": 65,
+     "end": 80,
+     "norm_start": 65,
+     "norm_end": 80,
+     "norm_text": "себя я не люблю"
+    },
+    {
+     "start": 81,
+     "end": 109,
+     "norm_start": 81,
+     "norm_end": 109,
+     "norm_text": "да и мама меня тоже не любит"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 42,
+     "norm_start": 0,
+     "norm_end": 41,
+     "norm_text": "Уже в 16 у меня появились мысли о суициде"
+    },
+    {
+     "start": 43,
+     "end": 64,
+     "norm_start": 43,
+     "norm_end": 63,
+     "norm_text": "мне не для чего жить"
+    },
+    {
+     "start": 65,
+     "end": 80,
+     "norm_start": 65,
+     "norm_end": 80,
+     "norm_text": "себя я не люблю"
+    },
+    {
+     "start": 81,
+     "end": 110,
+     "norm_start": 81,
+     "norm_end": 109,
+     "norm_text": "да и мама меня тоже не любит"
+    }
+   ]
+  }
+ }
+}

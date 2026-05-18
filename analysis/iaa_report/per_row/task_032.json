@@ -1,0 +1,94 @@
+{
+ "task_idx": 32,
+ "text": "Единственная мысль, которая всегда со мной, никогда не покидает меня она, а мысль эта о самоубийстве.",
+ "stratum": "presuicidal_monolabel_long",
+ "data_id": "a6b62a903b2e4669b4363ae1db19ca08-3",
+ "n_tokens": 20,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 18,
+     "norm_start": 0,
+     "norm_end": 18,
+     "norm_text": "Единственная мысль"
+    },
+    {
+     "start": 20,
+     "end": 72,
+     "norm_start": 20,
+     "norm_end": 72,
+     "norm_text": "которая всегда со мной, никогда не покидает меня она"
+    },
+    {
+     "start": 74,
+     "end": 101,
+     "norm_start": 74,
+     "norm_end": 100,
+     "norm_text": "а мысль эта о самоубийстве"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 18,
+     "norm_start": 0,
+     "norm_end": 18,
+     "norm_text": "Единственная мысль"
+    },
+    {
+     "start": 20,
+     "end": 42,
+     "norm_start": 20,
+     "norm_end": 42,
+     "norm_text": "которая всегда со мной"
+    },
+    {
+     "start": 44,
+     "end": 72,
+     "norm_start": 44,
+     "norm_end": 72,
+     "norm_text": "никогда не покидает меня она"
+    },
+    {
+     "start": 74,
+     "end": 100,
+     "norm_start": 74,
+     "norm_end": 100,
+     "norm_text": "а мысль эта о самоубийстве"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 19,
+     "norm_start": 0,
+     "norm_end": 18,
+     "norm_text": "Единственная мысль"
+    },
+    {
+     "start": 20,
+     "end": 73,
+     "norm_start": 20,
+     "norm_end": 72,
+     "norm_text": "которая всегда со мной, никогда не покидает меня она"
+    },
+    {
+     "start": 74,
+     "end": 101,
+     "norm_start": 74,
+     "norm_end": 100,
+     "norm_text": "а мысль эта о самоубийстве"
+    }
+   ]
+  }
+ }
+}

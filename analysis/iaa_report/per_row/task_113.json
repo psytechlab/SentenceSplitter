@@ -1,0 +1,129 @@
+{
+ "task_idx": 113,
+ "text": "Создавать семью не имеет смысла, ибо дети, которых я любить все равно никогда не буду, умрут, как и я, а все что материально, конечно же, не вечно.",
+ "stratum": "presuicidal_monolabel_long",
+ "data_id": "28a29048bbc54b8a9257308329a4da48-13",
+ "n_tokens": 35,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 32,
+     "norm_start": 0,
+     "norm_end": 31,
+     "norm_text": "Создавать семью не имеет смысла"
+    },
+    {
+     "start": 33,
+     "end": 41,
+     "norm_start": 33,
+     "norm_end": 41,
+     "norm_text": "ибо дети"
+    },
+    {
+     "start": 43,
+     "end": 85,
+     "norm_start": 43,
+     "norm_end": 85,
+     "norm_text": "которых я любить все равно никогда не буду"
+    },
+    {
+     "start": 87,
+     "end": 101,
+     "norm_start": 87,
+     "norm_end": 101,
+     "norm_text": "умрут, как и я"
+    },
+    {
+     "start": 103,
+     "end": 147,
+     "norm_start": 103,
+     "norm_end": 146,
+     "norm_text": "а все что материально, конечно же, не вечно"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 31,
+     "norm_start": 0,
+     "norm_end": 31,
+     "norm_text": "Создавать семью не имеет смысла"
+    },
+    {
+     "start": 33,
+     "end": 41,
+     "norm_start": 33,
+     "norm_end": 41,
+     "norm_text": "ибо дети"
+    },
+    {
+     "start": 43,
+     "end": 85,
+     "norm_start": 43,
+     "norm_end": 85,
+     "norm_text": "которых я любить все равно никогда не буду"
+    },
+    {
+     "start": 87,
+     "end": 101,
+     "norm_start": 87,
+     "norm_end": 101,
+     "norm_text": "умрут, как и я"
+    },
+    {
+     "start": 103,
+     "end": 146,
+     "norm_start": 103,
+     "norm_end": 146,
+     "norm_text": "а все что материально, конечно же, не вечно"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 32,
+     "norm_start": 0,
+     "norm_end": 31,
+     "norm_text": "Создавать семью не имеет смысла"
+    },
+    {
+     "start": 33,
+     "end": 42,
+     "norm_start": 33,
+     "norm_end": 41,
+     "norm_text": "ибо дети"
+    },
+    {
+     "start": 43,
+     "end": 86,
+     "norm_start": 43,
+     "norm_end": 85,
+     "norm_text": "которых я любить все равно никогда не буду"
+    },
+    {
+     "start": 87,
+     "end": 102,
+     "norm_start": 87,
+     "norm_end": 101,
+     "norm_text": "умрут, как и я"
+    },
+    {
+     "start": 103,
+     "end": 147,
+     "norm_start": 103,
+     "norm_end": 146,
+     "norm_text": "а все что материально, конечно же, не вечно"
+    }
+   ]
+  }
+ }
+}

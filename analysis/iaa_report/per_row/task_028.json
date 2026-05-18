@@ -1,0 +1,164 @@
+{
+ "task_idx": 28,
+ "text": "Друзей не особо много, поэтому не думаю, что с моим уходом они будут сильно горевать, мать говори, что я одна сплошная ошибка и то, что рада беременности, так как это ребёнок будет лучше.",
+ "stratum": "presuicidal_monolabel_long",
+ "data_id": "0c03a6e93c1b4ee585ab6e3b8e0b721f-4",
+ "n_tokens": 40,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 21,
+     "norm_start": 0,
+     "norm_end": 21,
+     "norm_text": "Друзей не особо много"
+    },
+    {
+     "start": 23,
+     "end": 39,
+     "norm_start": 23,
+     "norm_end": 39,
+     "norm_text": "поэтому не думаю"
+    },
+    {
+     "start": 41,
+     "end": 84,
+     "norm_start": 41,
+     "norm_end": 84,
+     "norm_text": "что с моим уходом они будут сильно горевать"
+    },
+    {
+     "start": 86,
+     "end": 97,
+     "norm_start": 86,
+     "norm_end": 97,
+     "norm_text": "мать говори"
+    },
+    {
+     "start": 99,
+     "end": 125,
+     "norm_start": 99,
+     "norm_end": 125,
+     "norm_text": "что я одна сплошная ошибка"
+    },
+    {
+     "start": 126,
+     "end": 153,
+     "norm_start": 126,
+     "norm_end": 153,
+     "norm_text": "и то, что рада беременности"
+    },
+    {
+     "start": 155,
+     "end": 187,
+     "norm_start": 155,
+     "norm_end": 186,
+     "norm_text": "так как это ребёнок будет лучше"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 21,
+     "norm_start": 0,
+     "norm_end": 21,
+     "norm_text": "Друзей не особо много"
+    },
+    {
+     "start": 23,
+     "end": 39,
+     "norm_start": 23,
+     "norm_end": 39,
+     "norm_text": "поэтому не думаю"
+    },
+    {
+     "start": 41,
+     "end": 84,
+     "norm_start": 41,
+     "norm_end": 84,
+     "norm_text": "что с моим уходом они будут сильно горевать"
+    },
+    {
+     "start": 86,
+     "end": 97,
+     "norm_start": 86,
+     "norm_end": 97,
+     "norm_text": "мать говори"
+    },
+    {
+     "start": 99,
+     "end": 130,
+     "norm_start": 99,
+     "norm_end": 130,
+     "norm_text": "что я одна сплошная ошибка и то"
+    },
+    {
+     "start": 132,
+     "end": 153,
+     "norm_start": 132,
+     "norm_end": 153,
+     "norm_text": "что рада беременности"
+    },
+    {
+     "start": 155,
+     "end": 186,
+     "norm_start": 155,
+     "norm_end": 186,
+     "norm_text": "так как это ребёнок будет лучше"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 23,
+     "end": 40,
+     "norm_start": 23,
+     "norm_end": 39,
+     "norm_text": "поэтому не думаю"
+    },
+    {
+     "start": 41,
+     "end": 85,
+     "norm_start": 41,
+     "norm_end": 84,
+     "norm_text": "что с моим уходом они будут сильно горевать"
+    },
+    {
+     "start": 86,
+     "end": 98,
+     "norm_start": 86,
+     "norm_end": 97,
+     "norm_text": "мать говори"
+    },
+    {
+     "start": 99,
+     "end": 131,
+     "norm_start": 99,
+     "norm_end": 130,
+     "norm_text": "что я одна сплошная ошибка и то"
+    },
+    {
+     "start": 132,
+     "end": 154,
+     "norm_start": 132,
+     "norm_end": 153,
+     "norm_text": "что рада беременности"
+    },
+    {
+     "start": 155,
+     "end": 187,
+     "norm_start": 155,
+     "norm_end": 186,
+     "norm_text": "так как это ребёнок будет лучше"
+    }
+   ]
+  }
+ }
+}

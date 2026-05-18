@@ -1,0 +1,66 @@
+{
+ "task_idx": 176,
+ "text": "и мне кажется теперь, что яникогда не поправлюсь.",
+ "stratum": "presuicidal_multilabel_conj",
+ "data_id": "ecd955aab51f4e4098f317c5eedad4e5-33",
+ "n_tokens": 10,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "СПП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 20,
+     "norm_start": 0,
+     "norm_end": 20,
+     "norm_text": "и мне кажется теперь"
+    },
+    {
+     "start": 22,
+     "end": 48,
+     "norm_start": 22,
+     "norm_end": 48,
+     "norm_text": "что яникогда не поправлюсь"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "СПП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 20,
+     "norm_start": 0,
+     "norm_end": 20,
+     "norm_text": "и мне кажется теперь"
+    },
+    {
+     "start": 22,
+     "end": 48,
+     "norm_start": 22,
+     "norm_end": 48,
+     "norm_text": "что яникогда не поправлюсь"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "СПП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 21,
+     "norm_start": 0,
+     "norm_end": 20,
+     "norm_text": "и мне кажется теперь"
+    },
+    {
+     "start": 22,
+     "end": 49,
+     "norm_start": 22,
+     "norm_end": 48,
+     "norm_text": "что яникогда не поправлюсь"
+    }
+   ]
+  }
+ }
+}

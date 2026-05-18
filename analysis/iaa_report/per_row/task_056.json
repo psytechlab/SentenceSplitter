@@ -1,0 +1,45 @@
+{
+ "task_idx": 56,
+ "text": "Мне очень нравились эти профессии.",
+ "stratum": "presuicidal_short_simple",
+ "data_id": "6a1d9c76352f4ab7953156d7eb8b0519-32",
+ "n_tokens": 6,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "Не сложное",
+   "spans": [
+    {
+     "start": 0,
+     "end": 34,
+     "norm_start": 0,
+     "norm_end": 33,
+     "norm_text": "Мне очень нравились эти профессии"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "Не сложное",
+   "spans": [
+    {
+     "start": 0,
+     "end": 33,
+     "norm_start": 0,
+     "norm_end": 33,
+     "norm_text": "Мне очень нравились эти профессии"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "Не сложное",
+   "spans": [
+    {
+     "start": 0,
+     "end": 34,
+     "norm_start": 0,
+     "norm_end": 33,
+     "norm_text": "Мне очень нравились эти профессии"
+    }
+   ]
+  }
+ }
+}

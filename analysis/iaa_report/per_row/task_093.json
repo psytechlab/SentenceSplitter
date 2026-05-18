@@ -1,0 +1,45 @@
+{
+ "task_idx": 93,
+ "text": "Окей, все таки мне нравится эта перчаточка",
+ "stratum": "presuicidal_short_simple",
+ "data_id": "d99d9f8912a24651a1ba616d8b1c04d5-0",
+ "n_tokens": 8,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "Не сложное",
+   "spans": [
+    {
+     "start": 0,
+     "end": 42,
+     "norm_start": 0,
+     "norm_end": 42,
+     "norm_text": "Окей, все таки мне нравится эта перчаточка"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "Не сложное",
+   "spans": [
+    {
+     "start": 0,
+     "end": 42,
+     "norm_start": 0,
+     "norm_end": 42,
+     "norm_text": "Окей, все таки мне нравится эта перчаточка"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "Не сложное",
+   "spans": [
+    {
+     "start": 0,
+     "end": 42,
+     "norm_start": 0,
+     "norm_end": 42,
+     "norm_text": "Окей, все таки мне нравится эта перчаточка"
+    }
+   ]
+  }
+ }
+}

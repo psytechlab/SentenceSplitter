@@ -1,0 +1,262 @@
+{
+ "task_idx": 70,
+ "text": "Мысли о смерти посещают меня с 15 лет, я много думаю о том, что смысла в жизни нет, потому что я разочаровалась в ней, живу не знаю для чего, просто понимаю, что дальше темно и лучше уже не будет, я постоянно нахожусь дома, потому что не с кем куда-то сходить, да еще как-то спасает работа, но все равно с нее нужно возвращаться в съемное жилье, а там никто не ждет.",
+ "stratum": "presuicidal_multilabel_conj",
+ "data_id": "34052a0dcc1945d4988c5c723bec1f2c-5",
+ "n_tokens": 82,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 37,
+     "norm_start": 0,
+     "norm_end": 37,
+     "norm_text": "Мысли о смерти посещают меня с 15 лет"
+    },
+    {
+     "start": 39,
+     "end": 58,
+     "norm_start": 39,
+     "norm_end": 58,
+     "norm_text": "я много думаю о том"
+    },
+    {
+     "start": 60,
+     "end": 82,
+     "norm_start": 60,
+     "norm_end": 82,
+     "norm_text": "что смысла в жизни нет"
+    },
+    {
+     "start": 84,
+     "end": 117,
+     "norm_start": 84,
+     "norm_end": 117,
+     "norm_text": "потому что я разочаровалась в ней"
+    },
+    {
+     "start": 119,
+     "end": 140,
+     "norm_start": 119,
+     "norm_end": 140,
+     "norm_text": "живу не знаю для чего"
+    },
+    {
+     "start": 142,
+     "end": 195,
+     "norm_start": 142,
+     "norm_end": 195,
+     "norm_text": "просто понимаю, что дальше темно и лучше уже не будет"
+    },
+    {
+     "start": 197,
+     "end": 223,
+     "norm_start": 197,
+     "norm_end": 222,
+     "norm_text": "я постоянно нахожусь дома"
+    },
+    {
+     "start": 224,
+     "end": 259,
+     "norm_start": 224,
+     "norm_end": 259,
+     "norm_text": "потому что не с кем куда-то сходить"
+    },
+    {
+     "start": 261,
+     "end": 289,
+     "norm_start": 261,
+     "norm_end": 289,
+     "norm_text": "да еще как-то спасает работа"
+    },
+    {
+     "start": 291,
+     "end": 344,
+     "norm_start": 291,
+     "norm_end": 344,
+     "norm_text": "но все равно с нее нужно возвращаться в съемное жилье"
+    },
+    {
+     "start": 346,
+     "end": 366,
+     "norm_start": 346,
+     "norm_end": 365,
+     "norm_text": "а там никто не ждет"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 37,
+     "norm_start": 0,
+     "norm_end": 37,
+     "norm_text": "Мысли о смерти посещают меня с 15 лет"
+    },
+    {
+     "start": 39,
+     "end": 58,
+     "norm_start": 39,
+     "norm_end": 58,
+     "norm_text": "я много думаю о том"
+    },
+    {
+     "start": 60,
+     "end": 82,
+     "norm_start": 60,
+     "norm_end": 82,
+     "norm_text": "что смысла в жизни нет"
+    },
+    {
+     "start": 84,
+     "end": 117,
+     "norm_start": 84,
+     "norm_end": 117,
+     "norm_text": "потому что я разочаровалась в ней"
+    },
+    {
+     "start": 119,
+     "end": 140,
+     "norm_start": 119,
+     "norm_end": 140,
+     "norm_text": "живу не знаю для чего"
+    },
+    {
+     "start": 142,
+     "end": 195,
+     "norm_start": 142,
+     "norm_end": 195,
+     "norm_text": "просто понимаю, что дальше темно и лучше уже не будет"
+    },
+    {
+     "start": 197,
+     "end": 222,
+     "norm_start": 197,
+     "norm_end": 222,
+     "norm_text": "я постоянно нахожусь дома"
+    },
+    {
+     "start": 224,
+     "end": 259,
+     "norm_start": 224,
+     "norm_end": 259,
+     "norm_text": "потому что не с кем куда-то сходить"
+    },
+    {
+     "start": 261,
+     "end": 289,
+     "norm_start": 261,
+     "norm_end": 289,
+     "norm_text": "да еще как-то спасает работа"
+    },
+    {
+     "start": 291,
+     "end": 344,
+     "norm_start": 291,
+     "norm_end": 344,
+     "norm_text": "но все равно с нее нужно возвращаться в съемное жилье"
+    },
+    {
+     "start": 346,
+     "end": 365,
+     "norm_start": 346,
+     "norm_end": 365,
+     "norm_text": "а там никто не ждет"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "СПП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 38,
+     "norm_start": 0,
+     "norm_end": 37,
+     "norm_text": "Мысли о смерти посещают меня с 15 лет"
+    },
+    {
+     "start": 39,
+     "end": 59,
+     "norm_start": 39,
+     "norm_end": 58,
+     "norm_text": "я много думаю о том"
+    },
+    {
+     "start": 60,
+     "end": 84,
+     "norm_start": 60,
+     "norm_end": 82,
+     "norm_text": "что смысла в жизни нет"
+    },
+    {
+     "start": 84,
+     "end": 118,
+     "norm_start": 84,
+     "norm_end": 117,
+     "norm_text": "потому что я разочаровалась в ней"
+    },
+    {
+     "start": 119,
+     "end": 141,
+     "norm_start": 119,
+     "norm_end": 140,
+     "norm_text": "живу не знаю для чего"
+    },
+    {
+     "start": 142,
+     "end": 157,
+     "norm_start": 142,
+     "norm_end": 156,
+     "norm_text": "просто понимаю"
+    },
+    {
+     "start": 158,
+     "end": 196,
+     "norm_start": 158,
+     "norm_end": 195,
+     "norm_text": "что дальше темно и лучше уже не будет"
+    },
+    {
+     "start": 197,
+     "end": 223,
+     "norm_start": 197,
+     "norm_end": 222,
+     "norm_text": "я постоянно нахожусь дома"
+    },
+    {
+     "start": 224,
+     "end": 260,
+     "norm_start": 224,
+     "norm_end": 259,
+     "norm_text": "потому что не с кем куда-то сходить"
+    },
+    {
+     "start": 261,
+     "end": 290,
+     "norm_start": 261,
+     "norm_end": 289,
+     "norm_text": "да еще как-то спасает работа"
+    },
+    {
+     "start": 291,
+     "end": 345,
+     "norm_start": 291,
+     "norm_end": 344,
+     "norm_text": "но все равно с нее нужно возвращаться в съемное жилье"
+    },
+    {
+     "start": 346,
+     "end": 366,
+     "norm_start": 346,
+     "norm_end": 365,
+     "norm_text": "а там никто не ждет"
+    }
+   ]
+  }
+ }
+}

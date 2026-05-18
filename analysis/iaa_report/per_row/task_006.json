@@ -1,0 +1,129 @@
+{
+ "task_idx": 6,
+ "text": "А еще на фото моего класса на пиксельный фотик Мне сегодня 17, и я этого совсем не ощущаю, это странно чуть-чуть Но в целом день был чудесным!",
+ "stratum": "presuicidal_monolabel_long",
+ "data_id": "2d8d7c8e27cd4f38ad899f4b50a3b376-1",
+ "n_tokens": 30,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 47,
+     "norm_start": 0,
+     "norm_end": 46,
+     "norm_text": "А еще на фото моего класса на пиксельный фотик"
+    },
+    {
+     "start": 47,
+     "end": 61,
+     "norm_start": 47,
+     "norm_end": 61,
+     "norm_text": "Мне сегодня 17"
+    },
+    {
+     "start": 63,
+     "end": 89,
+     "norm_start": 63,
+     "norm_end": 89,
+     "norm_text": "и я этого совсем не ощущаю"
+    },
+    {
+     "start": 91,
+     "end": 112,
+     "norm_start": 91,
+     "norm_end": 112,
+     "norm_text": "это странно чуть-чуть"
+    },
+    {
+     "start": 113,
+     "end": 142,
+     "norm_start": 113,
+     "norm_end": 141,
+     "norm_text": "Но в целом день был чудесным"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 46,
+     "norm_start": 0,
+     "norm_end": 46,
+     "norm_text": "А еще на фото моего класса на пиксельный фотик"
+    },
+    {
+     "start": 47,
+     "end": 61,
+     "norm_start": 47,
+     "norm_end": 61,
+     "norm_text": "Мне сегодня 17"
+    },
+    {
+     "start": 63,
+     "end": 89,
+     "norm_start": 63,
+     "norm_end": 89,
+     "norm_text": "и я этого совсем не ощущаю"
+    },
+    {
+     "start": 91,
+     "end": 112,
+     "norm_start": 91,
+     "norm_end": 112,
+     "norm_text": "это странно чуть-чуть"
+    },
+    {
+     "start": 113,
+     "end": 141,
+     "norm_start": 113,
+     "norm_end": 141,
+     "norm_text": "Но в целом день был чудесным"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 46,
+     "norm_start": 0,
+     "norm_end": 46,
+     "norm_text": "А еще на фото моего класса на пиксельный фотик"
+    },
+    {
+     "start": 47,
+     "end": 61,
+     "norm_start": 47,
+     "norm_end": 61,
+     "norm_text": "Мне сегодня 17"
+    },
+    {
+     "start": 63,
+     "end": 90,
+     "norm_start": 63,
+     "norm_end": 89,
+     "norm_text": "и я этого совсем не ощущаю"
+    },
+    {
+     "start": 91,
+     "end": 112,
+     "norm_start": 91,
+     "norm_end": 112,
+     "norm_text": "это странно чуть-чуть"
+    },
+    {
+     "start": 113,
+     "end": 142,
+     "norm_start": 113,
+     "norm_end": 141,
+     "norm_text": "Но в целом день был чудесным"
+    }
+   ]
+  }
+ }
+}

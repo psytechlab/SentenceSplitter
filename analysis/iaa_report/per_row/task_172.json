@@ -1,0 +1,87 @@
+{
+ "task_idx": 172,
+ "text": "боюсь, родители не отпустят меня в питер. хотя похоже всё так и будет :с",
+ "stratum": "solyanka_social_media_multi",
+ "data_id": "",
+ "n_tokens": 17,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 6,
+     "norm_start": 0,
+     "norm_end": 5,
+     "norm_text": "боюсь"
+    },
+    {
+     "start": 7,
+     "end": 41,
+     "norm_start": 7,
+     "norm_end": 40,
+     "norm_text": "родители не отпустят меня в питер"
+    },
+    {
+     "start": 42,
+     "end": 72,
+     "norm_start": 42,
+     "norm_end": 72,
+     "norm_text": "хотя похоже всё так и будет :с"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 5,
+     "norm_start": 0,
+     "norm_end": 5,
+     "norm_text": "боюсь"
+    },
+    {
+     "start": 7,
+     "end": 40,
+     "norm_start": 7,
+     "norm_end": 40,
+     "norm_text": "родители не отпустят меня в питер"
+    },
+    {
+     "start": 42,
+     "end": 69,
+     "norm_start": 42,
+     "norm_end": 69,
+     "norm_text": "хотя похоже всё так и будет"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "СПП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 6,
+     "norm_start": 0,
+     "norm_end": 5,
+     "norm_text": "боюсь"
+    },
+    {
+     "start": 7,
+     "end": 41,
+     "norm_start": 7,
+     "norm_end": 40,
+     "norm_text": "родители не отпустят меня в питер"
+    },
+    {
+     "start": 42,
+     "end": 72,
+     "norm_start": 42,
+     "norm_end": 72,
+     "norm_text": "хотя похоже всё так и будет :с"
+    }
+   ]
+  }
+ }
+}

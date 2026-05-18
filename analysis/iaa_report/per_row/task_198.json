@@ -1,0 +1,45 @@
+{
+ "task_idx": 198,
+ "text": "экономика душит меня! !!",
+ "stratum": "solyanka_social_media_multi",
+ "data_id": "",
+ "n_tokens": 5,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "Не сложное",
+   "spans": [
+    {
+     "start": 0,
+     "end": 24,
+     "norm_start": 0,
+     "norm_end": 20,
+     "norm_text": "экономика душит меня"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "Не сложное",
+   "spans": [
+    {
+     "start": 0,
+     "end": 20,
+     "norm_start": 0,
+     "norm_end": 20,
+     "norm_text": "экономика душит меня"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "Не сложное",
+   "spans": [
+    {
+     "start": 0,
+     "end": 24,
+     "norm_start": 0,
+     "norm_end": 20,
+     "norm_text": "экономика душит меня"
+    }
+   ]
+  }
+ }
+}

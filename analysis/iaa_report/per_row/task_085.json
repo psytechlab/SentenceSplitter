@@ -1,0 +1,101 @@
+{
+ "task_idx": 85,
+ "text": "Ненавижу( все достали даже своё дэрэ отпраздновать боюсь да я всего боюссь(((",
+ "stratum": "other",
+ "data_id": "",
+ "n_tokens": 16,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "БСП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 9,
+     "norm_start": 0,
+     "norm_end": 8,
+     "norm_text": "Ненавижу"
+    },
+    {
+     "start": 10,
+     "end": 21,
+     "norm_start": 10,
+     "norm_end": 21,
+     "norm_text": "все достали"
+    },
+    {
+     "start": 22,
+     "end": 56,
+     "norm_start": 22,
+     "norm_end": 56,
+     "norm_text": "даже своё дэрэ отпраздновать боюсь"
+    },
+    {
+     "start": 57,
+     "end": 77,
+     "norm_start": 57,
+     "norm_end": 74,
+     "norm_text": "да я всего боюссь"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "БСП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 8,
+     "norm_start": 0,
+     "norm_end": 8,
+     "norm_text": "Ненавижу"
+    },
+    {
+     "start": 10,
+     "end": 21,
+     "norm_start": 10,
+     "norm_end": 21,
+     "norm_text": "все достали"
+    },
+    {
+     "start": 22,
+     "end": 56,
+     "norm_start": 22,
+     "norm_end": 56,
+     "norm_text": "даже своё дэрэ отпраздновать боюсь"
+    },
+    {
+     "start": 57,
+     "end": 74,
+     "norm_start": 57,
+     "norm_end": 74,
+     "norm_text": "да я всего боюссь"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "БСП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 8,
+     "norm_start": 0,
+     "norm_end": 8,
+     "norm_text": "Ненавижу"
+    },
+    {
+     "start": 9,
+     "end": 21,
+     "norm_start": 10,
+     "norm_end": 21,
+     "norm_text": "все достали"
+    },
+    {
+     "start": 22,
+     "end": 74,
+     "norm_start": 22,
+     "norm_end": 74,
+     "norm_text": "даже своё дэрэ отпраздновать боюсь да я всего боюссь"
+    }
+   ]
+  }
+ }
+}

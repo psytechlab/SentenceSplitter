@@ -1,0 +1,94 @@
+{
+ "task_idx": 18,
+ "text": "Вижу счастливые картины мира где меня никогда не было, прописываю всё до мелочей, портреты, характеры, случаи и всё лучше чем со мной!",
+ "stratum": "presuicidal_monolabel_long",
+ "data_id": "e962ad886ced454db3b6b14461a6046d-84",
+ "n_tokens": 27,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "СПП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 28,
+     "norm_start": 0,
+     "norm_end": 28,
+     "norm_text": "Вижу счастливые картины мира"
+    },
+    {
+     "start": 29,
+     "end": 53,
+     "norm_start": 29,
+     "norm_end": 53,
+     "norm_text": "где меня никогда не было"
+    },
+    {
+     "start": 55,
+     "end": 134,
+     "norm_start": 55,
+     "norm_end": 133,
+     "norm_text": "прописываю всё до мелочей, портреты, характеры, случаи и всё лучше чем со мной"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 28,
+     "norm_start": 0,
+     "norm_end": 28,
+     "norm_text": "Вижу счастливые картины мира"
+    },
+    {
+     "start": 29,
+     "end": 53,
+     "norm_start": 29,
+     "norm_end": 53,
+     "norm_text": "где меня никогда не было"
+    },
+    {
+     "start": 55,
+     "end": 109,
+     "norm_start": 55,
+     "norm_end": 109,
+     "norm_text": "прописываю всё до мелочей, портреты, характеры, случаи"
+    },
+    {
+     "start": 110,
+     "end": 133,
+     "norm_start": 110,
+     "norm_end": 133,
+     "norm_text": "и всё лучше чем со мной"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 28,
+     "norm_start": 0,
+     "norm_end": 28,
+     "norm_text": "Вижу счастливые картины мира"
+    },
+    {
+     "start": 29,
+     "end": 54,
+     "norm_start": 29,
+     "norm_end": 53,
+     "norm_text": "где меня никогда не было"
+    },
+    {
+     "start": 55,
+     "end": 134,
+     "norm_start": 55,
+     "norm_end": 133,
+     "norm_text": "прописываю всё до мелочей, портреты, характеры, случаи и всё лучше чем со мной"
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,66 @@
+{
+ "task_idx": 147,
+ "text": "Я люблю одного человека, вместе с которым мы уже три года.",
+ "stratum": "presuicidal_multilabel_bsp",
+ "data_id": "03445cc8f5134db9a71a4c35cfa201e2-9",
+ "n_tokens": 13,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "СПП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 23,
+     "norm_start": 0,
+     "norm_end": 23,
+     "norm_text": "Я люблю одного человека"
+    },
+    {
+     "start": 25,
+     "end": 58,
+     "norm_start": 25,
+     "norm_end": 57,
+     "norm_text": "вместе с которым мы уже три года"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "СПП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 23,
+     "norm_start": 0,
+     "norm_end": 23,
+     "norm_text": "Я люблю одного человека"
+    },
+    {
+     "start": 25,
+     "end": 57,
+     "norm_start": 25,
+     "norm_end": 57,
+     "norm_text": "вместе с которым мы уже три года"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "СПП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 24,
+     "norm_start": 0,
+     "norm_end": 23,
+     "norm_text": "Я люблю одного человека"
+    },
+    {
+     "start": 25,
+     "end": 58,
+     "norm_start": 25,
+     "norm_end": 57,
+     "norm_text": "вместе с которым мы уже три года"
+    }
+   ]
+  }
+ }
+}

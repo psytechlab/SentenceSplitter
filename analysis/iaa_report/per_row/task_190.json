@@ -1,0 +1,101 @@
+{
+ "task_idx": 190,
+ "text": "отвратительное. спасибо сестре. огромное спасибо >< очередное воскресенье с настроением в днище. что может быть лучше?",
+ "stratum": "solyanka_social_media_multi",
+ "data_id": "",
+ "n_tokens": 21,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 15,
+     "norm_start": 0,
+     "norm_end": 14,
+     "norm_text": "отвратительное"
+    },
+    {
+     "start": 16,
+     "end": 31,
+     "norm_start": 16,
+     "norm_end": 30,
+     "norm_text": "спасибо сестре"
+    },
+    {
+     "start": 32,
+     "end": 96,
+     "norm_start": 32,
+     "norm_end": 95,
+     "norm_text": "огромное спасибо >< очередное воскресенье с настроением в днище"
+    },
+    {
+     "start": 97,
+     "end": 118,
+     "norm_start": 97,
+     "norm_end": 117,
+     "norm_text": "что может быть лучше"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "БСП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 14,
+     "norm_start": 0,
+     "norm_end": 14,
+     "norm_text": "отвратительное"
+    },
+    {
+     "start": 16,
+     "end": 30,
+     "norm_start": 16,
+     "norm_end": 30,
+     "norm_text": "спасибо сестре"
+    },
+    {
+     "start": 32,
+     "end": 48,
+     "norm_start": 32,
+     "norm_end": 48,
+     "norm_text": "огромное спасибо"
+    },
+    {
+     "start": 52,
+     "end": 95,
+     "norm_start": 52,
+     "norm_end": 95,
+     "norm_text": "очередное воскресенье с настроением в днище"
+    },
+    {
+     "start": 97,
+     "end": 117,
+     "norm_start": 97,
+     "norm_end": 117,
+     "norm_text": "что может быть лучше"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "БСП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 96,
+     "norm_start": 0,
+     "norm_end": 95,
+     "norm_text": "отвратительное. спасибо сестре. огромное спасибо >< очередное воскресенье с настроением в днище"
+    },
+    {
+     "start": 97,
+     "end": 118,
+     "norm_start": 97,
+     "norm_end": 117,
+     "norm_text": "что может быть лучше"
+    }
+   ]
+  }
+ }
+}

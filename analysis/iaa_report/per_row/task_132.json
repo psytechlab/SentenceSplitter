@@ -1,0 +1,87 @@
+{
+ "task_idx": 132,
+ "text": "Это было странное ощущение: волосы на спине, шее и лице встали дыбом», — отметил он.",
+ "stratum": "solyanka_lenta_long",
+ "data_id": "",
+ "n_tokens": 20,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 26,
+     "norm_start": 0,
+     "norm_end": 26,
+     "norm_text": "Это было странное ощущение"
+    },
+    {
+     "start": 28,
+     "end": 68,
+     "norm_start": 28,
+     "norm_end": 68,
+     "norm_text": "волосы на спине, шее и лице встали дыбом"
+    },
+    {
+     "start": 73,
+     "end": 84,
+     "norm_start": 73,
+     "norm_end": 83,
+     "norm_text": "отметил он"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "БСП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 26,
+     "norm_start": 0,
+     "norm_end": 26,
+     "norm_text": "Это было странное ощущение"
+    },
+    {
+     "start": 28,
+     "end": 68,
+     "norm_start": 28,
+     "norm_end": 68,
+     "norm_text": "волосы на спине, шее и лице встали дыбом"
+    },
+    {
+     "start": 73,
+     "end": 83,
+     "norm_start": 73,
+     "norm_end": 83,
+     "norm_text": "отметил он"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "БСП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 27,
+     "norm_start": 0,
+     "norm_end": 26,
+     "norm_text": "Это было странное ощущение"
+    },
+    {
+     "start": 28,
+     "end": 68,
+     "norm_start": 28,
+     "norm_end": 68,
+     "norm_text": "волосы на спине, шее и лице встали дыбом"
+    },
+    {
+     "start": 73,
+     "end": 83,
+     "norm_start": 73,
+     "norm_end": 83,
+     "norm_text": "отметил он"
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,87 @@
+{
+ "task_idx": 52,
+ "text": "Меня раньше как-то мало заботил мой статус, финансовое состояние и т. п. Сейчас я на самом дне, с которого можно и не подняться.",
+ "stratum": "presuicidal_monolabel_long",
+ "data_id": "85430ccb111147faa98c74ec039aae45-137",
+ "n_tokens": 28,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 71,
+     "norm_start": 0,
+     "norm_end": 71,
+     "norm_text": "Меня раньше как-то мало заботил мой статус, финансовое состояние и т. п"
+    },
+    {
+     "start": 73,
+     "end": 94,
+     "norm_start": 73,
+     "norm_end": 94,
+     "norm_text": "Сейчас я на самом дне"
+    },
+    {
+     "start": 96,
+     "end": 128,
+     "norm_start": 96,
+     "norm_end": 127,
+     "norm_text": "с которого можно и не подняться"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 72,
+     "norm_start": 0,
+     "norm_end": 71,
+     "norm_text": "Меня раньше как-то мало заботил мой статус, финансовое состояние и т. п"
+    },
+    {
+     "start": 73,
+     "end": 94,
+     "norm_start": 73,
+     "norm_end": 94,
+     "norm_text": "Сейчас я на самом дне"
+    },
+    {
+     "start": 96,
+     "end": 127,
+     "norm_start": 96,
+     "norm_end": 127,
+     "norm_text": "с которого можно и не подняться"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 72,
+     "norm_start": 0,
+     "norm_end": 71,
+     "norm_text": "Меня раньше как-то мало заботил мой статус, финансовое состояние и т. п"
+    },
+    {
+     "start": 73,
+     "end": 95,
+     "norm_start": 73,
+     "norm_end": 94,
+     "norm_text": "Сейчас я на самом дне"
+    },
+    {
+     "start": 96,
+     "end": 128,
+     "norm_start": 96,
+     "norm_end": 127,
+     "norm_text": "с которого можно и не подняться"
+    }
+   ]
+  }
+ }
+}

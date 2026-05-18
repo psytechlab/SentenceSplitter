@@ -1,0 +1,108 @@
+{
+ "task_idx": 109,
+ "text": "Родители привыкли меня опекать, мне 26 лет, но они не слышат чего хочу я, они всегда хотят навязать мне свое мнение.",
+ "stratum": "presuicidal_monolabel_long",
+ "data_id": "e4771e1bea2e459589b3f9e8b39d6998-2",
+ "n_tokens": 25,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 30,
+     "norm_start": 0,
+     "norm_end": 30,
+     "norm_text": "Родители привыкли меня опекать"
+    },
+    {
+     "start": 32,
+     "end": 42,
+     "norm_start": 32,
+     "norm_end": 42,
+     "norm_text": "мне 26 лет"
+    },
+    {
+     "start": 44,
+     "end": 72,
+     "norm_start": 44,
+     "norm_end": 72,
+     "norm_text": "но они не слышат чего хочу я"
+    },
+    {
+     "start": 74,
+     "end": 116,
+     "norm_start": 74,
+     "norm_end": 115,
+     "norm_text": "они всегда хотят навязать мне свое мнение"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 30,
+     "norm_start": 0,
+     "norm_end": 30,
+     "norm_text": "Родители привыкли меня опекать"
+    },
+    {
+     "start": 32,
+     "end": 42,
+     "norm_start": 32,
+     "norm_end": 42,
+     "norm_text": "мне 26 лет"
+    },
+    {
+     "start": 44,
+     "end": 72,
+     "norm_start": 44,
+     "norm_end": 72,
+     "norm_text": "но они не слышат чего хочу я"
+    },
+    {
+     "start": 74,
+     "end": 115,
+     "norm_start": 74,
+     "norm_end": 115,
+     "norm_text": "они всегда хотят навязать мне свое мнение"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 31,
+     "norm_start": 0,
+     "norm_end": 30,
+     "norm_text": "Родители привыкли меня опекать"
+    },
+    {
+     "start": 32,
+     "end": 43,
+     "norm_start": 32,
+     "norm_end": 42,
+     "norm_text": "мне 26 лет"
+    },
+    {
+     "start": 44,
+     "end": 73,
+     "norm_start": 44,
+     "norm_end": 72,
+     "norm_text": "но они не слышат чего хочу я"
+    },
+    {
+     "start": 74,
+     "end": 116,
+     "norm_start": 74,
+     "norm_end": 115,
+     "norm_text": "они всегда хотят навязать мне свое мнение"
+    }
+   ]
+  }
+ }
+}

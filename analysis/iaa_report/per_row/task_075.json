@@ -1,0 +1,87 @@
+{
+ "task_idx": 75,
+ "text": "Надо мной смеются даже люди, которые слабее меня, я вообще в этой жизни никто.",
+ "stratum": "presuicidal_multilabel_bsp",
+ "data_id": "9e924d21b8e54107b6a97ea252fb9351-0",
+ "n_tokens": 17,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 27,
+     "norm_start": 0,
+     "norm_end": 27,
+     "norm_text": "Надо мной смеются даже люди"
+    },
+    {
+     "start": 29,
+     "end": 48,
+     "norm_start": 29,
+     "norm_end": 48,
+     "norm_text": "которые слабее меня"
+    },
+    {
+     "start": 50,
+     "end": 78,
+     "norm_start": 50,
+     "norm_end": 77,
+     "norm_text": "я вообще в этой жизни никто"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 27,
+     "norm_start": 0,
+     "norm_end": 27,
+     "norm_text": "Надо мной смеются даже люди"
+    },
+    {
+     "start": 29,
+     "end": 48,
+     "norm_start": 29,
+     "norm_end": 48,
+     "norm_text": "которые слабее меня"
+    },
+    {
+     "start": 50,
+     "end": 77,
+     "norm_start": 50,
+     "norm_end": 77,
+     "norm_text": "я вообще в этой жизни никто"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 28,
+     "norm_start": 0,
+     "norm_end": 27,
+     "norm_text": "Надо мной смеются даже люди"
+    },
+    {
+     "start": 30,
+     "end": 49,
+     "norm_start": 30,
+     "norm_end": 48,
+     "norm_text": "оторые слабее меня"
+    },
+    {
+     "start": 50,
+     "end": 78,
+     "norm_start": 50,
+     "norm_end": 77,
+     "norm_text": "я вообще в этой жизни никто"
+    }
+   ]
+  }
+ }
+}

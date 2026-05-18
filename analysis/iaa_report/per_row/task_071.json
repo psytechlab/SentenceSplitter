@@ -1,0 +1,108 @@
+{
+ "task_idx": 71,
+ "text": "Мысли о суициде появились как-то спонтанно, а 19 я уже пыталась повеситься, я была одна дома, но это не удалось, к сожалению.",
+ "stratum": "presuicidal_monolabel_long",
+ "data_id": "78f0a6ab0ccc4c398a6b6c99b0349d46-17",
+ "n_tokens": 27,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 42,
+     "norm_start": 0,
+     "norm_end": 42,
+     "norm_text": "Мысли о суициде появились как-то спонтанно"
+    },
+    {
+     "start": 44,
+     "end": 74,
+     "norm_start": 44,
+     "norm_end": 74,
+     "norm_text": "а 19 я уже пыталась повеситься"
+    },
+    {
+     "start": 76,
+     "end": 92,
+     "norm_start": 76,
+     "norm_end": 92,
+     "norm_text": "я была одна дома"
+    },
+    {
+     "start": 94,
+     "end": 125,
+     "norm_start": 94,
+     "norm_end": 124,
+     "norm_text": "но это не удалось, к сожалению"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 42,
+     "norm_start": 0,
+     "norm_end": 42,
+     "norm_text": "Мысли о суициде появились как-то спонтанно"
+    },
+    {
+     "start": 44,
+     "end": 74,
+     "norm_start": 44,
+     "norm_end": 74,
+     "norm_text": "а 19 я уже пыталась повеситься"
+    },
+    {
+     "start": 76,
+     "end": 92,
+     "norm_start": 76,
+     "norm_end": 92,
+     "norm_text": "я была одна дома"
+    },
+    {
+     "start": 94,
+     "end": 124,
+     "norm_start": 94,
+     "norm_end": 124,
+     "norm_text": "но это не удалось, к сожалению"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 43,
+     "norm_start": 0,
+     "norm_end": 42,
+     "norm_text": "Мысли о суициде появились как-то спонтанно"
+    },
+    {
+     "start": 44,
+     "end": 75,
+     "norm_start": 44,
+     "norm_end": 74,
+     "norm_text": "а 19 я уже пыталась повеситься"
+    },
+    {
+     "start": 76,
+     "end": 93,
+     "norm_start": 76,
+     "norm_end": 92,
+     "norm_text": "я была одна дома"
+    },
+    {
+     "start": 93,
+     "end": 125,
+     "norm_start": 94,
+     "norm_end": 124,
+     "norm_text": "но это не удалось, к сожалению"
+    }
+   ]
+  }
+ }
+}

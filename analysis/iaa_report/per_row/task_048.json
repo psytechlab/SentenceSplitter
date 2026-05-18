@@ -1,0 +1,87 @@
+{
+ "task_idx": 48,
+ "text": "Маме никогда нет до меня дела, она вечно на работе и ее поддержку и любовь я не получаю.",
+ "stratum": "presuicidal_monolabel_long",
+ "data_id": "887686ab9e704526ae395264b6154e31-16",
+ "n_tokens": 20,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 29,
+     "norm_start": 0,
+     "norm_end": 29,
+     "norm_text": "Маме никогда нет до меня дела"
+    },
+    {
+     "start": 31,
+     "end": 50,
+     "norm_start": 31,
+     "norm_end": 50,
+     "norm_text": "она вечно на работе"
+    },
+    {
+     "start": 51,
+     "end": 88,
+     "norm_start": 51,
+     "norm_end": 87,
+     "norm_text": "и ее поддержку и любовь я не получаю"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 29,
+     "norm_start": 0,
+     "norm_end": 29,
+     "norm_text": "Маме никогда нет до меня дела"
+    },
+    {
+     "start": 31,
+     "end": 50,
+     "norm_start": 31,
+     "norm_end": 50,
+     "norm_text": "она вечно на работе"
+    },
+    {
+     "start": 51,
+     "end": 87,
+     "norm_start": 51,
+     "norm_end": 87,
+     "norm_text": "и ее поддержку и любовь я не получаю"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 30,
+     "norm_start": 0,
+     "norm_end": 29,
+     "norm_text": "Маме никогда нет до меня дела"
+    },
+    {
+     "start": 31,
+     "end": 50,
+     "norm_start": 31,
+     "norm_end": 50,
+     "norm_text": "она вечно на работе"
+    },
+    {
+     "start": 51,
+     "end": 88,
+     "norm_start": 51,
+     "norm_end": 87,
+     "norm_text": "и ее поддержку и любовь я не получаю"
+    }
+   ]
+  }
+ }
+}

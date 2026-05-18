@@ -1,0 +1,87 @@
+{
+ "task_idx": 10,
+ "text": "В 11 классе я перешла в новую школу, в которой было прекрасно всё: я любила всех одноклассников, учителей.",
+ "stratum": "presuicidal_multilabel_bsp",
+ "data_id": "113d038739c24fa4b5bdadd07653a8c9-9",
+ "n_tokens": 22,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "БСП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 35,
+     "norm_start": 0,
+     "norm_end": 35,
+     "norm_text": "В 11 классе я перешла в новую школу"
+    },
+    {
+     "start": 37,
+     "end": 65,
+     "norm_start": 37,
+     "norm_end": 65,
+     "norm_text": "в которой было прекрасно всё"
+    },
+    {
+     "start": 67,
+     "end": 106,
+     "norm_start": 67,
+     "norm_end": 105,
+     "norm_text": "я любила всех одноклассников, учителей"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "СПП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 35,
+     "norm_start": 0,
+     "norm_end": 35,
+     "norm_text": "В 11 классе я перешла в новую школу"
+    },
+    {
+     "start": 37,
+     "end": 65,
+     "norm_start": 37,
+     "norm_end": 65,
+     "norm_text": "в которой было прекрасно всё"
+    },
+    {
+     "start": 67,
+     "end": 105,
+     "norm_start": 67,
+     "norm_end": 105,
+     "norm_text": "я любила всех одноклассников, учителей"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 36,
+     "norm_start": 0,
+     "norm_end": 35,
+     "norm_text": "В 11 классе я перешла в новую школу"
+    },
+    {
+     "start": 37,
+     "end": 66,
+     "norm_start": 37,
+     "norm_end": 65,
+     "norm_text": "в которой было прекрасно всё"
+    },
+    {
+     "start": 67,
+     "end": 106,
+     "norm_start": 67,
+     "norm_end": 105,
+     "norm_text": "я любила всех одноклассников, учителей"
+    }
+   ]
+  }
+ }
+}

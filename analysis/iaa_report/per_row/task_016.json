@@ -1,0 +1,66 @@
+{
+ "task_idx": 16,
+ "text": "В семье меня может и любят, но все свои \"психи\" срывают на мне.",
+ "stratum": "other",
+ "data_id": "8fa8291cb8534390a9810086fa33a852-2",
+ "n_tokens": 17,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "ССП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 27,
+     "norm_start": 0,
+     "norm_end": 26,
+     "norm_text": "В семье меня может и любят"
+    },
+    {
+     "start": 28,
+     "end": 63,
+     "norm_start": 28,
+     "norm_end": 62,
+     "norm_text": "но все свои \"психи\" срывают на мне"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "ССП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 26,
+     "norm_start": 0,
+     "norm_end": 26,
+     "norm_text": "В семье меня может и любят"
+    },
+    {
+     "start": 28,
+     "end": 62,
+     "norm_start": 28,
+     "norm_end": 62,
+     "norm_text": "но все свои \"психи\" срывают на мне"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "СПП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 27,
+     "norm_start": 0,
+     "norm_end": 26,
+     "norm_text": "В семье меня может и любят"
+    },
+    {
+     "start": 28,
+     "end": 63,
+     "norm_start": 28,
+     "norm_end": 62,
+     "norm_text": "но все свои \"психи\" срывают на мне"
+    }
+   ]
+  }
+ }
+}

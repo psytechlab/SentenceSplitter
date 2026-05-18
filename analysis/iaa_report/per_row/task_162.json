@@ -1,0 +1,45 @@
+{
+ "task_idx": 162,
+ "text": "Я устала от этого \"опять\" - опять бессонница, опять общежитие, опять работа.",
+ "stratum": "presuicidal_multilabel_bsp",
+ "data_id": "4f07c1ded0c5449bbc0f1088d9f638bb-33",
+ "n_tokens": 17,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "Не сложное",
+   "spans": [
+    {
+     "start": 0,
+     "end": 76,
+     "norm_start": 0,
+     "norm_end": 75,
+     "norm_text": "Я устала от этого \"опять\" - опять бессонница, опять общежитие, опять работа"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "Не сложное",
+   "spans": [
+    {
+     "start": 0,
+     "end": 75,
+     "norm_start": 0,
+     "norm_end": 75,
+     "norm_text": "Я устала от этого \"опять\" - опять бессонница, опять общежитие, опять работа"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "Не сложное",
+   "spans": [
+    {
+     "start": 0,
+     "end": 76,
+     "norm_start": 0,
+     "norm_end": 75,
+     "norm_text": "Я устала от этого \"опять\" - опять бессонница, опять общежитие, опять работа"
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "task_idx": 40,
+ "text": "Именно тогда я попыталась убить себя.",
+ "stratum": "presuicidal_short_simple",
+ "data_id": "7eb5564332b6468ca1daef660f59e151-12",
+ "n_tokens": 7,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "Не сложное",
+   "spans": [
+    {
+     "start": 0,
+     "end": 37,
+     "norm_start": 0,
+     "norm_end": 36,
+     "norm_text": "Именно тогда я попыталась убить себя"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "Не сложное",
+   "spans": [
+    {
+     "start": 0,
+     "end": 36,
+     "norm_start": 0,
+     "norm_end": 36,
+     "norm_text": "Именно тогда я попыталась убить себя"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "Не сложное",
+   "spans": [
+    {
+     "start": 0,
+     "end": 37,
+     "norm_start": 0,
+     "norm_end": 36,
+     "norm_text": "Именно тогда я попыталась убить себя"
+    }
+   ]
+  }
+ }
+}

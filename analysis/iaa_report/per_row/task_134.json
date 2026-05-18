@@ -1,0 +1,136 @@
+{
+ "task_idx": 134,
+ "text": "Это продолжалось два месяца, я похудела, выпали волосы, я не знала, как выйти из этой ситуации и что делать, ведь его вещи были ещё у меня.",
+ "stratum": "presuicidal_monolabel_long",
+ "data_id": "a98a6bfca14c48eb8a0e9a3244d8d54c-19",
+ "n_tokens": 32,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 27,
+     "norm_start": 0,
+     "norm_end": 27,
+     "norm_text": "Это продолжалось два месяца"
+    },
+    {
+     "start": 29,
+     "end": 39,
+     "norm_start": 29,
+     "norm_end": 39,
+     "norm_text": "я похудела"
+    },
+    {
+     "start": 41,
+     "end": 55,
+     "norm_start": 41,
+     "norm_end": 54,
+     "norm_text": "выпали волосы"
+    },
+    {
+     "start": 56,
+     "end": 107,
+     "norm_start": 56,
+     "norm_end": 107,
+     "norm_text": "я не знала, как выйти из этой ситуации и что делать"
+    },
+    {
+     "start": 109,
+     "end": 139,
+     "norm_start": 109,
+     "norm_end": 138,
+     "norm_text": "ведь его вещи были ещё у меня"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 27,
+     "norm_start": 0,
+     "norm_end": 27,
+     "norm_text": "Это продолжалось два месяца"
+    },
+    {
+     "start": 29,
+     "end": 39,
+     "norm_start": 29,
+     "norm_end": 39,
+     "norm_text": "я похудела"
+    },
+    {
+     "start": 41,
+     "end": 54,
+     "norm_start": 41,
+     "norm_end": 54,
+     "norm_text": "выпали волосы"
+    },
+    {
+     "start": 56,
+     "end": 107,
+     "norm_start": 56,
+     "norm_end": 107,
+     "norm_text": "я не знала, как выйти из этой ситуации и что делать"
+    },
+    {
+     "start": 109,
+     "end": 138,
+     "norm_start": 109,
+     "norm_end": 138,
+     "norm_text": "ведь его вещи были ещё у меня"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 27,
+     "norm_start": 0,
+     "norm_end": 27,
+     "norm_text": "Это продолжалось два месяца"
+    },
+    {
+     "start": 29,
+     "end": 40,
+     "norm_start": 29,
+     "norm_end": 39,
+     "norm_text": "я похудела"
+    },
+    {
+     "start": 41,
+     "end": 55,
+     "norm_start": 41,
+     "norm_end": 54,
+     "norm_text": "выпали волосы"
+    },
+    {
+     "start": 56,
+     "end": 67,
+     "norm_start": 56,
+     "norm_end": 66,
+     "norm_text": "я не знала"
+    },
+    {
+     "start": 68,
+     "end": 108,
+     "norm_start": 68,
+     "norm_end": 107,
+     "norm_text": "как выйти из этой ситуации и что делать"
+    },
+    {
+     "start": 109,
+     "end": 139,
+     "norm_start": 109,
+     "norm_end": 138,
+     "norm_text": "ведь его вещи были ещё у меня"
+    }
+   ]
+  }
+ }
+}

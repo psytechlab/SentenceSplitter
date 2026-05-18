@@ -1,0 +1,66 @@
+{
+ "task_idx": 115,
+ "text": "У меня была попытка суицида, после чего попал в псих-лечебницу.",
+ "stratum": "presuicidal_multilabel_bsp",
+ "data_id": "7b18ccae29be4ed3b8d22ca4bf58c2b0-3",
+ "n_tokens": 12,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "СПП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 28,
+     "norm_start": 0,
+     "norm_end": 27,
+     "norm_text": "У меня была попытка суицида"
+    },
+    {
+     "start": 29,
+     "end": 63,
+     "norm_start": 29,
+     "norm_end": 62,
+     "norm_text": "после чего попал в псих-лечебницу"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "СПП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 27,
+     "norm_start": 0,
+     "norm_end": 27,
+     "norm_text": "У меня была попытка суицида"
+    },
+    {
+     "start": 29,
+     "end": 62,
+     "norm_start": 29,
+     "norm_end": 62,
+     "norm_text": "после чего попал в псих-лечебницу"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "СПП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 28,
+     "norm_start": 0,
+     "norm_end": 27,
+     "norm_text": "У меня была попытка суицида"
+    },
+    {
+     "start": 29,
+     "end": 63,
+     "norm_start": 29,
+     "norm_end": 62,
+     "norm_text": "после чего попал в псих-лечебницу"
+    }
+   ]
+  }
+ }
+}

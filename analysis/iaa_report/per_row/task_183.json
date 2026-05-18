@@ -1,0 +1,136 @@
+{
+ "task_idx": 183,
+ "text": "на протяжении беременности я уже почуствовала себя мамой я разговаривала с малышом на тот момент я не знала что там мальчик)но каким то оброзом называла его Аланчик)мой малыш.",
+ "stratum": "presuicidal_monolabel_long",
+ "data_id": "49dfadde6f834044a404e47e4539f299-34",
+ "n_tokens": 33,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 56,
+     "norm_start": 0,
+     "norm_end": 56,
+     "norm_text": "на протяжении беременности я уже почуствовала себя мамой"
+    },
+    {
+     "start": 57,
+     "end": 83,
+     "norm_start": 57,
+     "norm_end": 82,
+     "norm_text": "я разговаривала с малышом"
+    },
+    {
+     "start": 83,
+     "end": 124,
+     "norm_start": 83,
+     "norm_end": 123,
+     "norm_text": "на тот момент я не знала что там мальчик"
+    },
+    {
+     "start": 124,
+     "end": 165,
+     "norm_start": 124,
+     "norm_end": 164,
+     "norm_text": "но каким то оброзом называла его Аланчик"
+    },
+    {
+     "start": 165,
+     "end": 175,
+     "norm_start": 165,
+     "norm_end": 174,
+     "norm_text": "мой малыш"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 56,
+     "norm_start": 0,
+     "norm_end": 56,
+     "norm_text": "на протяжении беременности я уже почуствовала себя мамой"
+    },
+    {
+     "start": 57,
+     "end": 82,
+     "norm_start": 57,
+     "norm_end": 82,
+     "norm_text": "я разговаривала с малышом"
+    },
+    {
+     "start": 83,
+     "end": 107,
+     "norm_start": 83,
+     "norm_end": 107,
+     "norm_text": "на тот момент я не знала"
+    },
+    {
+     "start": 108,
+     "end": 123,
+     "norm_start": 108,
+     "norm_end": 123,
+     "norm_text": "что там мальчик"
+    },
+    {
+     "start": 124,
+     "end": 164,
+     "norm_start": 124,
+     "norm_end": 164,
+     "norm_text": "но каким то оброзом называла его Аланчик"
+    },
+    {
+     "start": 165,
+     "end": 174,
+     "norm_start": 165,
+     "norm_end": 174,
+     "norm_text": "мой малыш"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 56,
+     "norm_start": 0,
+     "norm_end": 56,
+     "norm_text": "на протяжении беременности я уже почуствовала себя мамой"
+    },
+    {
+     "start": 57,
+     "end": 82,
+     "norm_start": 57,
+     "norm_end": 82,
+     "norm_text": "я разговаривала с малышом"
+    },
+    {
+     "start": 83,
+     "end": 107,
+     "norm_start": 83,
+     "norm_end": 107,
+     "norm_text": "на тот момент я не знала"
+    },
+    {
+     "start": 108,
+     "end": 124,
+     "norm_start": 108,
+     "norm_end": 123,
+     "norm_text": "что там мальчик"
+    },
+    {
+     "start": 124,
+     "end": 175,
+     "norm_start": 124,
+     "norm_end": 174,
+     "norm_text": "но каким то оброзом называла его Аланчик)мой малыш"
+    }
+   ]
+  }
+ }
+}

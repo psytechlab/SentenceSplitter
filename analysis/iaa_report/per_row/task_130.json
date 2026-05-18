@@ -1,0 +1,59 @@
+{
+ "task_idx": 130,
+ "text": "Что странно вернул меня и стал совсем другим человеком:ласковый, романтичный, нежный.",
+ "stratum": "other",
+ "data_id": "eab2ce0ca77a4ef5bbf4cc50d7b7bf39-6",
+ "n_tokens": 16,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 11,
+     "norm_start": 0,
+     "norm_end": 11,
+     "norm_text": "Что странно"
+    },
+    {
+     "start": 12,
+     "end": 85,
+     "norm_start": 12,
+     "norm_end": 84,
+     "norm_text": "вернул меня и стал совсем другим человеком:ласковый, романтичный, нежный"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 23,
+     "norm_start": 0,
+     "norm_end": 23,
+     "norm_text": "Что странно вернул меня"
+    },
+    {
+     "start": 24,
+     "end": 84,
+     "norm_start": 24,
+     "norm_end": 84,
+     "norm_text": "и стал совсем другим человеком:ласковый, романтичный, нежный"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "Не сложное",
+   "spans": [
+    {
+     "start": 0,
+     "end": 85,
+     "norm_start": 0,
+     "norm_end": 84,
+     "norm_text": "Что странно вернул меня и стал совсем другим человеком:ласковый, романтичный, нежный"
+    }
+   ]
+  }
+ }
+}

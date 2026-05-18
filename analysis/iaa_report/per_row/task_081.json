@@ -1,0 +1,80 @@
+{
+ "task_idx": 81,
+ "text": "Недавно закончила институт, мне очень нравилось учиться, нравилась наша группа.",
+ "stratum": "presuicidal_multilabel_bsp",
+ "data_id": "bab2710f8ed04e69bca3a0890f85ea8b-1",
+ "n_tokens": 13,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "БСП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 26,
+     "norm_start": 0,
+     "norm_end": 26,
+     "norm_text": "Недавно закончила институт"
+    },
+    {
+     "start": 28,
+     "end": 55,
+     "norm_start": 28,
+     "norm_end": 55,
+     "norm_text": "мне очень нравилось учиться"
+    },
+    {
+     "start": 57,
+     "end": 79,
+     "norm_start": 57,
+     "norm_end": 78,
+     "norm_text": "нравилась наша группа"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "БСП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 26,
+     "norm_start": 0,
+     "norm_end": 26,
+     "norm_text": "Недавно закончила институт"
+    },
+    {
+     "start": 28,
+     "end": 55,
+     "norm_start": 28,
+     "norm_end": 55,
+     "norm_text": "мне очень нравилось учиться"
+    },
+    {
+     "start": 57,
+     "end": 78,
+     "norm_start": 57,
+     "norm_end": 78,
+     "norm_text": "нравилась наша группа"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "БСП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 27,
+     "norm_start": 0,
+     "norm_end": 26,
+     "norm_text": "Недавно закончила институт"
+    },
+    {
+     "start": 28,
+     "end": 79,
+     "norm_start": 28,
+     "norm_end": 78,
+     "norm_text": "мне очень нравилось учиться, нравилась наша группа"
+    }
+   ]
+  }
+ }
+}

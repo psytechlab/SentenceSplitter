@@ -1,0 +1,87 @@
+{
+ "task_idx": 117,
+ "text": "У меня есть семья, нет острой необходимости работать, огромное количество свободного времени, есть хобби.",
+ "stratum": "presuicidal_multilabel_bsp",
+ "data_id": "830e971758fc4571aa36a21ea580863a-3",
+ "n_tokens": 18,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "БСП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 17,
+     "norm_start": 0,
+     "norm_end": 17,
+     "norm_text": "У меня есть семья"
+    },
+    {
+     "start": 19,
+     "end": 52,
+     "norm_start": 19,
+     "norm_end": 52,
+     "norm_text": "нет острой необходимости работать"
+    },
+    {
+     "start": 54,
+     "end": 92,
+     "norm_start": 54,
+     "norm_end": 92,
+     "norm_text": "огромное количество свободного времени"
+    },
+    {
+     "start": 94,
+     "end": 105,
+     "norm_start": 94,
+     "norm_end": 104,
+     "norm_text": "есть хобби"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "БСП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 17,
+     "norm_start": 0,
+     "norm_end": 17,
+     "norm_text": "У меня есть семья"
+    },
+    {
+     "start": 19,
+     "end": 52,
+     "norm_start": 19,
+     "norm_end": 52,
+     "norm_text": "нет острой необходимости работать"
+    },
+    {
+     "start": 54,
+     "end": 92,
+     "norm_start": 54,
+     "norm_end": 92,
+     "norm_text": "огромное количество свободного времени"
+    },
+    {
+     "start": 94,
+     "end": 104,
+     "norm_start": 94,
+     "norm_end": 104,
+     "norm_text": "есть хобби"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "Не сложное",
+   "spans": [
+    {
+     "start": 0,
+     "end": 105,
+     "norm_start": 0,
+     "norm_end": 104,
+     "norm_text": "У меня есть семья, нет острой необходимости работать, огромное количество свободного времени, есть хобби"
+    }
+   ]
+  }
+ }
+}

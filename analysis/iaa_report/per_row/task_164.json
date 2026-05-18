@@ -1,0 +1,66 @@
+{
+ "task_idx": 164,
+ "text": "Я хочу быть нормальным человеком, любить и быть любимым, но с этой депрессией я не могу ничего сделать.",
+ "stratum": "presuicidal_multilabel_conj",
+ "data_id": "8c01623d38104c4b8a4cbc265a42addf-21",
+ "n_tokens": 21,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "ССП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 55,
+     "norm_start": 0,
+     "norm_end": 55,
+     "norm_text": "Я хочу быть нормальным человеком, любить и быть любимым"
+    },
+    {
+     "start": 57,
+     "end": 103,
+     "norm_start": 57,
+     "norm_end": 102,
+     "norm_text": "но с этой депрессией я не могу ничего сделать"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "ССП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 55,
+     "norm_start": 0,
+     "norm_end": 55,
+     "norm_text": "Я хочу быть нормальным человеком, любить и быть любимым"
+    },
+    {
+     "start": 57,
+     "end": 102,
+     "norm_start": 57,
+     "norm_end": 102,
+     "norm_text": "но с этой депрессией я не могу ничего сделать"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "СПП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 56,
+     "norm_start": 0,
+     "norm_end": 55,
+     "norm_text": "Я хочу быть нормальным человеком, любить и быть любимым"
+    },
+    {
+     "start": 57,
+     "end": 103,
+     "norm_start": 57,
+     "norm_end": 102,
+     "norm_text": "но с этой депрессией я не могу ничего сделать"
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,87 @@
+{
+ "task_idx": 49,
+ "text": "Маму она не любила (по словам мамы) и разговорам бабушки с мамой;Когда я вернулась жить с мамой, мне было сложно.",
+ "stratum": "presuicidal_monolabel_long",
+ "data_id": "ccca495eb5e747cd9e61af3b78a14d55-15",
+ "n_tokens": 26,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "СПП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 64,
+     "norm_start": 0,
+     "norm_end": 64,
+     "norm_text": "Маму она не любила (по словам мамы) и разговорам бабушки с мамой"
+    },
+    {
+     "start": 65,
+     "end": 95,
+     "norm_start": 65,
+     "norm_end": 95,
+     "norm_text": "Когда я вернулась жить с мамой"
+    },
+    {
+     "start": 97,
+     "end": 113,
+     "norm_start": 97,
+     "norm_end": 112,
+     "norm_text": "мне было сложно"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 64,
+     "norm_start": 0,
+     "norm_end": 64,
+     "norm_text": "Маму она не любила (по словам мамы) и разговорам бабушки с мамой"
+    },
+    {
+     "start": 65,
+     "end": 95,
+     "norm_start": 65,
+     "norm_end": 95,
+     "norm_text": "Когда я вернулась жить с мамой"
+    },
+    {
+     "start": 97,
+     "end": 112,
+     "norm_start": 97,
+     "norm_end": 112,
+     "norm_text": "мне было сложно"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 65,
+     "norm_start": 0,
+     "norm_end": 64,
+     "norm_text": "Маму она не любила (по словам мамы) и разговорам бабушки с мамой"
+    },
+    {
+     "start": 65,
+     "end": 96,
+     "norm_start": 65,
+     "norm_end": 95,
+     "norm_text": "Когда я вернулась жить с мамой"
+    },
+    {
+     "start": 97,
+     "end": 113,
+     "norm_start": 97,
+     "norm_end": 112,
+     "norm_text": "мне было сложно"
+    }
+   ]
+  }
+ }
+}

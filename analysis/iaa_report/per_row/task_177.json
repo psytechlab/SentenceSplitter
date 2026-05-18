@@ -1,0 +1,52 @@
+{
+ "task_idx": 177,
+ "text": "имя которого боишься называть",
+ "stratum": "solyanka_twitter_short_simple",
+ "data_id": "",
+ "n_tokens": 4,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "СПП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 3,
+     "norm_start": 0,
+     "norm_end": 3,
+     "norm_text": "имя"
+    },
+    {
+     "start": 4,
+     "end": 29,
+     "norm_start": 4,
+     "norm_end": 29,
+     "norm_text": "которого боишься называть"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "Не сложное",
+   "spans": [
+    {
+     "start": 0,
+     "end": 29,
+     "norm_start": 0,
+     "norm_end": 29,
+     "norm_text": "имя которого боишься называть"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "Не сложное",
+   "spans": [
+    {
+     "start": 0,
+     "end": 29,
+     "norm_start": 0,
+     "norm_end": 29,
+     "norm_text": "имя которого боишься называть"
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,66 @@
+{
+ "task_idx": 136,
+ "text": "Я боюсь доверять людям мне недавно исполнилось 17!",
+ "stratum": "presuicidal_short_simple",
+ "data_id": "428bee3f6ad44668946f37bb7c79df8b-1",
+ "n_tokens": 9,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "БСП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 22,
+     "norm_start": 0,
+     "norm_end": 22,
+     "norm_text": "Я боюсь доверять людям"
+    },
+    {
+     "start": 23,
+     "end": 50,
+     "norm_start": 23,
+     "norm_end": 49,
+     "norm_text": "мне недавно исполнилось 17"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "БСП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 22,
+     "norm_start": 0,
+     "norm_end": 22,
+     "norm_text": "Я боюсь доверять людям"
+    },
+    {
+     "start": 23,
+     "end": 49,
+     "norm_start": 23,
+     "norm_end": 49,
+     "norm_text": "мне недавно исполнилось 17"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "БСП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 22,
+     "norm_start": 0,
+     "norm_end": 22,
+     "norm_text": "Я боюсь доверять людям"
+    },
+    {
+     "start": 23,
+     "end": 50,
+     "norm_start": 23,
+     "norm_end": 49,
+     "norm_text": "мне недавно исполнилось 17"
+    }
+   ]
+  }
+ }
+}

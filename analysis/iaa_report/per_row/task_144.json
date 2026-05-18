@@ -1,0 +1,45 @@
+{
+ "task_idx": 144,
+ "text": "Я доволен?",
+ "stratum": "presuicidal_short_simple",
+ "data_id": "100fa7640d47475c8ec1000051a2c5cd-3",
+ "n_tokens": 3,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "Не сложное",
+   "spans": [
+    {
+     "start": 0,
+     "end": 10,
+     "norm_start": 0,
+     "norm_end": 9,
+     "norm_text": "Я доволен"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "Не сложное",
+   "spans": [
+    {
+     "start": 0,
+     "end": 9,
+     "norm_start": 0,
+     "norm_end": 9,
+     "norm_text": "Я доволен"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "Не сложное",
+   "spans": [
+    {
+     "start": 0,
+     "end": 10,
+     "norm_start": 0,
+     "norm_end": 9,
+     "norm_text": "Я доволен"
+    }
+   ]
+  }
+ }
+}

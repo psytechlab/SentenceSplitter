@@ -1,0 +1,45 @@
+{
+ "task_idx": 39,
+ "text": "Из-за девушки, отвергшей мои чувства, я хотел покончить с собой.",
+ "stratum": "presuicidal_multilabel_bsp",
+ "data_id": "f5a06360b873433198e4643bdede29f2-1",
+ "n_tokens": 13,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "Не сложное",
+   "spans": [
+    {
+     "start": 0,
+     "end": 64,
+     "norm_start": 0,
+     "norm_end": 63,
+     "norm_text": "Из-за девушки, отвергшей мои чувства, я хотел покончить с собой"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "Не сложное",
+   "spans": [
+    {
+     "start": 0,
+     "end": 63,
+     "norm_start": 0,
+     "norm_end": 63,
+     "norm_text": "Из-за девушки, отвергшей мои чувства, я хотел покончить с собой"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "Не сложное",
+   "spans": [
+    {
+     "start": 0,
+     "end": 64,
+     "norm_start": 0,
+     "norm_end": 63,
+     "norm_text": "Из-за девушки, отвергшей мои чувства, я хотел покончить с собой"
+    }
+   ]
+  }
+ }
+}

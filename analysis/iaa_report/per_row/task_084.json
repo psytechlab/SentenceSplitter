@@ -1,0 +1,171 @@
+{
+ "task_idx": 84,
+ "text": "Незнаю когда это произошло, может в детстве, когда меня выгонял из дома отец, за то что я пыталась защитить маму, а может позже, когда люди перестали меня понимать, Незнаю да и мне плевать.",
+ "stratum": "presuicidal_multilabel_conj",
+ "data_id": "6b10814085934ad98980d5e6ed2f3eff-3",
+ "n_tokens": 40,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 7,
+     "norm_start": 0,
+     "norm_end": 6,
+     "norm_text": "Незнаю"
+    },
+    {
+     "start": 7,
+     "end": 43,
+     "norm_start": 7,
+     "norm_end": 43,
+     "norm_text": "когда это произошло, может в детстве"
+    },
+    {
+     "start": 45,
+     "end": 76,
+     "norm_start": 45,
+     "norm_end": 76,
+     "norm_text": "когда меня выгонял из дома отец"
+    },
+    {
+     "start": 78,
+     "end": 112,
+     "norm_start": 78,
+     "norm_end": 112,
+     "norm_text": "за то что я пыталась защитить маму"
+    },
+    {
+     "start": 114,
+     "end": 127,
+     "norm_start": 114,
+     "norm_end": 127,
+     "norm_text": "а может позже"
+    },
+    {
+     "start": 129,
+     "end": 164,
+     "norm_start": 129,
+     "norm_end": 163,
+     "norm_text": "когда люди перестали меня понимать"
+    },
+    {
+     "start": 165,
+     "end": 189,
+     "norm_start": 165,
+     "norm_end": 188,
+     "norm_text": "Незнаю да и мне плевать"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 26,
+     "norm_start": 0,
+     "norm_end": 26,
+     "norm_text": "Незнаю когда это произошло"
+    },
+    {
+     "start": 28,
+     "end": 43,
+     "norm_start": 28,
+     "norm_end": 43,
+     "norm_text": "может в детстве"
+    },
+    {
+     "start": 45,
+     "end": 83,
+     "norm_start": 45,
+     "norm_end": 83,
+     "norm_text": "когда меня выгонял из дома отец, за то"
+    },
+    {
+     "start": 84,
+     "end": 112,
+     "norm_start": 84,
+     "norm_end": 112,
+     "norm_text": "что я пыталась защитить маму"
+    },
+    {
+     "start": 114,
+     "end": 127,
+     "norm_start": 114,
+     "norm_end": 127,
+     "norm_text": "а может позже"
+    },
+    {
+     "start": 129,
+     "end": 163,
+     "norm_start": 129,
+     "norm_end": 163,
+     "norm_text": "когда люди перестали меня понимать"
+    },
+    {
+     "start": 165,
+     "end": 171,
+     "norm_start": 165,
+     "norm_end": 171,
+     "norm_text": "Незнаю"
+    },
+    {
+     "start": 172,
+     "end": 188,
+     "norm_start": 172,
+     "norm_end": 188,
+     "norm_text": "да и мне плевать"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 44,
+     "norm_start": 0,
+     "norm_end": 43,
+     "norm_text": "Незнаю когда это произошло, может в детстве"
+    },
+    {
+     "start": 45,
+     "end": 77,
+     "norm_start": 45,
+     "norm_end": 76,
+     "norm_text": "когда меня выгонял из дома отец"
+    },
+    {
+     "start": 78,
+     "end": 113,
+     "norm_start": 78,
+     "norm_end": 112,
+     "norm_text": "за то что я пыталась защитить маму"
+    },
+    {
+     "start": 113,
+     "end": 128,
+     "norm_start": 114,
+     "norm_end": 127,
+     "norm_text": "а может позже"
+    },
+    {
+     "start": 129,
+     "end": 164,
+     "norm_start": 129,
+     "norm_end": 163,
+     "norm_text": "когда люди перестали меня понимать"
+    },
+    {
+     "start": 165,
+     "end": 189,
+     "norm_start": 165,
+     "norm_end": 188,
+     "norm_text": "Незнаю да и мне плевать"
+    }
+   ]
+  }
+ }
+}

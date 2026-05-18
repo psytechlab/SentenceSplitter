@@ -1,0 +1,66 @@
+{
+ "task_idx": 152,
+ "text": "Я потерял интерес к жизни, хочется просто сдохнуть.",
+ "stratum": "presuicidal_multilabel_bsp",
+ "data_id": "0f297cd48b944b668744c416430c76d6-1",
+ "n_tokens": 10,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "БСП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 25,
+     "norm_start": 0,
+     "norm_end": 25,
+     "norm_text": "Я потерял интерес к жизни"
+    },
+    {
+     "start": 27,
+     "end": 51,
+     "norm_start": 27,
+     "norm_end": 50,
+     "norm_text": "хочется просто сдохнуть"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "БСП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 25,
+     "norm_start": 0,
+     "norm_end": 25,
+     "norm_text": "Я потерял интерес к жизни"
+    },
+    {
+     "start": 27,
+     "end": 50,
+     "norm_start": 27,
+     "norm_end": 50,
+     "norm_text": "хочется просто сдохнуть"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "БСП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 26,
+     "norm_start": 0,
+     "norm_end": 25,
+     "norm_text": "Я потерял интерес к жизни"
+    },
+    {
+     "start": 27,
+     "end": 51,
+     "norm_start": 27,
+     "norm_end": 50,
+     "norm_text": "хочется просто сдохнуть"
+    }
+   ]
+  }
+ }
+}

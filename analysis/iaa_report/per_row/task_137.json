@@ -1,0 +1,45 @@
+{
+ "task_idx": 137,
+ "text": "Я была красивая, жизнерадостная, веселая.",
+ "stratum": "presuicidal_multilabel_bsp",
+ "data_id": "06899711893f4424b8775a59314ff52c-16",
+ "n_tokens": 8,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "Не сложное",
+   "spans": [
+    {
+     "start": 0,
+     "end": 41,
+     "norm_start": 0,
+     "norm_end": 40,
+     "norm_text": "Я была красивая, жизнерадостная, веселая"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "Не сложное",
+   "spans": [
+    {
+     "start": 0,
+     "end": 40,
+     "norm_start": 0,
+     "norm_end": 40,
+     "norm_text": "Я была красивая, жизнерадостная, веселая"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "Не сложное",
+   "spans": [
+    {
+     "start": 0,
+     "end": 41,
+     "norm_start": 0,
+     "norm_end": 40,
+     "norm_text": "Я была красивая, жизнерадостная, веселая"
+    }
+   ]
+  }
+ }
+}

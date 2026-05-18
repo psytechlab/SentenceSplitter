@@ -1,0 +1,157 @@
+{
+ "task_idx": 62,
+ "text": "Мой молодой человек не знал, что я их принимаю тоже, поэтому мне никто не объяснил, что после их приема, развивается зависимость и если их не принимать будет жестокая ломка( как от героина.",
+ "stratum": "presuicidal_monolabel_long",
+ "data_id": "72987d30e89247ab938bcffe882a123d-3",
+ "n_tokens": 38,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 27,
+     "norm_start": 0,
+     "norm_end": 27,
+     "norm_text": "Мой молодой человек не знал"
+    },
+    {
+     "start": 29,
+     "end": 51,
+     "norm_start": 29,
+     "norm_end": 51,
+     "norm_text": "что я их принимаю тоже"
+    },
+    {
+     "start": 53,
+     "end": 82,
+     "norm_start": 53,
+     "norm_end": 82,
+     "norm_text": "поэтому мне никто не объяснил"
+    },
+    {
+     "start": 84,
+     "end": 128,
+     "norm_start": 84,
+     "norm_end": 128,
+     "norm_text": "что после их приема, развивается зависимость"
+    },
+    {
+     "start": 129,
+     "end": 151,
+     "norm_start": 129,
+     "norm_end": 151,
+     "norm_text": "и если их не принимать"
+    },
+    {
+     "start": 152,
+     "end": 189,
+     "norm_start": 152,
+     "norm_end": 188,
+     "norm_text": "будет жестокая ломка( как от героина"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "СПП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 27,
+     "norm_start": 0,
+     "norm_end": 27,
+     "norm_text": "Мой молодой человек не знал"
+    },
+    {
+     "start": 29,
+     "end": 50,
+     "norm_start": 29,
+     "norm_end": 50,
+     "norm_text": "что я их принимаю тож"
+    },
+    {
+     "start": 53,
+     "end": 82,
+     "norm_start": 53,
+     "norm_end": 82,
+     "norm_text": "поэтому мне никто не объяснил"
+    },
+    {
+     "start": 84,
+     "end": 103,
+     "norm_start": 84,
+     "norm_end": 103,
+     "norm_text": "что после их приема"
+    },
+    {
+     "start": 105,
+     "end": 128,
+     "norm_start": 105,
+     "norm_end": 128,
+     "norm_text": "развивается зависимость"
+    },
+    {
+     "start": 129,
+     "end": 151,
+     "norm_start": 129,
+     "norm_end": 151,
+     "norm_text": "и если их не принимать"
+    },
+    {
+     "start": 152,
+     "end": 188,
+     "norm_start": 152,
+     "norm_end": 188,
+     "norm_text": "будет жестокая ломка( как от героина"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "СПП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 28,
+     "norm_start": 0,
+     "norm_end": 27,
+     "norm_text": "Мой молодой человек не знал"
+    },
+    {
+     "start": 29,
+     "end": 52,
+     "norm_start": 29,
+     "norm_end": 51,
+     "norm_text": "что я их принимаю тоже"
+    },
+    {
+     "start": 53,
+     "end": 83,
+     "norm_start": 53,
+     "norm_end": 82,
+     "norm_text": "поэтому мне никто не объяснил"
+    },
+    {
+     "start": 84,
+     "end": 128,
+     "norm_start": 84,
+     "norm_end": 128,
+     "norm_text": "что после их приема, развивается зависимость"
+    },
+    {
+     "start": 129,
+     "end": 151,
+     "norm_start": 129,
+     "norm_end": 151,
+     "norm_text": "и если их не принимать"
+    },
+    {
+     "start": 152,
+     "end": 189,
+     "norm_start": 152,
+     "norm_end": 188,
+     "norm_text": "будет жестокая ломка( как от героина"
+    }
+   ]
+  }
+ }
+}

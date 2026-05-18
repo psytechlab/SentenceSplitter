@@ -1,0 +1,108 @@
+{
+ "task_idx": 143,
+ "text": "Я до сих пор думаю, что однажды могут позвонить и сказать, что это была ошибка, что она жива на самом деле.",
+ "stratum": "presuicidal_monolabel_long",
+ "data_id": "bf9961c4c9a74fb8bb272301d7c3dce8-34",
+ "n_tokens": 25,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "СПП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 18,
+     "norm_start": 0,
+     "norm_end": 18,
+     "norm_text": "Я до сих пор думаю"
+    },
+    {
+     "start": 20,
+     "end": 57,
+     "norm_start": 20,
+     "norm_end": 57,
+     "norm_text": "что однажды могут позвонить и сказать"
+    },
+    {
+     "start": 59,
+     "end": 79,
+     "norm_start": 59,
+     "norm_end": 78,
+     "norm_text": "что это была ошибка"
+    },
+    {
+     "start": 80,
+     "end": 107,
+     "norm_start": 80,
+     "norm_end": 106,
+     "norm_text": "что она жива на самом деле"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "СПП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 18,
+     "norm_start": 0,
+     "norm_end": 18,
+     "norm_text": "Я до сих пор думаю"
+    },
+    {
+     "start": 20,
+     "end": 57,
+     "norm_start": 20,
+     "norm_end": 57,
+     "norm_text": "что однажды могут позвонить и сказать"
+    },
+    {
+     "start": 59,
+     "end": 78,
+     "norm_start": 59,
+     "norm_end": 78,
+     "norm_text": "что это была ошибка"
+    },
+    {
+     "start": 80,
+     "end": 106,
+     "norm_start": 80,
+     "norm_end": 106,
+     "norm_text": "что она жива на самом деле"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "СПП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 19,
+     "norm_start": 0,
+     "norm_end": 18,
+     "norm_text": "Я до сих пор думаю"
+    },
+    {
+     "start": 20,
+     "end": 58,
+     "norm_start": 20,
+     "norm_end": 57,
+     "norm_text": "что однажды могут позвонить и сказать"
+    },
+    {
+     "start": 59,
+     "end": 79,
+     "norm_start": 59,
+     "norm_end": 78,
+     "norm_text": "что это была ошибка"
+    },
+    {
+     "start": 80,
+     "end": 107,
+     "norm_start": 80,
+     "norm_end": 106,
+     "norm_text": "что она жива на самом деле"
+    }
+   ]
+  }
+ }
+}

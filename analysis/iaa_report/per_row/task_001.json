@@ -1,0 +1,45 @@
+{
+ "task_idx": 1,
+ "text": "/ Я фанат странных незнакомцев ))))))",
+ "stratum": "solyanka_twitter_short_simple",
+ "data_id": "",
+ "n_tokens": 11,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "Не сложное",
+   "spans": [
+    {
+     "start": 0,
+     "end": 37,
+     "norm_start": 0,
+     "norm_end": 30,
+     "norm_text": "/ Я фанат странных незнакомцев"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "Не сложное",
+   "spans": [
+    {
+     "start": 2,
+     "end": 30,
+     "norm_start": 2,
+     "norm_end": 30,
+     "norm_text": "Я фанат странных незнакомцев"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "Не сложное",
+   "spans": [
+    {
+     "start": 2,
+     "end": 30,
+     "norm_start": 2,
+     "norm_end": 30,
+     "norm_text": "Я фанат странных незнакомцев"
+    }
+   ]
+  }
+ }
+}

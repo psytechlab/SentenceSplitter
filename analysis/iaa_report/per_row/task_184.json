@@ -1,0 +1,66 @@
+{
+ "task_idx": 184,
+ "text": "начнем с того что меня привлекает такое как суицид.",
+ "stratum": "other",
+ "data_id": "b52ab00e3e454a56a0b722df69f81bda-3",
+ "n_tokens": 10,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "СПП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 13,
+     "norm_start": 0,
+     "norm_end": 13,
+     "norm_text": "начнем с того"
+    },
+    {
+     "start": 14,
+     "end": 51,
+     "norm_start": 14,
+     "norm_end": 50,
+     "norm_text": "что меня привлекает такое как суицид"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "СПП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 13,
+     "norm_start": 0,
+     "norm_end": 13,
+     "norm_text": "начнем с того"
+    },
+    {
+     "start": 14,
+     "end": 50,
+     "norm_start": 14,
+     "norm_end": 50,
+     "norm_text": "что меня привлекает такое как суицид"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "СПП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 13,
+     "norm_start": 0,
+     "norm_end": 13,
+     "norm_text": "начнем с того"
+    },
+    {
+     "start": 14,
+     "end": 51,
+     "norm_start": 14,
+     "norm_end": 50,
+     "norm_text": "что меня привлекает такое как суицид"
+    }
+   ]
+  }
+ }
+}

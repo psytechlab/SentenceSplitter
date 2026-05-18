@@ -1,0 +1,108 @@
+{
+ "task_idx": 73,
+ "text": "На сегодняшний момент у меня 250000 долга, которые мне нечем платить, у меня нет работы и нам реально нечего есть.",
+ "stratum": "presuicidal_multilabel_conj",
+ "data_id": "f68acc1a0dab492786d7c4af9565a1ce-26",
+ "n_tokens": 23,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 41,
+     "norm_start": 0,
+     "norm_end": 41,
+     "norm_text": "На сегодняшний момент у меня 250000 долга"
+    },
+    {
+     "start": 43,
+     "end": 68,
+     "norm_start": 43,
+     "norm_end": 68,
+     "norm_text": "которые мне нечем платить"
+    },
+    {
+     "start": 70,
+     "end": 87,
+     "norm_start": 70,
+     "norm_end": 87,
+     "norm_text": "у меня нет работы"
+    },
+    {
+     "start": 88,
+     "end": 114,
+     "norm_start": 88,
+     "norm_end": 113,
+     "norm_text": "и нам реально нечего есть"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 41,
+     "norm_start": 0,
+     "norm_end": 41,
+     "norm_text": "На сегодняшний момент у меня 250000 долга"
+    },
+    {
+     "start": 43,
+     "end": 68,
+     "norm_start": 43,
+     "norm_end": 68,
+     "norm_text": "которые мне нечем платить"
+    },
+    {
+     "start": 70,
+     "end": 87,
+     "norm_start": 70,
+     "norm_end": 87,
+     "norm_text": "у меня нет работы"
+    },
+    {
+     "start": 88,
+     "end": 113,
+     "norm_start": 88,
+     "norm_end": 113,
+     "norm_text": "и нам реально нечего есть"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 1,
+     "end": 42,
+     "norm_start": 1,
+     "norm_end": 41,
+     "norm_text": "а сегодняшний момент у меня 250000 долга"
+    },
+    {
+     "start": 43,
+     "end": 69,
+     "norm_start": 43,
+     "norm_end": 68,
+     "norm_text": "которые мне нечем платить"
+    },
+    {
+     "start": 70,
+     "end": 87,
+     "norm_start": 70,
+     "norm_end": 87,
+     "norm_text": "у меня нет работы"
+    },
+    {
+     "start": 88,
+     "end": 114,
+     "norm_start": 88,
+     "norm_end": 113,
+     "norm_text": "и нам реально нечего есть"
+    }
+   ]
+  }
+ }
+}

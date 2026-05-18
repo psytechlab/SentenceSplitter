@@ -1,0 +1,66 @@
+{
+ "task_idx": 187,
+ "text": "около недели назад моя биологическая мать с опекой через суд забрали моего старшего сына, ещё у меня дочка и сын.",
+ "stratum": "presuicidal_multilabel_conj",
+ "data_id": "f289deaf25f04b92b0e62ac84f776f65-1",
+ "n_tokens": 22,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "БСП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 88,
+     "norm_start": 0,
+     "norm_end": 88,
+     "norm_text": "около недели назад моя биологическая мать с опекой через суд забрали моего старшего сына"
+    },
+    {
+     "start": 90,
+     "end": 113,
+     "norm_start": 90,
+     "norm_end": 112,
+     "norm_text": "ещё у меня дочка и сын"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "БСП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 88,
+     "norm_start": 0,
+     "norm_end": 88,
+     "norm_text": "около недели назад моя биологическая мать с опекой через суд забрали моего старшего сына"
+    },
+    {
+     "start": 90,
+     "end": 112,
+     "norm_start": 90,
+     "norm_end": 112,
+     "norm_text": "ещё у меня дочка и сын"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "БСП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 89,
+     "norm_start": 0,
+     "norm_end": 88,
+     "norm_text": "около недели назад моя биологическая мать с опекой через суд забрали моего старшего сына"
+    },
+    {
+     "start": 90,
+     "end": 113,
+     "norm_start": 90,
+     "norm_end": 112,
+     "norm_text": "ещё у меня дочка и сын"
+    }
+   ]
+  }
+ }
+}

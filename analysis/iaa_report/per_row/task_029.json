@@ -1,0 +1,94 @@
+{
+ "task_idx": 29,
+ "text": "Друзей у меня нет, приходить было некому, мама меня навещала постоянно, даже ночами сидела.",
+ "stratum": "presuicidal_multilabel_bsp",
+ "data_id": "fec4b6244f0e46d19da21d80586a87d7-116",
+ "n_tokens": 18,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "БСП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 17,
+     "norm_start": 0,
+     "norm_end": 17,
+     "norm_text": "Друзей у меня нет"
+    },
+    {
+     "start": 19,
+     "end": 40,
+     "norm_start": 19,
+     "norm_end": 40,
+     "norm_text": "приходить было некому"
+    },
+    {
+     "start": 42,
+     "end": 70,
+     "norm_start": 42,
+     "norm_end": 70,
+     "norm_text": "мама меня навещала постоянно"
+    },
+    {
+     "start": 72,
+     "end": 91,
+     "norm_start": 72,
+     "norm_end": 90,
+     "norm_text": "даже ночами сидела"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "БСП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 17,
+     "norm_start": 0,
+     "norm_end": 17,
+     "norm_text": "Друзей у меня нет"
+    },
+    {
+     "start": 19,
+     "end": 40,
+     "norm_start": 19,
+     "norm_end": 40,
+     "norm_text": "приходить было некому"
+    },
+    {
+     "start": 42,
+     "end": 70,
+     "norm_start": 42,
+     "norm_end": 70,
+     "norm_text": "мама меня навещала постоянно"
+    },
+    {
+     "start": 72,
+     "end": 90,
+     "norm_start": 72,
+     "norm_end": 90,
+     "norm_text": "даже ночами сидела"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "БСП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 41,
+     "norm_start": 0,
+     "norm_end": 40,
+     "norm_text": "Друзей у меня нет, приходить было некому"
+    },
+    {
+     "start": 42,
+     "end": 91,
+     "norm_start": 42,
+     "norm_end": 90,
+     "norm_text": "мама меня навещала постоянно, даже ночами сидела"
+    }
+   ]
+  }
+ }
+}

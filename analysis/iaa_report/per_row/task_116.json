@@ -1,0 +1,73 @@
+{
+ "task_idx": 116,
+ "text": "У меня все хорошо, трое за замечательных детей, муж, мама.",
+ "stratum": "presuicidal_multilabel_bsp",
+ "data_id": "415b5c528cd14524869e9a406aeef653-2",
+ "n_tokens": 14,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "БСП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 17,
+     "norm_start": 0,
+     "norm_end": 17,
+     "norm_text": "У меня все хорошо"
+    },
+    {
+     "start": 19,
+     "end": 58,
+     "norm_start": 19,
+     "norm_end": 57,
+     "norm_text": "трое за замечательных детей, муж, мама"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "БСП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 17,
+     "norm_start": 0,
+     "norm_end": 17,
+     "norm_text": "У меня все хорошо"
+    },
+    {
+     "start": 19,
+     "end": 46,
+     "norm_start": 19,
+     "norm_end": 46,
+     "norm_text": "трое за замечательных детей"
+    },
+    {
+     "start": 48,
+     "end": 51,
+     "norm_start": 48,
+     "norm_end": 51,
+     "norm_text": "муж"
+    },
+    {
+     "start": 53,
+     "end": 57,
+     "norm_start": 53,
+     "norm_end": 57,
+     "norm_text": "мама"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "Не сложное",
+   "spans": [
+    {
+     "start": 0,
+     "end": 58,
+     "norm_start": 0,
+     "norm_end": 57,
+     "norm_text": "У меня все хорошо, трое за замечательных детей, муж, мама"
+    }
+   ]
+  }
+ }
+}

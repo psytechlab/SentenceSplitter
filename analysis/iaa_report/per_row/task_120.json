@@ -1,0 +1,66 @@
+{
+ "task_idx": 120,
+ "text": "У меня нет опыта в общении, не когда не общался с противоположным полом, и со своим тоже.",
+ "stratum": "presuicidal_monolabel_long",
+ "data_id": "164ffa50ef26459aa71a98c0a70e7083-41",
+ "n_tokens": 20,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "БСП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 26,
+     "norm_start": 0,
+     "norm_end": 26,
+     "norm_text": "У меня нет опыта в общении"
+    },
+    {
+     "start": 28,
+     "end": 89,
+     "norm_start": 28,
+     "norm_end": 88,
+     "norm_text": "не когда не общался с противоположным полом, и со своим тоже"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "БСП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 26,
+     "norm_start": 0,
+     "norm_end": 26,
+     "norm_text": "У меня нет опыта в общении"
+    },
+    {
+     "start": 28,
+     "end": 88,
+     "norm_start": 28,
+     "norm_end": 88,
+     "norm_text": "не когда не общался с противоположным полом, и со своим тоже"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "БСП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 27,
+     "norm_start": 0,
+     "norm_end": 26,
+     "norm_text": "У меня нет опыта в общении"
+    },
+    {
+     "start": 28,
+     "end": 89,
+     "norm_start": 28,
+     "norm_end": 88,
+     "norm_text": "не когда не общался с противоположным полом, и со своим тоже"
+    }
+   ]
+  }
+ }
+}

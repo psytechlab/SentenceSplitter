@@ -1,0 +1,45 @@
+{
+ "task_idx": 149,
+ "text": "Я ненавижу себя и свою жизнь.",
+ "stratum": "presuicidal_multilabel_conj",
+ "data_id": "8039d24e990c4dec8eca8d7704779222-0",
+ "n_tokens": 7,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "Не сложное",
+   "spans": [
+    {
+     "start": 0,
+     "end": 29,
+     "norm_start": 0,
+     "norm_end": 28,
+     "norm_text": "Я ненавижу себя и свою жизнь"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "Не сложное",
+   "spans": [
+    {
+     "start": 0,
+     "end": 28,
+     "norm_start": 0,
+     "norm_end": 28,
+     "norm_text": "Я ненавижу себя и свою жизнь"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "Не сложное",
+   "spans": [
+    {
+     "start": 0,
+     "end": 29,
+     "norm_start": 0,
+     "norm_end": 28,
+     "norm_text": "Я ненавижу себя и свою жизнь"
+    }
+   ]
+  }
+ }
+}

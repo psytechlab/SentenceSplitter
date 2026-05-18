@@ -1,0 +1,66 @@
+{
+ "task_idx": 118,
+ "text": "У меня есть сын, я его очень очень люблю.",
+ "stratum": "presuicidal_multilabel_bsp",
+ "data_id": "d681c53f74874dd3bcb658f58e077eea-4",
+ "n_tokens": 11,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "БСП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 16,
+     "norm_start": 0,
+     "norm_end": 15,
+     "norm_text": "У меня есть сын"
+    },
+    {
+     "start": 17,
+     "end": 41,
+     "norm_start": 17,
+     "norm_end": 40,
+     "norm_text": "я его очень очень люблю"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "БСП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 15,
+     "norm_start": 0,
+     "norm_end": 15,
+     "norm_text": "У меня есть сын"
+    },
+    {
+     "start": 17,
+     "end": 40,
+     "norm_start": 17,
+     "norm_end": 40,
+     "norm_text": "я его очень очень люблю"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "БСП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 16,
+     "norm_start": 0,
+     "norm_end": 15,
+     "norm_text": "У меня есть сын"
+    },
+    {
+     "start": 17,
+     "end": 41,
+     "norm_start": 17,
+     "norm_end": 40,
+     "norm_text": "я его очень очень люблю"
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "task_idx": 34,
+ "text": "Есть у меня еще одна довольно-таки серьезная проблема.",
+ "stratum": "presuicidal_short_simple",
+ "data_id": "d4d7acb23d85436cb7385bbfa8bee5bd-23",
+ "n_tokens": 9,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "Не сложное",
+   "spans": [
+    {
+     "start": 0,
+     "end": 54,
+     "norm_start": 0,
+     "norm_end": 53,
+     "norm_text": "Есть у меня еще одна довольно-таки серьезная проблема"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "Не сложное",
+   "spans": [
+    {
+     "start": 0,
+     "end": 53,
+     "norm_start": 0,
+     "norm_end": 53,
+     "norm_text": "Есть у меня еще одна довольно-таки серьезная проблема"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "Не сложное",
+   "spans": [
+    {
+     "start": 0,
+     "end": 54,
+     "norm_start": 0,
+     "norm_end": 53,
+     "norm_text": "Есть у меня еще одна довольно-таки серьезная проблема"
+    }
+   ]
+  }
+ }
+}

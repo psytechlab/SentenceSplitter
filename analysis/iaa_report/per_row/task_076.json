@@ -1,0 +1,87 @@
+{
+ "task_idx": 76,
+ "text": "Наконец-то я была счастлива, что обрела человека, который меня понимает.",
+ "stratum": "presuicidal_multilabel_conj",
+ "data_id": "e3a71dd302fb455e8d03d117d88fa7f2-15",
+ "n_tokens": 13,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "СПП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 27,
+     "norm_start": 0,
+     "norm_end": 27,
+     "norm_text": "Наконец-то я была счастлива"
+    },
+    {
+     "start": 29,
+     "end": 48,
+     "norm_start": 29,
+     "norm_end": 48,
+     "norm_text": "что обрела человека"
+    },
+    {
+     "start": 50,
+     "end": 72,
+     "norm_start": 50,
+     "norm_end": 71,
+     "norm_text": "который меня понимает"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "СПП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 27,
+     "norm_start": 0,
+     "norm_end": 27,
+     "norm_text": "Наконец-то я была счастлива"
+    },
+    {
+     "start": 29,
+     "end": 48,
+     "norm_start": 29,
+     "norm_end": 48,
+     "norm_text": "что обрела человека"
+    },
+    {
+     "start": 50,
+     "end": 71,
+     "norm_start": 50,
+     "norm_end": 71,
+     "norm_text": "который меня понимает"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "СПП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 28,
+     "norm_start": 0,
+     "norm_end": 27,
+     "norm_text": "Наконец-то я была счастлива"
+    },
+    {
+     "start": 29,
+     "end": 49,
+     "norm_start": 29,
+     "norm_end": 48,
+     "norm_text": "что обрела человека"
+    },
+    {
+     "start": 50,
+     "end": 72,
+     "norm_start": 50,
+     "norm_end": 71,
+     "norm_text": "который меня понимает"
+    }
+   ]
+  }
+ }
+}

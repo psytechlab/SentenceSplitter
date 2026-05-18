@@ -1,0 +1,143 @@
+{
+ "task_idx": 139,
+ "text": "Я была счастлива, впервые за все годы я была безумно счастлива, я верила что он моя половинка, да что уж там, не половинка, он это я!",
+ "stratum": "presuicidal_multilabel_conj",
+ "data_id": "ae550959f27e473895843d82caee5055-17",
+ "n_tokens": 32,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 16,
+     "norm_start": 0,
+     "norm_end": 16,
+     "norm_text": "Я была счастлива"
+    },
+    {
+     "start": 18,
+     "end": 62,
+     "norm_start": 18,
+     "norm_end": 62,
+     "norm_text": "впервые за все годы я была безумно счастлива"
+    },
+    {
+     "start": 64,
+     "end": 93,
+     "norm_start": 64,
+     "norm_end": 93,
+     "norm_text": "я верила что он моя половинка"
+    },
+    {
+     "start": 95,
+     "end": 108,
+     "norm_start": 95,
+     "norm_end": 108,
+     "norm_text": "да что уж там"
+    },
+    {
+     "start": 110,
+     "end": 122,
+     "norm_start": 110,
+     "norm_end": 122,
+     "norm_text": "не половинка"
+    },
+    {
+     "start": 124,
+     "end": 133,
+     "norm_start": 124,
+     "norm_end": 132,
+     "norm_text": "он это я"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 16,
+     "norm_start": 0,
+     "norm_end": 16,
+     "norm_text": "Я была счастлива"
+    },
+    {
+     "start": 18,
+     "end": 62,
+     "norm_start": 18,
+     "norm_end": 62,
+     "norm_text": "впервые за все годы я была безумно счастлива"
+    },
+    {
+     "start": 64,
+     "end": 72,
+     "norm_start": 64,
+     "norm_end": 72,
+     "norm_text": "я верила"
+    },
+    {
+     "start": 73,
+     "end": 93,
+     "norm_start": 73,
+     "norm_end": 93,
+     "norm_text": "что он моя половинка"
+    },
+    {
+     "start": 95,
+     "end": 122,
+     "norm_start": 95,
+     "norm_end": 122,
+     "norm_text": "да что уж там, не половинка"
+    },
+    {
+     "start": 124,
+     "end": 132,
+     "norm_start": 124,
+     "norm_end": 132,
+     "norm_text": "он это я"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 17,
+     "norm_start": 0,
+     "norm_end": 16,
+     "norm_text": "Я была счастлива"
+    },
+    {
+     "start": 18,
+     "end": 63,
+     "norm_start": 18,
+     "norm_end": 62,
+     "norm_text": "впервые за все годы я была безумно счастлива"
+    },
+    {
+     "start": 64,
+     "end": 72,
+     "norm_start": 64,
+     "norm_end": 72,
+     "norm_text": "я верила"
+    },
+    {
+     "start": 73,
+     "end": 94,
+     "norm_start": 73,
+     "norm_end": 93,
+     "norm_text": "что он моя половинка"
+    },
+    {
+     "start": 95,
+     "end": 133,
+     "norm_start": 95,
+     "norm_end": 132,
+     "norm_text": "да что уж там, не половинка, он это я"
+    }
+   ]
+  }
+ }
+}

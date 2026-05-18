@@ -1,0 +1,227 @@
+{
+ "task_idx": 178,
+ "text": "искреннелюбили Он постоянно говорит что я никому не нужна, что я потихоньку уже в это верюДрузей у меня так и не появилось, все только и стараются нагадить, меня уволили с хорошей работы, как оказалось из-за тех кого я считала друзьями, в лицо все мило улыбались, а в это время плели сплетни и интриги.",
+ "stratum": "presuicidal_multilabel_conj",
+ "data_id": "455bba1f40b64a05a17a03f9d1ab36ee-9",
+ "n_tokens": 60,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 14,
+     "norm_start": 0,
+     "norm_end": 14,
+     "norm_text": "искреннелюбили"
+    },
+    {
+     "start": 15,
+     "end": 57,
+     "norm_start": 15,
+     "norm_end": 57,
+     "norm_text": "Он постоянно говорит что я никому не нужна"
+    },
+    {
+     "start": 59,
+     "end": 90,
+     "norm_start": 59,
+     "norm_end": 90,
+     "norm_text": "что я потихоньку уже в это верю"
+    },
+    {
+     "start": 90,
+     "end": 122,
+     "norm_start": 90,
+     "norm_end": 122,
+     "norm_text": "Друзей у меня так и не появилось"
+    },
+    {
+     "start": 124,
+     "end": 155,
+     "norm_start": 124,
+     "norm_end": 155,
+     "norm_text": "все только и стараются нагадить"
+    },
+    {
+     "start": 157,
+     "end": 186,
+     "norm_start": 157,
+     "norm_end": 186,
+     "norm_text": "меня уволили с хорошей работы"
+    },
+    {
+     "start": 188,
+     "end": 235,
+     "norm_start": 188,
+     "norm_end": 235,
+     "norm_text": "как оказалось из-за тех кого я считала друзьями"
+    },
+    {
+     "start": 237,
+     "end": 263,
+     "norm_start": 237,
+     "norm_end": 262,
+     "norm_text": "в лицо все мило улыбались"
+    },
+    {
+     "start": 264,
+     "end": 302,
+     "norm_start": 264,
+     "norm_end": 301,
+     "norm_text": "а в это время плели сплетни и интриги"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 14,
+     "norm_start": 0,
+     "norm_end": 14,
+     "norm_text": "искреннелюбили"
+    },
+    {
+     "start": 15,
+     "end": 35,
+     "norm_start": 15,
+     "norm_end": 35,
+     "norm_text": "Он постоянно говорит"
+    },
+    {
+     "start": 36,
+     "end": 57,
+     "norm_start": 36,
+     "norm_end": 57,
+     "norm_text": "что я никому не нужна"
+    },
+    {
+     "start": 59,
+     "end": 90,
+     "norm_start": 59,
+     "norm_end": 90,
+     "norm_text": "что я потихоньку уже в это верю"
+    },
+    {
+     "start": 90,
+     "end": 122,
+     "norm_start": 90,
+     "norm_end": 122,
+     "norm_text": "Друзей у меня так и не появилось"
+    },
+    {
+     "start": 124,
+     "end": 155,
+     "norm_start": 124,
+     "norm_end": 155,
+     "norm_text": "все только и стараются нагадить"
+    },
+    {
+     "start": 157,
+     "end": 186,
+     "norm_start": 157,
+     "norm_end": 186,
+     "norm_text": "меня уволили с хорошей работы"
+    },
+    {
+     "start": 188,
+     "end": 212,
+     "norm_start": 188,
+     "norm_end": 211,
+     "norm_text": "как оказалось из-за тех"
+    },
+    {
+     "start": 212,
+     "end": 235,
+     "norm_start": 212,
+     "norm_end": 235,
+     "norm_text": "кого я считала друзьями"
+    },
+    {
+     "start": 237,
+     "end": 262,
+     "norm_start": 237,
+     "norm_end": 262,
+     "norm_text": "в лицо все мило улыбались"
+    },
+    {
+     "start": 264,
+     "end": 302,
+     "norm_start": 264,
+     "norm_end": 301,
+     "norm_text": "а в это время плели сплетни и интриги"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 15,
+     "end": 35,
+     "norm_start": 15,
+     "norm_end": 35,
+     "norm_text": "Он постоянно говорит"
+    },
+    {
+     "start": 36,
+     "end": 58,
+     "norm_start": 36,
+     "norm_end": 57,
+     "norm_text": "что я никому не нужна"
+    },
+    {
+     "start": 59,
+     "end": 90,
+     "norm_start": 59,
+     "norm_end": 90,
+     "norm_text": "что я потихоньку уже в это верю"
+    },
+    {
+     "start": 90,
+     "end": 123,
+     "norm_start": 90,
+     "norm_end": 122,
+     "norm_text": "Друзей у меня так и не появилось"
+    },
+    {
+     "start": 124,
+     "end": 156,
+     "norm_start": 124,
+     "norm_end": 155,
+     "norm_text": "все только и стараются нагадить"
+    },
+    {
+     "start": 157,
+     "end": 187,
+     "norm_start": 157,
+     "norm_end": 186,
+     "norm_text": "меня уволили с хорошей работы"
+    },
+    {
+     "start": 187,
+     "end": 236,
+     "norm_start": 188,
+     "norm_end": 235,
+     "norm_text": "как оказалось из-за тех кого я считала друзьями"
+    },
+    {
+     "start": 237,
+     "end": 263,
+     "norm_start": 237,
+     "norm_end": 262,
+     "norm_text": "в лицо все мило улыбались"
+    },
+    {
+     "start": 263,
+     "end": 302,
+     "norm_start": 264,
+     "norm_end": 301,
+     "norm_text": "а в это время плели сплетни и интриги"
+    }
+   ]
+  }
+ }
+}

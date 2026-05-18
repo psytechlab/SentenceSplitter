@@ -1,0 +1,101 @@
+{
+ "task_idx": 19,
+ "text": "Всем, кто пытается выместить свою ярость в сообщениях: успокойтесь, я их даже не открываю», — отметила Папен.",
+ "stratum": "solyanka_lenta_long",
+ "data_id": "",
+ "n_tokens": 23,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 53,
+     "norm_start": 0,
+     "norm_end": 53,
+     "norm_text": "Всем, кто пытается выместить свою ярость в сообщениях"
+    },
+    {
+     "start": 55,
+     "end": 66,
+     "norm_start": 55,
+     "norm_end": 66,
+     "norm_text": "успокойтесь"
+    },
+    {
+     "start": 68,
+     "end": 90,
+     "norm_start": 68,
+     "norm_end": 89,
+     "norm_text": "я их даже не открываю"
+    },
+    {
+     "start": 94,
+     "end": 109,
+     "norm_start": 94,
+     "norm_end": 108,
+     "norm_text": "отметила Папен"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "БСП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 53,
+     "norm_start": 0,
+     "norm_end": 53,
+     "norm_text": "Всем, кто пытается выместить свою ярость в сообщениях"
+    },
+    {
+     "start": 55,
+     "end": 66,
+     "norm_start": 55,
+     "norm_end": 66,
+     "norm_text": "успокойтесь"
+    },
+    {
+     "start": 68,
+     "end": 89,
+     "norm_start": 68,
+     "norm_end": 89,
+     "norm_text": "я их даже не открываю"
+    },
+    {
+     "start": 94,
+     "end": 108,
+     "norm_start": 94,
+     "norm_end": 108,
+     "norm_text": "отметила Папен"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "БСП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 67,
+     "norm_start": 0,
+     "norm_end": 66,
+     "norm_text": "Всем, кто пытается выместить свою ярость в сообщениях: успокойтесь"
+    },
+    {
+     "start": 68,
+     "end": 89,
+     "norm_start": 68,
+     "norm_end": 89,
+     "norm_text": "я их даже не открываю"
+    },
+    {
+     "start": 94,
+     "end": 109,
+     "norm_start": 94,
+     "norm_end": 108,
+     "norm_text": "отметила Папен"
+    }
+   ]
+  }
+ }
+}

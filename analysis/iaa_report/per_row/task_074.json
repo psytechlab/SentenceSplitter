@@ -1,0 +1,66 @@
+{
+ "task_idx": 74,
+ "text": "На что она мне дала ясно понять, что я назойливый и плаксливый мудак.",
+ "stratum": "other",
+ "data_id": "3960eb91e62f400e8c7911b57ce9569e-32",
+ "n_tokens": 15,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "СПП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 32,
+     "norm_start": 0,
+     "norm_end": 31,
+     "norm_text": "На что она мне дала ясно понять"
+    },
+    {
+     "start": 33,
+     "end": 69,
+     "norm_start": 33,
+     "norm_end": 68,
+     "norm_text": "что я назойливый и плаксливый мудак"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "СПП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 31,
+     "norm_start": 0,
+     "norm_end": 31,
+     "norm_text": "На что она мне дала ясно понять"
+    },
+    {
+     "start": 33,
+     "end": 68,
+     "norm_start": 33,
+     "norm_end": 68,
+     "norm_text": "что я назойливый и плаксливый мудак"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "СПП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 32,
+     "norm_start": 0,
+     "norm_end": 31,
+     "norm_text": "На что она мне дала ясно понять"
+    },
+    {
+     "start": 32,
+     "end": 69,
+     "norm_start": 33,
+     "norm_end": 68,
+     "norm_text": "что я назойливый и плаксливый мудак"
+    }
+   ]
+  }
+ }
+}

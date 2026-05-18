@@ -1,0 +1,227 @@
+{
+ "task_idx": 161,
+ "text": "Я устал так жыть, у меня пропала желания штото делать, родители выгнали из дому, уже как год они меня не кормят, а все потому што я учится не хотел, у меня все што осталась ето друзья, спасибо хоть им што они меня не предали, ета так больно когда родные от тебя отварачиваются.",
+ "stratum": "presuicidal_multilabel_conj",
+ "data_id": "6f9493bd16454b2f869882813921dfef-0",
+ "n_tokens": 60,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 17,
+     "norm_start": 0,
+     "norm_end": 16,
+     "norm_text": "Я устал так жыть"
+    },
+    {
+     "start": 18,
+     "end": 53,
+     "norm_start": 18,
+     "norm_end": 53,
+     "norm_text": "у меня пропала желания штото делать"
+    },
+    {
+     "start": 55,
+     "end": 79,
+     "norm_start": 55,
+     "norm_end": 79,
+     "norm_text": "родители выгнали из дому"
+    },
+    {
+     "start": 81,
+     "end": 112,
+     "norm_start": 81,
+     "norm_end": 111,
+     "norm_text": "уже как год они меня не кормят"
+    },
+    {
+     "start": 113,
+     "end": 147,
+     "norm_start": 113,
+     "norm_end": 147,
+     "norm_text": "а все потому што я учится не хотел"
+    },
+    {
+     "start": 149,
+     "end": 183,
+     "norm_start": 149,
+     "norm_end": 183,
+     "norm_text": "у меня все што осталась ето друзья"
+    },
+    {
+     "start": 185,
+     "end": 200,
+     "norm_start": 185,
+     "norm_end": 200,
+     "norm_text": "спасибо хоть им"
+    },
+    {
+     "start": 201,
+     "end": 224,
+     "norm_start": 201,
+     "norm_end": 224,
+     "norm_text": "што они меня не предали"
+    },
+    {
+     "start": 226,
+     "end": 240,
+     "norm_start": 226,
+     "norm_end": 240,
+     "norm_text": "ета так больно"
+    },
+    {
+     "start": 241,
+     "end": 277,
+     "norm_start": 241,
+     "norm_end": 276,
+     "norm_text": "когда родные от тебя отварачиваются"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 16,
+     "norm_start": 0,
+     "norm_end": 16,
+     "norm_text": "Я устал так жыть"
+    },
+    {
+     "start": 18,
+     "end": 53,
+     "norm_start": 18,
+     "norm_end": 53,
+     "norm_text": "у меня пропала желания штото делать"
+    },
+    {
+     "start": 55,
+     "end": 79,
+     "norm_start": 55,
+     "norm_end": 79,
+     "norm_text": "родители выгнали из дому"
+    },
+    {
+     "start": 81,
+     "end": 111,
+     "norm_start": 81,
+     "norm_end": 111,
+     "norm_text": "уже как год они меня не кормят"
+    },
+    {
+     "start": 113,
+     "end": 147,
+     "norm_start": 113,
+     "norm_end": 147,
+     "norm_text": "а все потому што я учится не хотел"
+    },
+    {
+     "start": 148,
+     "end": 183,
+     "norm_start": 149,
+     "norm_end": 183,
+     "norm_text": "у меня все што осталась ето друзья"
+    },
+    {
+     "start": 185,
+     "end": 224,
+     "norm_start": 185,
+     "norm_end": 224,
+     "norm_text": "спасибо хоть им што они меня не предали"
+    },
+    {
+     "start": 226,
+     "end": 240,
+     "norm_start": 226,
+     "norm_end": 240,
+     "norm_text": "ета так больно"
+    },
+    {
+     "start": 241,
+     "end": 276,
+     "norm_start": 241,
+     "norm_end": 276,
+     "norm_text": "когда родные от тебя отварачиваются"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 17,
+     "norm_start": 0,
+     "norm_end": 16,
+     "norm_text": "Я устал так жыть"
+    },
+    {
+     "start": 18,
+     "end": 54,
+     "norm_start": 18,
+     "norm_end": 53,
+     "norm_text": "у меня пропала желания штото делать"
+    },
+    {
+     "start": 55,
+     "end": 80,
+     "norm_start": 55,
+     "norm_end": 79,
+     "norm_text": "родители выгнали из дому"
+    },
+    {
+     "start": 81,
+     "end": 112,
+     "norm_start": 81,
+     "norm_end": 111,
+     "norm_text": "уже как год они меня не кормят"
+    },
+    {
+     "start": 112,
+     "end": 148,
+     "norm_start": 113,
+     "norm_end": 147,
+     "norm_text": "а все потому што я учится не хотел"
+    },
+    {
+     "start": 149,
+     "end": 184,
+     "norm_start": 149,
+     "norm_end": 183,
+     "norm_text": "у меня все што осталась ето друзья"
+    },
+    {
+     "start": 185,
+     "end": 200,
+     "norm_start": 185,
+     "norm_end": 200,
+     "norm_text": "спасибо хоть им"
+    },
+    {
+     "start": 201,
+     "end": 225,
+     "norm_start": 201,
+     "norm_end": 224,
+     "norm_text": "што они меня не предали"
+    },
+    {
+     "start": 226,
+     "end": 240,
+     "norm_start": 226,
+     "norm_end": 240,
+     "norm_text": "ета так больно"
+    },
+    {
+     "start": 241,
+     "end": 277,
+     "norm_start": 241,
+     "norm_end": 276,
+     "norm_text": "когда родные от тебя отварачиваются"
+    }
+   ]
+  }
+ }
+}

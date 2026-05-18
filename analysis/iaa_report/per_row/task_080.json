@@ -1,0 +1,94 @@
+{
+ "task_idx": 80,
+ "text": "Не правильно это хоронить своих детей, он был для меня всё, а как теперь дальше без него?",
+ "stratum": "presuicidal_monolabel_long",
+ "data_id": "d1acc0f4f7344c43ad0bcbb732c46397-5",
+ "n_tokens": 20,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 37,
+     "norm_start": 0,
+     "norm_end": 37,
+     "norm_text": "Не правильно это хоронить своих детей"
+    },
+    {
+     "start": 39,
+     "end": 58,
+     "norm_start": 39,
+     "norm_end": 58,
+     "norm_text": "он был для меня всё"
+    },
+    {
+     "start": 60,
+     "end": 89,
+     "norm_start": 60,
+     "norm_end": 88,
+     "norm_text": "а как теперь дальше без него"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 12,
+     "norm_start": 0,
+     "norm_end": 12,
+     "norm_text": "Не правильно"
+    },
+    {
+     "start": 13,
+     "end": 37,
+     "norm_start": 13,
+     "norm_end": 37,
+     "norm_text": "это хоронить своих детей"
+    },
+    {
+     "start": 39,
+     "end": 58,
+     "norm_start": 39,
+     "norm_end": 58,
+     "norm_text": "он был для меня всё"
+    },
+    {
+     "start": 60,
+     "end": 88,
+     "norm_start": 60,
+     "norm_end": 88,
+     "norm_text": "а как теперь дальше без него"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 38,
+     "norm_start": 0,
+     "norm_end": 37,
+     "norm_text": "Не правильно это хоронить своих детей"
+    },
+    {
+     "start": 39,
+     "end": 59,
+     "norm_start": 39,
+     "norm_end": 58,
+     "norm_text": "он был для меня всё"
+    },
+    {
+     "start": 60,
+     "end": 89,
+     "norm_start": 60,
+     "norm_end": 88,
+     "norm_text": "а как теперь дальше без него"
+    }
+   ]
+  }
+ }
+}

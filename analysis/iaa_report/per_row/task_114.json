@@ -1,0 +1,87 @@
+{
+ "task_idx": 114,
+ "text": "Тело онемело, затряслось, пошли слезы, я задыхался.",
+ "stratum": "presuicidal_multilabel_bsp",
+ "data_id": "ffe862de16e540bd88f20d12ab4af64f-107",
+ "n_tokens": 11,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "БСП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 24,
+     "norm_start": 0,
+     "norm_end": 24,
+     "norm_text": "Тело онемело, затряслось"
+    },
+    {
+     "start": 26,
+     "end": 37,
+     "norm_start": 26,
+     "norm_end": 37,
+     "norm_text": "пошли слезы"
+    },
+    {
+     "start": 39,
+     "end": 51,
+     "norm_start": 39,
+     "norm_end": 50,
+     "norm_text": "я задыхался"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "БСП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 24,
+     "norm_start": 0,
+     "norm_end": 24,
+     "norm_text": "Тело онемело, затряслось"
+    },
+    {
+     "start": 26,
+     "end": 37,
+     "norm_start": 26,
+     "norm_end": 37,
+     "norm_text": "пошли слезы"
+    },
+    {
+     "start": 39,
+     "end": 50,
+     "norm_start": 39,
+     "norm_end": 50,
+     "norm_text": "я задыхался"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "БСП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 25,
+     "norm_start": 0,
+     "norm_end": 24,
+     "norm_text": "Тело онемело, затряслось"
+    },
+    {
+     "start": 26,
+     "end": 38,
+     "norm_start": 26,
+     "norm_end": 37,
+     "norm_text": "пошли слезы"
+    },
+    {
+     "start": 39,
+     "end": 51,
+     "norm_start": 39,
+     "norm_end": 50,
+     "norm_text": "я задыхался"
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,283 @@
+{
+ "task_idx": 121,
+ "text": "У меня тоже жёсткие родители, я их ненавижу, тем более всю семью свою кошку всех вообще чтобы они сдохли все я мечтаю съехать из дому и жить отдельно года считаю скорее бы мать и отец сердятся на меня были попытки суицида и все неудачные помогрте пожалуйста другие нормальные люди заводят семьи а я как кусок дерьма ни новой семьи ничего живу с рваньем и старьем я жить не хочу",
+ "stratum": "presuicidal_multilabel_conj",
+ "data_id": "6ed9c37e823f4ea5922af541b8d155cb-0",
+ "n_tokens": 71,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 29,
+     "norm_start": 0,
+     "norm_end": 28,
+     "norm_text": "У меня тоже жёсткие родители"
+    },
+    {
+     "start": 30,
+     "end": 87,
+     "norm_start": 30,
+     "norm_end": 87,
+     "norm_text": "я их ненавижу, тем более всю семью свою кошку всех вообще"
+    },
+    {
+     "start": 88,
+     "end": 108,
+     "norm_start": 88,
+     "norm_end": 108,
+     "norm_text": "чтобы они сдохли все"
+    },
+    {
+     "start": 109,
+     "end": 149,
+     "norm_start": 109,
+     "norm_end": 149,
+     "norm_text": "я мечтаю съехать из дому и жить отдельно"
+    },
+    {
+     "start": 150,
+     "end": 171,
+     "norm_start": 150,
+     "norm_end": 171,
+     "norm_text": "года считаю скорее бы"
+    },
+    {
+     "start": 172,
+     "end": 200,
+     "norm_start": 172,
+     "norm_end": 200,
+     "norm_text": "мать и отец сердятся на меня"
+    },
+    {
+     "start": 201,
+     "end": 237,
+     "norm_start": 201,
+     "norm_end": 237,
+     "norm_text": "были попытки суицида и все неудачные"
+    },
+    {
+     "start": 238,
+     "end": 258,
+     "norm_start": 238,
+     "norm_end": 257,
+     "norm_text": "помогрте пожалуйста"
+    },
+    {
+     "start": 258,
+     "end": 294,
+     "norm_start": 258,
+     "norm_end": 294,
+     "norm_text": "другие нормальные люди заводят семьи"
+    },
+    {
+     "start": 295,
+     "end": 337,
+     "norm_start": 295,
+     "norm_end": 337,
+     "norm_text": "а я как кусок дерьма ни новой семьи ничего"
+    },
+    {
+     "start": 338,
+     "end": 362,
+     "norm_start": 338,
+     "norm_end": 362,
+     "norm_text": "живу с рваньем и старьем"
+    },
+    {
+     "start": 363,
+     "end": 377,
+     "norm_start": 363,
+     "norm_end": 377,
+     "norm_text": "я жить не хочу"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 28,
+     "norm_start": 0,
+     "norm_end": 28,
+     "norm_text": "У меня тоже жёсткие родители"
+    },
+    {
+     "start": 30,
+     "end": 43,
+     "norm_start": 30,
+     "norm_end": 43,
+     "norm_text": "я их ненавижу"
+    },
+    {
+     "start": 45,
+     "end": 87,
+     "norm_start": 45,
+     "norm_end": 87,
+     "norm_text": "тем более всю семью свою кошку всех вообще"
+    },
+    {
+     "start": 88,
+     "end": 108,
+     "norm_start": 88,
+     "norm_end": 108,
+     "norm_text": "чтобы они сдохли все"
+    },
+    {
+     "start": 109,
+     "end": 149,
+     "norm_start": 109,
+     "norm_end": 149,
+     "norm_text": "я мечтаю съехать из дому и жить отдельно"
+    },
+    {
+     "start": 150,
+     "end": 171,
+     "norm_start": 150,
+     "norm_end": 171,
+     "norm_text": "года считаю скорее бы"
+    },
+    {
+     "start": 172,
+     "end": 200,
+     "norm_start": 172,
+     "norm_end": 200,
+     "norm_text": "мать и отец сердятся на меня"
+    },
+    {
+     "start": 201,
+     "end": 221,
+     "norm_start": 201,
+     "norm_end": 221,
+     "norm_text": "были попытки суицида"
+    },
+    {
+     "start": 222,
+     "end": 237,
+     "norm_start": 222,
+     "norm_end": 237,
+     "norm_text": "и все неудачные"
+    },
+    {
+     "start": 238,
+     "end": 257,
+     "norm_start": 238,
+     "norm_end": 257,
+     "norm_text": "помогрте пожалуйста"
+    },
+    {
+     "start": 258,
+     "end": 294,
+     "norm_start": 258,
+     "norm_end": 294,
+     "norm_text": "другие нормальные люди заводят семьи"
+    },
+    {
+     "start": 295,
+     "end": 315,
+     "norm_start": 295,
+     "norm_end": 315,
+     "norm_text": "а я как кусок дерьма"
+    },
+    {
+     "start": 316,
+     "end": 337,
+     "norm_start": 316,
+     "norm_end": 337,
+     "norm_text": "ни новой семьи ничего"
+    },
+    {
+     "start": 338,
+     "end": 362,
+     "norm_start": 338,
+     "norm_end": 362,
+     "norm_text": "живу с рваньем и старьем"
+    },
+    {
+     "start": 363,
+     "end": 377,
+     "norm_start": 363,
+     "norm_end": 377,
+     "norm_text": "я жить не хочу"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 29,
+     "norm_start": 0,
+     "norm_end": 28,
+     "norm_text": "У меня тоже жёсткие родители"
+    },
+    {
+     "start": 30,
+     "end": 88,
+     "norm_start": 30,
+     "norm_end": 87,
+     "norm_text": "я их ненавижу, тем более всю семью свою кошку всех вообще"
+    },
+    {
+     "start": 88,
+     "end": 108,
+     "norm_start": 88,
+     "norm_end": 108,
+     "norm_text": "чтобы они сдохли все"
+    },
+    {
+     "start": 109,
+     "end": 171,
+     "norm_start": 109,
+     "norm_end": 171,
+     "norm_text": "я мечтаю съехать из дому и жить отдельно года считаю скорее бы"
+    },
+    {
+     "start": 172,
+     "end": 200,
+     "norm_start": 172,
+     "norm_end": 200,
+     "norm_text": "мать и отец сердятся на меня"
+    },
+    {
+     "start": 201,
+     "end": 237,
+     "norm_start": 201,
+     "norm_end": 237,
+     "norm_text": "были попытки суицида и все неудачные"
+    },
+    {
+     "start": 238,
+     "end": 257,
+     "norm_start": 238,
+     "norm_end": 257,
+     "norm_text": "помогрте пожалуйста"
+    },
+    {
+     "start": 258,
+     "end": 294,
+     "norm_start": 258,
+     "norm_end": 294,
+     "norm_text": "другие нормальные люди заводят семьи"
+    },
+    {
+     "start": 295,
+     "end": 362,
+     "norm_start": 295,
+     "norm_end": 362,
+     "norm_text": "а я как кусок дерьма ни новой семьи ничего живу с рваньем и старьем"
+    },
+    {
+     "start": 363,
+     "end": 377,
+     "norm_start": 363,
+     "norm_end": 377,
+     "norm_text": "я жить не хочу"
+    }
+   ]
+  }
+ }
+}

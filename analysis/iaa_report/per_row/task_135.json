@@ -1,0 +1,66 @@
+{
+ "task_idx": 135,
+ "text": "Я больна неизлечимой болезнью, нет смысла жить.",
+ "stratum": "presuicidal_multilabel_bsp",
+ "data_id": "031239da97554e83aaefd6358560b9c6-0",
+ "n_tokens": 9,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "БСП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 29,
+     "norm_start": 0,
+     "norm_end": 29,
+     "norm_text": "Я больна неизлечимой болезнью"
+    },
+    {
+     "start": 31,
+     "end": 47,
+     "norm_start": 31,
+     "norm_end": 46,
+     "norm_text": "нет смысла жить"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "БСП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 29,
+     "norm_start": 0,
+     "norm_end": 29,
+     "norm_text": "Я больна неизлечимой болезнью"
+    },
+    {
+     "start": 31,
+     "end": 46,
+     "norm_start": 31,
+     "norm_end": 46,
+     "norm_text": "нет смысла жить"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "БСП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 30,
+     "norm_start": 0,
+     "norm_end": 29,
+     "norm_text": "Я больна неизлечимой болезнью"
+    },
+    {
+     "start": 31,
+     "end": 47,
+     "norm_start": 31,
+     "norm_end": 46,
+     "norm_text": "нет смысла жить"
+    }
+   ]
+  }
+ }
+}

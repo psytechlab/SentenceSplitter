@@ -1,0 +1,101 @@
+{
+ "task_idx": 30,
+ "text": "Друзей у меня никогда не было, меня постоянно травили в школе, когда возвращался домой били родители.",
+ "stratum": "presuicidal_multilabel_conj",
+ "data_id": "2291cb80ebad4acabf93f9c469825045-2",
+ "n_tokens": 19,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 29,
+     "norm_start": 0,
+     "norm_end": 29,
+     "norm_text": "Друзей у меня никогда не было"
+    },
+    {
+     "start": 31,
+     "end": 61,
+     "norm_start": 31,
+     "norm_end": 61,
+     "norm_text": "меня постоянно травили в школе"
+    },
+    {
+     "start": 63,
+     "end": 101,
+     "norm_start": 63,
+     "norm_end": 100,
+     "norm_text": "когда возвращался домой били родители"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 29,
+     "norm_start": 0,
+     "norm_end": 29,
+     "norm_text": "Друзей у меня никогда не было"
+    },
+    {
+     "start": 31,
+     "end": 61,
+     "norm_start": 31,
+     "norm_end": 61,
+     "norm_text": "меня постоянно травили в школе"
+    },
+    {
+     "start": 62,
+     "end": 86,
+     "norm_start": 63,
+     "norm_end": 86,
+     "norm_text": "когда возвращался домой"
+    },
+    {
+     "start": 87,
+     "end": 100,
+     "norm_start": 87,
+     "norm_end": 100,
+     "norm_text": "били родители"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 30,
+     "norm_start": 0,
+     "norm_end": 29,
+     "norm_text": "Друзей у меня никогда не было"
+    },
+    {
+     "start": 31,
+     "end": 62,
+     "norm_start": 31,
+     "norm_end": 61,
+     "norm_text": "меня постоянно травили в школе"
+    },
+    {
+     "start": 63,
+     "end": 86,
+     "norm_start": 63,
+     "norm_end": 86,
+     "norm_text": "когда возвращался домой"
+    },
+    {
+     "start": 87,
+     "end": 101,
+     "norm_start": 87,
+     "norm_end": 100,
+     "norm_text": "били родители"
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,66 @@
+{
+ "task_idx": 186,
+ "text": "но в итоге на 14 февроля он меня очень сильно оскорбил и я снова порезала руку.",
+ "stratum": "presuicidal_multilabel_conj",
+ "data_id": "c68356dbeb6c4e3a8b87f8c39099589d-6",
+ "n_tokens": 17,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "ССП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 54,
+     "norm_start": 0,
+     "norm_end": 54,
+     "norm_text": "но в итоге на 14 февроля он меня очень сильно оскорбил"
+    },
+    {
+     "start": 55,
+     "end": 79,
+     "norm_start": 55,
+     "norm_end": 78,
+     "norm_text": "и я снова порезала руку"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "ССП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 54,
+     "norm_start": 0,
+     "norm_end": 54,
+     "norm_text": "но в итоге на 14 февроля он меня очень сильно оскорбил"
+    },
+    {
+     "start": 55,
+     "end": 78,
+     "norm_start": 55,
+     "norm_end": 78,
+     "norm_text": "и я снова порезала руку"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "ССП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 54,
+     "norm_start": 0,
+     "norm_end": 54,
+     "norm_text": "но в итоге на 14 февроля он меня очень сильно оскорбил"
+    },
+    {
+     "start": 54,
+     "end": 79,
+     "norm_start": 55,
+     "norm_end": 78,
+     "norm_text": "и я снова порезала руку"
+    }
+   ]
+  }
+ }
+}

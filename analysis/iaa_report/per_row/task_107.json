@@ -1,0 +1,94 @@
+{
+ "task_idx": 107,
+ "text": "Решила что буду разводится, мои родители вроде поддерживают меня но только на словах.",
+ "stratum": "presuicidal_multilabel_conj",
+ "data_id": "64524ce1d9304546b1e610fd23448018-19",
+ "n_tokens": 15,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 26,
+     "norm_start": 0,
+     "norm_end": 26,
+     "norm_text": "Решила что буду разводится"
+    },
+    {
+     "start": 28,
+     "end": 85,
+     "norm_start": 28,
+     "norm_end": 84,
+     "norm_text": "мои родители вроде поддерживают меня но только на словах"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 6,
+     "norm_start": 0,
+     "norm_end": 6,
+     "norm_text": "Решила"
+    },
+    {
+     "start": 7,
+     "end": 26,
+     "norm_start": 7,
+     "norm_end": 26,
+     "norm_text": "что буду разводится"
+    },
+    {
+     "start": 28,
+     "end": 64,
+     "norm_start": 28,
+     "norm_end": 64,
+     "norm_text": "мои родители вроде поддерживают меня"
+    },
+    {
+     "start": 65,
+     "end": 84,
+     "norm_start": 65,
+     "norm_end": 84,
+     "norm_text": "но только на словах"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 6,
+     "norm_start": 0,
+     "norm_end": 6,
+     "norm_text": "Решила"
+    },
+    {
+     "start": 7,
+     "end": 27,
+     "norm_start": 7,
+     "norm_end": 26,
+     "norm_text": "что буду разводится"
+    },
+    {
+     "start": 28,
+     "end": 64,
+     "norm_start": 28,
+     "norm_end": 64,
+     "norm_text": "мои родители вроде поддерживают меня"
+    },
+    {
+     "start": 65,
+     "end": 85,
+     "norm_start": 65,
+     "norm_end": 84,
+     "norm_text": "но только на словах"
+    }
+   ]
+  }
+ }
+}

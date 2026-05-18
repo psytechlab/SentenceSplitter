@@ -1,0 +1,87 @@
+{
+ "task_idx": 173,
+ "text": "в очередной раз убеждаюсь, что просьба фолловить обратно абсолютно отвратительна. только говнари так делают",
+ "stratum": "solyanka_social_media_multi",
+ "data_id": "",
+ "n_tokens": 16,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 26,
+     "norm_start": 0,
+     "norm_end": 25,
+     "norm_text": "в очередной раз убеждаюсь"
+    },
+    {
+     "start": 27,
+     "end": 81,
+     "norm_start": 27,
+     "norm_end": 80,
+     "norm_text": "что просьба фолловить обратно абсолютно отвратительна"
+    },
+    {
+     "start": 82,
+     "end": 107,
+     "norm_start": 82,
+     "norm_end": 107,
+     "norm_text": "только говнари так делают"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 25,
+     "norm_start": 0,
+     "norm_end": 25,
+     "norm_text": "в очередной раз убеждаюсь"
+    },
+    {
+     "start": 27,
+     "end": 80,
+     "norm_start": 27,
+     "norm_end": 80,
+     "norm_text": "что просьба фолловить обратно абсолютно отвратительна"
+    },
+    {
+     "start": 82,
+     "end": 107,
+     "norm_start": 82,
+     "norm_end": 107,
+     "norm_text": "только говнари так делают"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 26,
+     "norm_start": 0,
+     "norm_end": 25,
+     "norm_text": "в очередной раз убеждаюсь"
+    },
+    {
+     "start": 27,
+     "end": 81,
+     "norm_start": 27,
+     "norm_end": 80,
+     "norm_text": "что просьба фолловить обратно абсолютно отвратительна"
+    },
+    {
+     "start": 82,
+     "end": 107,
+     "norm_start": 82,
+     "norm_end": 107,
+     "norm_text": "только говнари так делают"
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "task_idx": 126,
+ "text": "Учусь я хорошо, без троек.",
+ "stratum": "presuicidal_short_simple",
+ "data_id": "07ab1bfa291d4996bdc370ccb45479b6-9",
+ "n_tokens": 7,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "Не сложное",
+   "spans": [
+    {
+     "start": 0,
+     "end": 26,
+     "norm_start": 0,
+     "norm_end": 25,
+     "norm_text": "Учусь я хорошо, без троек"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "Не сложное",
+   "spans": [
+    {
+     "start": 0,
+     "end": 26,
+     "norm_start": 0,
+     "norm_end": 25,
+     "norm_text": "Учусь я хорошо, без троек"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "Не сложное",
+   "spans": [
+    {
+     "start": 0,
+     "end": 26,
+     "norm_start": 0,
+     "norm_end": 25,
+     "norm_text": "Учусь я хорошо, без троек"
+    }
+   ]
+  }
+ }
+}

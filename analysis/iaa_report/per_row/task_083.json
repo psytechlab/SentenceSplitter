@@ -1,0 +1,150 @@
+{
+ "task_idx": 83,
+ "text": "Неделю назад говорила бывшей однокласснице ребенка - мол, не слушай других, ты имеешь право скорбеть столько, сколько надо, никто не может решить за тебя, сколько тебе нужно времени, дай себе это пережить.",
+ "stratum": "presuicidal_monolabel_long",
+ "data_id": "1ae5578a6b0b488abab1d70cab343838-0",
+ "n_tokens": 39,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 50,
+     "norm_start": 0,
+     "norm_end": 50,
+     "norm_text": "Неделю назад говорила бывшей однокласснице ребенка"
+    },
+    {
+     "start": 53,
+     "end": 74,
+     "norm_start": 53,
+     "norm_end": 74,
+     "norm_text": "мол, не слушай других"
+    },
+    {
+     "start": 76,
+     "end": 122,
+     "norm_start": 76,
+     "norm_end": 122,
+     "norm_text": "ты имеешь право скорбеть столько, сколько надо"
+    },
+    {
+     "start": 124,
+     "end": 153,
+     "norm_start": 124,
+     "norm_end": 153,
+     "norm_text": "никто не может решить за тебя"
+    },
+    {
+     "start": 155,
+     "end": 181,
+     "norm_start": 155,
+     "norm_end": 181,
+     "norm_text": "сколько тебе нужно времени"
+    },
+    {
+     "start": 183,
+     "end": 205,
+     "norm_start": 183,
+     "norm_end": 204,
+     "norm_text": "дай себе это пережить"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 50,
+     "norm_start": 0,
+     "norm_end": 50,
+     "norm_text": "Неделю назад говорила бывшей однокласснице ребенка"
+    },
+    {
+     "start": 53,
+     "end": 74,
+     "norm_start": 53,
+     "norm_end": 74,
+     "norm_text": "мол, не слушай других"
+    },
+    {
+     "start": 76,
+     "end": 122,
+     "norm_start": 76,
+     "norm_end": 122,
+     "norm_text": "ты имеешь право скорбеть столько, сколько надо"
+    },
+    {
+     "start": 124,
+     "end": 153,
+     "norm_start": 124,
+     "norm_end": 153,
+     "norm_text": "никто не может решить за тебя"
+    },
+    {
+     "start": 155,
+     "end": 181,
+     "norm_start": 155,
+     "norm_end": 181,
+     "norm_text": "сколько тебе нужно времени"
+    },
+    {
+     "start": 183,
+     "end": 204,
+     "norm_start": 183,
+     "norm_end": 204,
+     "norm_text": "дай себе это пережить"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 50,
+     "norm_start": 0,
+     "norm_end": 50,
+     "norm_text": "Неделю назад говорила бывшей однокласснице ребенка"
+    },
+    {
+     "start": 58,
+     "end": 75,
+     "norm_start": 58,
+     "norm_end": 74,
+     "norm_text": "не слушай других"
+    },
+    {
+     "start": 76,
+     "end": 123,
+     "norm_start": 76,
+     "norm_end": 122,
+     "norm_text": "ты имеешь право скорбеть столько, сколько надо"
+    },
+    {
+     "start": 124,
+     "end": 154,
+     "norm_start": 124,
+     "norm_end": 153,
+     "norm_text": "никто не может решить за тебя"
+    },
+    {
+     "start": 155,
+     "end": 182,
+     "norm_start": 155,
+     "norm_end": 181,
+     "norm_text": "сколько тебе нужно времени"
+    },
+    {
+     "start": 183,
+     "end": 205,
+     "norm_start": 183,
+     "norm_end": 204,
+     "norm_text": "дай себе это пережить"
+    }
+   ]
+  }
+ }
+}

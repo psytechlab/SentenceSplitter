@@ -1,0 +1,52 @@
+{
+ "task_idx": 63,
+ "text": "Мой первый парень от которого сделала аборт в 16 лет.",
+ "stratum": "presuicidal_short_simple",
+ "data_id": "4ce90934216645e1b49cac879e82ec13-19",
+ "n_tokens": 11,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "СПП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 17,
+     "norm_start": 0,
+     "norm_end": 17,
+     "norm_text": "Мой первый парень"
+    },
+    {
+     "start": 18,
+     "end": 53,
+     "norm_start": 18,
+     "norm_end": 52,
+     "norm_text": "от которого сделала аборт в 16 лет"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "Не сложное",
+   "spans": [
+    {
+     "start": 0,
+     "end": 52,
+     "norm_start": 0,
+     "norm_end": 52,
+     "norm_text": "Мой первый парень от которого сделала аборт в 16 лет"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "Не сложное",
+   "spans": [
+    {
+     "start": 0,
+     "end": 53,
+     "norm_start": 0,
+     "norm_end": 52,
+     "norm_text": "Мой первый парень от которого сделала аборт в 16 лет"
+    }
+   ]
+  }
+ }
+}

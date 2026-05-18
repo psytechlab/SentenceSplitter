@@ -1,0 +1,94 @@
+{
+ "task_idx": 45,
+ "text": "Которого люблю но он меня не понимает не хочет слушать что у меня на душе.",
+ "stratum": "presuicidal_multilabel_conj",
+ "data_id": "e0f46f4ec9a643e290450e00caac5025-8",
+ "n_tokens": 16,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 14,
+     "norm_start": 0,
+     "norm_end": 14,
+     "norm_text": "Которого люблю"
+    },
+    {
+     "start": 15,
+     "end": 37,
+     "norm_start": 15,
+     "norm_end": 37,
+     "norm_text": "но он меня не понимает"
+    },
+    {
+     "start": 38,
+     "end": 54,
+     "norm_start": 38,
+     "norm_end": 54,
+     "norm_text": "не хочет слушать"
+    },
+    {
+     "start": 55,
+     "end": 74,
+     "norm_start": 55,
+     "norm_end": 73,
+     "norm_text": "что у меня на душе"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 14,
+     "norm_start": 0,
+     "norm_end": 14,
+     "norm_text": "Которого люблю"
+    },
+    {
+     "start": 15,
+     "end": 54,
+     "norm_start": 15,
+     "norm_end": 54,
+     "norm_text": "но он меня не понимает не хочет слушать"
+    },
+    {
+     "start": 55,
+     "end": 73,
+     "norm_start": 55,
+     "norm_end": 73,
+     "norm_text": "что у меня на душе"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "СПП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 14,
+     "norm_start": 0,
+     "norm_end": 14,
+     "norm_text": "Которого люблю"
+    },
+    {
+     "start": 15,
+     "end": 54,
+     "norm_start": 15,
+     "norm_end": 54,
+     "norm_text": "но он меня не понимает не хочет слушать"
+    },
+    {
+     "start": 55,
+     "end": 74,
+     "norm_start": 55,
+     "norm_end": 73,
+     "norm_text": "что у меня на душе"
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,164 @@
+{
+ "task_idx": 53,
+ "text": "Мне 24, возраст для того чтобы радоваться жизни, но у меня всё не так. Когда я был маленьким, я всегда любил гулять, были друзья, про школу не забывал.",
+ "stratum": "presuicidal_monolabel_long",
+ "data_id": "148e2d7e71b7411d8d2eee94d42b5c71-0",
+ "n_tokens": 35,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 6,
+     "norm_start": 0,
+     "norm_end": 6,
+     "norm_text": "Мне 24"
+    },
+    {
+     "start": 8,
+     "end": 47,
+     "norm_start": 8,
+     "norm_end": 47,
+     "norm_text": "возраст для того чтобы радоваться жизни"
+    },
+    {
+     "start": 49,
+     "end": 69,
+     "norm_start": 49,
+     "norm_end": 69,
+     "norm_text": "но у меня всё не так"
+    },
+    {
+     "start": 71,
+     "end": 93,
+     "norm_start": 71,
+     "norm_end": 92,
+     "norm_text": "Когда я был маленьким"
+    },
+    {
+     "start": 94,
+     "end": 115,
+     "norm_start": 94,
+     "norm_end": 115,
+     "norm_text": "я всегда любил гулять"
+    },
+    {
+     "start": 117,
+     "end": 129,
+     "norm_start": 117,
+     "norm_end": 128,
+     "norm_text": "были друзья"
+    },
+    {
+     "start": 130,
+     "end": 151,
+     "norm_start": 130,
+     "norm_end": 150,
+     "norm_text": "про школу не забывал"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 6,
+     "norm_start": 0,
+     "norm_end": 6,
+     "norm_text": "Мне 24"
+    },
+    {
+     "start": 8,
+     "end": 47,
+     "norm_start": 8,
+     "norm_end": 47,
+     "norm_text": "возраст для того чтобы радоваться жизни"
+    },
+    {
+     "start": 49,
+     "end": 69,
+     "norm_start": 49,
+     "norm_end": 69,
+     "norm_text": "но у меня всё не так"
+    },
+    {
+     "start": 71,
+     "end": 92,
+     "norm_start": 71,
+     "norm_end": 92,
+     "norm_text": "Когда я был маленьким"
+    },
+    {
+     "start": 94,
+     "end": 115,
+     "norm_start": 94,
+     "norm_end": 115,
+     "norm_text": "я всегда любил гулять"
+    },
+    {
+     "start": 117,
+     "end": 128,
+     "norm_start": 117,
+     "norm_end": 128,
+     "norm_text": "были друзья"
+    },
+    {
+     "start": 130,
+     "end": 150,
+     "norm_start": 130,
+     "norm_end": 150,
+     "norm_text": "про школу не забывал"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 7,
+     "norm_start": 0,
+     "norm_end": 6,
+     "norm_text": "Мне 24"
+    },
+    {
+     "start": 8,
+     "end": 24,
+     "norm_start": 8,
+     "norm_end": 24,
+     "norm_text": "возраст для того"
+    },
+    {
+     "start": 25,
+     "end": 48,
+     "norm_start": 25,
+     "norm_end": 47,
+     "norm_text": "чтобы радоваться жизни"
+    },
+    {
+     "start": 49,
+     "end": 70,
+     "norm_start": 49,
+     "norm_end": 69,
+     "norm_text": "но у меня всё не так"
+    },
+    {
+     "start": 71,
+     "end": 93,
+     "norm_start": 71,
+     "norm_end": 92,
+     "norm_text": "Когда я был маленьким"
+    },
+    {
+     "start": 94,
+     "end": 151,
+     "norm_start": 94,
+     "norm_end": 150,
+     "norm_text": "я всегда любил гулять, были друзья, про школу не забывал"
+    }
+   ]
+  }
+ }
+}

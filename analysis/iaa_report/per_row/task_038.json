@@ -1,0 +1,108 @@
+{
+ "task_idx": 38,
+ "text": "И я понимаю что лучше уже не будет, что каждый мужчина который будет появлялся в моей душе, будет поступать так же.",
+ "stratum": "presuicidal_monolabel_long",
+ "data_id": "13c62b1d928d45058ddf489a84369f64-3",
+ "n_tokens": 24,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "СПП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 12,
+     "norm_start": 0,
+     "norm_end": 11,
+     "norm_text": "И я понимаю"
+    },
+    {
+     "start": 12,
+     "end": 34,
+     "norm_start": 12,
+     "norm_end": 34,
+     "norm_text": "что лучше уже не будет"
+    },
+    {
+     "start": 36,
+     "end": 54,
+     "norm_start": 36,
+     "norm_end": 54,
+     "norm_text": "что каждый мужчина"
+    },
+    {
+     "start": 55,
+     "end": 90,
+     "norm_start": 55,
+     "norm_end": 90,
+     "norm_text": "который будет появлялся в моей душе"
+    },
+    {
+     "start": 92,
+     "end": 115,
+     "norm_start": 92,
+     "norm_end": 114,
+     "norm_text": "будет поступать так же"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "СПП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 11,
+     "norm_start": 0,
+     "norm_end": 11,
+     "norm_text": "И я понимаю"
+    },
+    {
+     "start": 12,
+     "end": 34,
+     "norm_start": 12,
+     "norm_end": 34,
+     "norm_text": "что лучше уже не будет"
+    },
+    {
+     "start": 36,
+     "end": 54,
+     "norm_start": 36,
+     "norm_end": 54,
+     "norm_text": "что каждый мужчина"
+    },
+    {
+     "start": 55,
+     "end": 114,
+     "norm_start": 55,
+     "norm_end": 114,
+     "norm_text": "который будет появлялся в моей душе, будет поступать так же"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "СПП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 11,
+     "norm_start": 0,
+     "norm_end": 11,
+     "norm_text": "И я понимаю"
+    },
+    {
+     "start": 12,
+     "end": 35,
+     "norm_start": 12,
+     "norm_end": 34,
+     "norm_text": "что лучше уже не будет"
+    },
+    {
+     "start": 36,
+     "end": 115,
+     "norm_start": 36,
+     "norm_end": 114,
+     "norm_text": "что каждый мужчина который будет появлялся в моей душе, будет поступать так же"
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,115 @@
+{
+ "task_idx": 4,
+ "text": "«Он чешет им животики и гладит по голове, — Поразительно, что все эти кошки, которые нас даже близко не подпускают, сразу тянутся к нему.",
+ "stratum": "solyanka_lenta_long",
+ "data_id": "",
+ "n_tokens": 30,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 40,
+     "norm_start": 1,
+     "norm_end": 40,
+     "norm_text": "Он чешет им животики и гладит по голове"
+    },
+    {
+     "start": 44,
+     "end": 56,
+     "norm_start": 44,
+     "norm_end": 56,
+     "norm_text": "Поразительно"
+    },
+    {
+     "start": 58,
+     "end": 75,
+     "norm_start": 58,
+     "norm_end": 75,
+     "norm_text": "что все эти кошки"
+    },
+    {
+     "start": 77,
+     "end": 114,
+     "norm_start": 77,
+     "norm_end": 114,
+     "norm_text": "которые нас даже близко не подпускают"
+    },
+    {
+     "start": 116,
+     "end": 137,
+     "norm_start": 116,
+     "norm_end": 136,
+     "norm_text": "сразу тянутся к нему"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "СПП",
+   "spans": [
+    {
+     "start": 1,
+     "end": 40,
+     "norm_start": 1,
+     "norm_end": 40,
+     "norm_text": "Он чешет им животики и гладит по голове"
+    },
+    {
+     "start": 44,
+     "end": 56,
+     "norm_start": 44,
+     "norm_end": 56,
+     "norm_text": "Поразительно"
+    },
+    {
+     "start": 58,
+     "end": 75,
+     "norm_start": 58,
+     "norm_end": 75,
+     "norm_text": "что все эти кошки"
+    },
+    {
+     "start": 77,
+     "end": 136,
+     "norm_start": 77,
+     "norm_end": 136,
+     "norm_text": "которые нас даже близко не подпускают, сразу тянутся к нему"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 1,
+     "end": 41,
+     "norm_start": 1,
+     "norm_end": 40,
+     "norm_text": "Он чешет им животики и гладит по голове"
+    },
+    {
+     "start": 44,
+     "end": 76,
+     "norm_start": 44,
+     "norm_end": 75,
+     "norm_text": "Поразительно, что все эти кошки"
+    },
+    {
+     "start": 77,
+     "end": 115,
+     "norm_start": 77,
+     "norm_end": 114,
+     "norm_text": "которые нас даже близко не подпускают"
+    },
+    {
+     "start": 116,
+     "end": 137,
+     "norm_start": 116,
+     "norm_end": 136,
+     "norm_text": "сразу тянутся к нему"
+    }
+   ]
+  }
+ }
+}

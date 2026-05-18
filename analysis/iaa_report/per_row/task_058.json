@@ -1,0 +1,45 @@
+{
+ "task_idx": 58,
+ "text": "Мне стали снова приходить мысли о самоубийстве.",
+ "stratum": "presuicidal_short_simple",
+ "data_id": "0f42eb3918c6471d9440c84a669d0adc-5",
+ "n_tokens": 8,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "Не сложное",
+   "spans": [
+    {
+     "start": 0,
+     "end": 47,
+     "norm_start": 0,
+     "norm_end": 46,
+     "norm_text": "Мне стали снова приходить мысли о самоубийстве"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "Не сложное",
+   "spans": [
+    {
+     "start": 0,
+     "end": 46,
+     "norm_start": 0,
+     "norm_end": 46,
+     "norm_text": "Мне стали снова приходить мысли о самоубийстве"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "Не сложное",
+   "spans": [
+    {
+     "start": 0,
+     "end": 47,
+     "norm_start": 0,
+     "norm_end": 46,
+     "norm_text": "Мне стали снова приходить мысли о самоубийстве"
+    }
+   ]
+  }
+ }
+}

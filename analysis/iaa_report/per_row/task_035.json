@@ -1,0 +1,37 @@
+{
+ "task_idx": 35,
+ "text": "Еще я оченьрассеяна.",
+ "stratum": "presuicidal_short_simple",
+ "data_id": "0a98929c89484c6095e1d8dd3cf5ddba-7",
+ "n_tokens": 4,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "Не сложное",
+   "spans": [
+    {
+     "start": 0,
+     "end": 20,
+     "norm_start": 0,
+     "norm_end": 19,
+     "norm_text": "Еще я оченьрассеяна"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "Не сложное",
+   "spans": [
+    {
+     "start": 0,
+     "end": 19,
+     "norm_start": 0,
+     "norm_end": 19,
+     "norm_text": "Еще я оченьрассеяна"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "Не сложное",
+   "spans": []
+  }
+ }
+}

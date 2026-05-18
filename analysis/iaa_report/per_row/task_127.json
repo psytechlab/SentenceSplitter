@@ -1,0 +1,59 @@
+{
+ "task_idx": 127,
+ "text": "Ушел в никуда с ненавистной мне работы, безвылазно сижу дома.",
+ "stratum": "presuicidal_multilabel_bsp",
+ "data_id": "045b10be2aa342489f4aa3a3a8a9d4c5-1",
+ "n_tokens": 12,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "БСП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 38,
+     "norm_start": 0,
+     "norm_end": 38,
+     "norm_text": "Ушел в никуда с ненавистной мне работы"
+    },
+    {
+     "start": 40,
+     "end": 61,
+     "norm_start": 40,
+     "norm_end": 60,
+     "norm_text": "безвылазно сижу дома"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "БСП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 38,
+     "norm_start": 0,
+     "norm_end": 38,
+     "norm_text": "Ушел в никуда с ненавистной мне работы"
+    },
+    {
+     "start": 40,
+     "end": 60,
+     "norm_start": 40,
+     "norm_end": 60,
+     "norm_text": "безвылазно сижу дома"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "Не сложное",
+   "spans": [
+    {
+     "start": 0,
+     "end": 61,
+     "norm_start": 0,
+     "norm_end": 60,
+     "norm_text": "Ушел в никуда с ненавистной мне работы, безвылазно сижу дома"
+    }
+   ]
+  }
+ }
+}

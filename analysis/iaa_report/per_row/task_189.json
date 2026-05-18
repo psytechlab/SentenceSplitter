@@ -1,0 +1,122 @@
+{
+ "task_idx": 189,
+ "text": "от безденежья, правда я понимаю, что некоторые живут еще хуже, но иногда мне кажется, что единственное правильное решение умереть.",
+ "stratum": "presuicidal_monolabel_long",
+ "data_id": "809001c4fc7a44dcbd3425baa66a597e-5",
+ "n_tokens": 24,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 13,
+     "norm_start": 0,
+     "norm_end": 13,
+     "norm_text": "от безденежья"
+    },
+    {
+     "start": 15,
+     "end": 31,
+     "norm_start": 15,
+     "norm_end": 31,
+     "norm_text": "правда я понимаю"
+    },
+    {
+     "start": 33,
+     "end": 61,
+     "norm_start": 33,
+     "norm_end": 61,
+     "norm_text": "что некоторые живут еще хуже"
+    },
+    {
+     "start": 63,
+     "end": 84,
+     "norm_start": 63,
+     "norm_end": 84,
+     "norm_text": "но иногда мне кажется"
+    },
+    {
+     "start": 86,
+     "end": 130,
+     "norm_start": 86,
+     "norm_end": 129,
+     "norm_text": "что единственное правильное решение умереть"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 13,
+     "norm_start": 0,
+     "norm_end": 13,
+     "norm_text": "от безденежья"
+    },
+    {
+     "start": 15,
+     "end": 31,
+     "norm_start": 15,
+     "norm_end": 31,
+     "norm_text": "правда я понимаю"
+    },
+    {
+     "start": 33,
+     "end": 61,
+     "norm_start": 33,
+     "norm_end": 61,
+     "norm_text": "что некоторые живут еще хуже"
+    },
+    {
+     "start": 63,
+     "end": 84,
+     "norm_start": 63,
+     "norm_end": 84,
+     "norm_text": "но иногда мне кажется"
+    },
+    {
+     "start": 86,
+     "end": 129,
+     "norm_start": 86,
+     "norm_end": 129,
+     "norm_text": "что единственное правильное решение умереть"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": null,
+   "spans": [
+    {
+     "start": 0,
+     "end": 32,
+     "norm_start": 0,
+     "norm_end": 31,
+     "norm_text": "от безденежья, правда я понимаю"
+    },
+    {
+     "start": 33,
+     "end": 62,
+     "norm_start": 33,
+     "norm_end": 61,
+     "norm_text": "что некоторые живут еще хуже"
+    },
+    {
+     "start": 63,
+     "end": 85,
+     "norm_start": 63,
+     "norm_end": 84,
+     "norm_text": "но иногда мне кажется"
+    },
+    {
+     "start": 86,
+     "end": 130,
+     "norm_start": 86,
+     "norm_end": 129,
+     "norm_text": "что единственное правильное решение умереть"
+    }
+   ]
+  }
+ }
+}

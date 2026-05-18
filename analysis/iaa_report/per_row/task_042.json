@@ -1,0 +1,45 @@
+{
+ "task_idx": 42,
+ "text": "Каждый день на меня орут просто по пустякам!",
+ "stratum": "presuicidal_short_simple",
+ "data_id": "c44f1b85b7bc4c18bc893578c93a8e15-1",
+ "n_tokens": 9,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "Не сложное",
+   "spans": [
+    {
+     "start": 0,
+     "end": 44,
+     "norm_start": 0,
+     "norm_end": 43,
+     "norm_text": "Каждый день на меня орут просто по пустякам"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "Не сложное",
+   "spans": [
+    {
+     "start": 0,
+     "end": 43,
+     "norm_start": 0,
+     "norm_end": 43,
+     "norm_text": "Каждый день на меня орут просто по пустякам"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "Не сложное",
+   "spans": [
+    {
+     "start": 0,
+     "end": 44,
+     "norm_start": 0,
+     "norm_end": 43,
+     "norm_text": "Каждый день на меня орут просто по пустякам"
+    }
+   ]
+  }
+ }
+}

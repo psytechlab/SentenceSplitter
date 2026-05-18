@@ -1,0 +1,66 @@
+{
+ "task_idx": 157,
+ "text": "Я схожу с ума и это тоже заставляет меня сильно грустить",
+ "stratum": "presuicidal_multilabel_conj",
+ "data_id": "2420d39c147e44aaac90d5c06c733d91-0",
+ "n_tokens": 11,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "ССП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 13,
+     "norm_start": 0,
+     "norm_end": 13,
+     "norm_text": "Я схожу с ума"
+    },
+    {
+     "start": 14,
+     "end": 56,
+     "norm_start": 14,
+     "norm_end": 56,
+     "norm_text": "и это тоже заставляет меня сильно грустить"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "ССП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 13,
+     "norm_start": 0,
+     "norm_end": 13,
+     "norm_text": "Я схожу с ума"
+    },
+    {
+     "start": 14,
+     "end": 56,
+     "norm_start": 14,
+     "norm_end": 56,
+     "norm_text": "и это тоже заставляет меня сильно грустить"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "ССП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 14,
+     "norm_start": 0,
+     "norm_end": 13,
+     "norm_text": "Я схожу с ума"
+    },
+    {
+     "start": 14,
+     "end": 56,
+     "norm_start": 14,
+     "norm_end": 56,
+     "norm_text": "и это тоже заставляет меня сильно грустить"
+    }
+   ]
+  }
+ }
+}

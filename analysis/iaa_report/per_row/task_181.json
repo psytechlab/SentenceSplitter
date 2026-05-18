@@ -1,0 +1,59 @@
+{
+ "task_idx": 181,
+ "text": "мне ужасно обидно и плохо прям хочется заплакать и очень громко.",
+ "stratum": "presuicidal_multilabel_conj",
+ "data_id": "ef1dd2eae08447c5a3d0fad077aff09a-3",
+ "n_tokens": 12,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "БСП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 25,
+     "norm_start": 0,
+     "norm_end": 25,
+     "norm_text": "мне ужасно обидно и плохо"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "БСП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 25,
+     "norm_start": 0,
+     "norm_end": 25,
+     "norm_text": "мне ужасно обидно и плохо"
+    },
+    {
+     "start": 26,
+     "end": 63,
+     "norm_start": 26,
+     "norm_end": 63,
+     "norm_text": "прям хочется заплакать и очень громко"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "БСП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 25,
+     "norm_start": 0,
+     "norm_end": 25,
+     "norm_text": "мне ужасно обидно и плохо"
+    },
+    {
+     "start": 26,
+     "end": 64,
+     "norm_start": 26,
+     "norm_end": 63,
+     "norm_text": "прям хочется заплакать и очень громко"
+    }
+   ]
+  }
+ }
+}

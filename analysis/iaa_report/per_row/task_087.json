@@ -1,0 +1,122 @@
+{
+ "task_idx": 87,
+ "text": "Но мысль о том, что я осталась на второй год, что все думают, что я уехала лишь бы избежать позора не оставляет меня.",
+ "stratum": "presuicidal_monolabel_long",
+ "data_id": "4c48db586fdc4ad880fce482181a6b3b-26",
+ "n_tokens": 27,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "СПП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 14,
+     "norm_start": 0,
+     "norm_end": 14,
+     "norm_text": "Но мысль о том"
+    },
+    {
+     "start": 16,
+     "end": 44,
+     "norm_start": 16,
+     "norm_end": 44,
+     "norm_text": "что я осталась на второй год"
+    },
+    {
+     "start": 46,
+     "end": 60,
+     "norm_start": 46,
+     "norm_end": 60,
+     "norm_text": "что все думают"
+    },
+    {
+     "start": 62,
+     "end": 98,
+     "norm_start": 62,
+     "norm_end": 98,
+     "norm_text": "что я уехала лишь бы избежать позора"
+    },
+    {
+     "start": 99,
+     "end": 117,
+     "norm_start": 99,
+     "norm_end": 116,
+     "norm_text": "не оставляет меня"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "СПП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 14,
+     "norm_start": 0,
+     "norm_end": 14,
+     "norm_text": "Но мысль о том"
+    },
+    {
+     "start": 16,
+     "end": 44,
+     "norm_start": 16,
+     "norm_end": 44,
+     "norm_text": "что я осталась на второй год"
+    },
+    {
+     "start": 46,
+     "end": 60,
+     "norm_start": 46,
+     "norm_end": 60,
+     "norm_text": "что все думают"
+    },
+    {
+     "start": 62,
+     "end": 98,
+     "norm_start": 62,
+     "norm_end": 98,
+     "norm_text": "что я уехала лишь бы избежать позора"
+    },
+    {
+     "start": 99,
+     "end": 116,
+     "norm_start": 99,
+     "norm_end": 116,
+     "norm_text": "не оставляет меня"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "СПП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 15,
+     "norm_start": 0,
+     "norm_end": 14,
+     "norm_text": "Но мысль о том"
+    },
+    {
+     "start": 16,
+     "end": 45,
+     "norm_start": 16,
+     "norm_end": 44,
+     "norm_text": "что я осталась на второй год"
+    },
+    {
+     "start": 46,
+     "end": 98,
+     "norm_start": 46,
+     "norm_end": 98,
+     "norm_text": "что все думают, что я уехала лишь бы избежать позора"
+    },
+    {
+     "start": 99,
+     "end": 117,
+     "norm_start": 99,
+     "norm_end": 116,
+     "norm_text": "не оставляет меня"
+    }
+   ]
+  }
+ }
+}

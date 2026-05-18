@@ -1,0 +1,73 @@
+{
+ "task_idx": 124,
+ "text": "Украинский народ, помня, какие жертвы принесла ему эта война, никогда не простит этого и будет мстить.",
+ "stratum": "solyanka_lenta_long",
+ "data_id": "",
+ "n_tokens": 20,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "СПП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 24,
+     "norm_start": 0,
+     "norm_end": 23,
+     "norm_text": "Украинский народ, помня"
+    },
+    {
+     "start": 25,
+     "end": 60,
+     "norm_start": 25,
+     "norm_end": 60,
+     "norm_text": "какие жертвы принесла ему эта война"
+    },
+    {
+     "start": 62,
+     "end": 102,
+     "norm_start": 62,
+     "norm_end": 101,
+     "norm_text": "никогда не простит этого и будет мстить"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "Не сложное",
+   "spans": [
+    {
+     "start": 0,
+     "end": 101,
+     "norm_start": 0,
+     "norm_end": 101,
+     "norm_text": "Украинский народ, помня, какие жертвы принесла ему эта война, никогда не простит этого и будет мстить"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "СПП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 24,
+     "norm_start": 0,
+     "norm_end": 23,
+     "norm_text": "Украинский народ, помня"
+    },
+    {
+     "start": 25,
+     "end": 61,
+     "norm_start": 25,
+     "norm_end": 60,
+     "norm_text": "какие жертвы принесла ему эта война"
+    },
+    {
+     "start": 62,
+     "end": 102,
+     "norm_start": 62,
+     "norm_end": 101,
+     "norm_text": "никогда не простит этого и будет мстить"
+    }
+   ]
+  }
+ }
+}

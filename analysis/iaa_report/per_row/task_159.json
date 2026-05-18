@@ -1,0 +1,66 @@
+{
+ "task_idx": 159,
+ "text": "Я умерла 4 года назад, осталась оболочка.",
+ "stratum": "presuicidal_multilabel_bsp",
+ "data_id": "29a155455e304031bfa30f3983662a3b-13",
+ "n_tokens": 9,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "БСП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 21,
+     "norm_start": 0,
+     "norm_end": 21,
+     "norm_text": "Я умерла 4 года назад"
+    },
+    {
+     "start": 23,
+     "end": 41,
+     "norm_start": 23,
+     "norm_end": 40,
+     "norm_text": "осталась оболочка"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "БСП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 21,
+     "norm_start": 0,
+     "norm_end": 21,
+     "norm_text": "Я умерла 4 года назад"
+    },
+    {
+     "start": 23,
+     "end": 40,
+     "norm_start": 23,
+     "norm_end": 40,
+     "norm_text": "осталась оболочка"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "БСП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 22,
+     "norm_start": 0,
+     "norm_end": 21,
+     "norm_text": "Я умерла 4 года назад"
+    },
+    {
+     "start": 23,
+     "end": 41,
+     "norm_start": 23,
+     "norm_end": 40,
+     "norm_text": "осталась оболочка"
+    }
+   ]
+  }
+ }
+}

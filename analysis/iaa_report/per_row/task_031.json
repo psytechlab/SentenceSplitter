@@ -1,0 +1,108 @@
+{
+ "task_idx": 31,
+ "text": "Его твит приобрел вирусный эффект, и о том, что американец собирает смешные русские мемы, узнали в России.",
+ "stratum": "solyanka_lenta_long",
+ "data_id": "",
+ "n_tokens": 21,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 33,
+     "norm_start": 0,
+     "norm_end": 33,
+     "norm_text": "Его твит приобрел вирусный эффект"
+    },
+    {
+     "start": 35,
+     "end": 42,
+     "norm_start": 35,
+     "norm_end": 42,
+     "norm_text": "и о том"
+    },
+    {
+     "start": 44,
+     "end": 88,
+     "norm_start": 44,
+     "norm_end": 88,
+     "norm_text": "что американец собирает смешные русские мемы"
+    },
+    {
+     "start": 90,
+     "end": 106,
+     "norm_start": 90,
+     "norm_end": 105,
+     "norm_text": "узнали в России"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 34,
+     "norm_start": 0,
+     "norm_end": 33,
+     "norm_text": "Его твит приобрел вирусный эффект"
+    },
+    {
+     "start": 35,
+     "end": 42,
+     "norm_start": 35,
+     "norm_end": 42,
+     "norm_text": "и о том"
+    },
+    {
+     "start": 44,
+     "end": 88,
+     "norm_start": 44,
+     "norm_end": 88,
+     "norm_text": "что американец собирает смешные русские мемы"
+    },
+    {
+     "start": 90,
+     "end": 105,
+     "norm_start": 90,
+     "norm_end": 105,
+     "norm_text": "узнали в России"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 34,
+     "norm_start": 0,
+     "norm_end": 33,
+     "norm_text": "Его твит приобрел вирусный эффект"
+    },
+    {
+     "start": 35,
+     "end": 43,
+     "norm_start": 35,
+     "norm_end": 42,
+     "norm_text": "и о том"
+    },
+    {
+     "start": 44,
+     "end": 89,
+     "norm_start": 44,
+     "norm_end": 88,
+     "norm_text": "что американец собирает смешные русские мемы"
+    },
+    {
+     "start": 90,
+     "end": 106,
+     "norm_start": 90,
+     "norm_end": 105,
+     "norm_text": "узнали в России"
+    }
+   ]
+  }
+ }
+}

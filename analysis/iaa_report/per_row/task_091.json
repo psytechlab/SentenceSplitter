@@ -1,0 +1,45 @@
+{
+ "task_idx": 91,
+ "text": "Огромного счастья тебе, родная!",
+ "stratum": "solyanka_twitter_short_simple",
+ "data_id": "",
+ "n_tokens": 6,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "Не сложное",
+   "spans": [
+    {
+     "start": 0,
+     "end": 31,
+     "norm_start": 0,
+     "norm_end": 30,
+     "norm_text": "Огромного счастья тебе, родная"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "Не сложное",
+   "spans": [
+    {
+     "start": 0,
+     "end": 30,
+     "norm_start": 0,
+     "norm_end": 30,
+     "norm_text": "Огромного счастья тебе, родная"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "Не сложное",
+   "spans": [
+    {
+     "start": 0,
+     "end": 31,
+     "norm_start": 0,
+     "norm_end": 30,
+     "norm_text": "Огромного счастья тебе, родная"
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,444 @@
+{
+ "task_idx": 196,
+ "text": "у меня проблема-мне 17 лет я боюсь жить меня пугает почти все у меня очень много врагов, которые постоянно дают о себе знать меня называют всякими словами обижают я не могу ничего с этим сделать у меня уже почти 2 года плохое настроение засыпаю в плохому настроению и просипаюсь тоже у меня нет друзей я пытался их найти, но не получилось хочу умереть чтобы это все закончилось жить постоянно в страхе очень тяжело у меня проблемы с нервной психикой я пробовал поменять свой стиль жизни, но ничего не изменилось что мне делать",
+ "stratum": "presuicidal_multilabel_conj",
+ "data_id": "19bd5a8d416d4ff7b0dfd3f28a3af17b-0",
+ "n_tokens": 95,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 15,
+     "norm_start": 0,
+     "norm_end": 15,
+     "norm_text": "у меня проблема"
+    },
+    {
+     "start": 16,
+     "end": 26,
+     "norm_start": 16,
+     "norm_end": 26,
+     "norm_text": "мне 17 лет"
+    },
+    {
+     "start": 27,
+     "end": 39,
+     "norm_start": 27,
+     "norm_end": 39,
+     "norm_text": "я боюсь жить"
+    },
+    {
+     "start": 40,
+     "end": 61,
+     "norm_start": 40,
+     "norm_end": 61,
+     "norm_text": "меня пугает почти все"
+    },
+    {
+     "start": 62,
+     "end": 87,
+     "norm_start": 62,
+     "norm_end": 87,
+     "norm_text": "у меня очень много врагов"
+    },
+    {
+     "start": 89,
+     "end": 124,
+     "norm_start": 89,
+     "norm_end": 124,
+     "norm_text": "которые постоянно дают о себе знать"
+    },
+    {
+     "start": 125,
+     "end": 162,
+     "norm_start": 125,
+     "norm_end": 162,
+     "norm_text": "меня называют всякими словами обижают"
+    },
+    {
+     "start": 163,
+     "end": 194,
+     "norm_start": 163,
+     "norm_end": 194,
+     "norm_text": "я не могу ничего с этим сделать"
+    },
+    {
+     "start": 195,
+     "end": 236,
+     "norm_start": 195,
+     "norm_end": 236,
+     "norm_text": "у меня уже почти 2 года плохое настроение"
+    },
+    {
+     "start": 237,
+     "end": 283,
+     "norm_start": 237,
+     "norm_end": 283,
+     "norm_text": "засыпаю в плохому настроению и просипаюсь тоже"
+    },
+    {
+     "start": 284,
+     "end": 301,
+     "norm_start": 284,
+     "norm_end": 301,
+     "norm_text": "у меня нет друзей"
+    },
+    {
+     "start": 302,
+     "end": 320,
+     "norm_start": 302,
+     "norm_end": 320,
+     "norm_text": "я пытался их найти"
+    },
+    {
+     "start": 322,
+     "end": 338,
+     "norm_start": 322,
+     "norm_end": 338,
+     "norm_text": "но не получилось"
+    },
+    {
+     "start": 339,
+     "end": 351,
+     "norm_start": 339,
+     "norm_end": 351,
+     "norm_text": "хочу умереть"
+    },
+    {
+     "start": 352,
+     "end": 377,
+     "norm_start": 352,
+     "norm_end": 377,
+     "norm_text": "чтобы это все закончилось"
+    },
+    {
+     "start": 378,
+     "end": 414,
+     "norm_start": 378,
+     "norm_end": 414,
+     "norm_text": "жить постоянно в страхе очень тяжело"
+    },
+    {
+     "start": 415,
+     "end": 449,
+     "norm_start": 415,
+     "norm_end": 449,
+     "norm_text": "у меня проблемы с нервной психикой"
+    },
+    {
+     "start": 450,
+     "end": 486,
+     "norm_start": 450,
+     "norm_end": 486,
+     "norm_text": "я пробовал поменять свой стиль жизни"
+    },
+    {
+     "start": 488,
+     "end": 512,
+     "norm_start": 488,
+     "norm_end": 511,
+     "norm_text": "но ничего не изменилось"
+    },
+    {
+     "start": 512,
+     "end": 526,
+     "norm_start": 512,
+     "norm_end": 526,
+     "norm_text": "что мне делать"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 15,
+     "norm_start": 0,
+     "norm_end": 15,
+     "norm_text": "у меня проблема"
+    },
+    {
+     "start": 16,
+     "end": 26,
+     "norm_start": 16,
+     "norm_end": 26,
+     "norm_text": "мне 17 лет"
+    },
+    {
+     "start": 27,
+     "end": 39,
+     "norm_start": 27,
+     "norm_end": 39,
+     "norm_text": "я боюсь жить"
+    },
+    {
+     "start": 40,
+     "end": 61,
+     "norm_start": 40,
+     "norm_end": 61,
+     "norm_text": "меня пугает почти все"
+    },
+    {
+     "start": 62,
+     "end": 87,
+     "norm_start": 62,
+     "norm_end": 87,
+     "norm_text": "у меня очень много врагов"
+    },
+    {
+     "start": 89,
+     "end": 124,
+     "norm_start": 89,
+     "norm_end": 124,
+     "norm_text": "которые постоянно дают о себе знать"
+    },
+    {
+     "start": 125,
+     "end": 162,
+     "norm_start": 125,
+     "norm_end": 162,
+     "norm_text": "меня называют всякими словами обижают"
+    },
+    {
+     "start": 163,
+     "end": 194,
+     "norm_start": 163,
+     "norm_end": 194,
+     "norm_text": "я не могу ничего с этим сделать"
+    },
+    {
+     "start": 195,
+     "end": 236,
+     "norm_start": 195,
+     "norm_end": 236,
+     "norm_text": "у меня уже почти 2 года плохое настроение"
+    },
+    {
+     "start": 237,
+     "end": 283,
+     "norm_start": 237,
+     "norm_end": 283,
+     "norm_text": "засыпаю в плохому настроению и просипаюсь тоже"
+    },
+    {
+     "start": 284,
+     "end": 301,
+     "norm_start": 284,
+     "norm_end": 301,
+     "norm_text": "у меня нет друзей"
+    },
+    {
+     "start": 302,
+     "end": 320,
+     "norm_start": 302,
+     "norm_end": 320,
+     "norm_text": "я пытался их найти"
+    },
+    {
+     "start": 322,
+     "end": 338,
+     "norm_start": 322,
+     "norm_end": 338,
+     "norm_text": "но не получилось"
+    },
+    {
+     "start": 339,
+     "end": 351,
+     "norm_start": 339,
+     "norm_end": 351,
+     "norm_text": "хочу умереть"
+    },
+    {
+     "start": 352,
+     "end": 377,
+     "norm_start": 352,
+     "norm_end": 377,
+     "norm_text": "чтобы это все закончилось"
+    },
+    {
+     "start": 378,
+     "end": 414,
+     "norm_start": 378,
+     "norm_end": 414,
+     "norm_text": "жить постоянно в страхе очень тяжело"
+    },
+    {
+     "start": 415,
+     "end": 449,
+     "norm_start": 415,
+     "norm_end": 449,
+     "norm_text": "у меня проблемы с нервной психикой"
+    },
+    {
+     "start": 450,
+     "end": 486,
+     "norm_start": 450,
+     "norm_end": 486,
+     "norm_text": "я пробовал поменять свой стиль жизни"
+    },
+    {
+     "start": 488,
+     "end": 511,
+     "norm_start": 488,
+     "norm_end": 511,
+     "norm_text": "но ничего не изменилось"
+    },
+    {
+     "start": 512,
+     "end": 526,
+     "norm_start": 512,
+     "norm_end": 526,
+     "norm_text": "что мне делать"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 15,
+     "norm_start": 0,
+     "norm_end": 15,
+     "norm_text": "у меня проблема"
+    },
+    {
+     "start": 16,
+     "end": 26,
+     "norm_start": 16,
+     "norm_end": 26,
+     "norm_text": "мне 17 лет"
+    },
+    {
+     "start": 27,
+     "end": 39,
+     "norm_start": 27,
+     "norm_end": 39,
+     "norm_text": "я боюсь жить"
+    },
+    {
+     "start": 40,
+     "end": 61,
+     "norm_start": 40,
+     "norm_end": 61,
+     "norm_text": "меня пугает почти все"
+    },
+    {
+     "start": 62,
+     "end": 88,
+     "norm_start": 62,
+     "norm_end": 87,
+     "norm_text": "у меня очень много врагов"
+    },
+    {
+     "start": 89,
+     "end": 124,
+     "norm_start": 89,
+     "norm_end": 124,
+     "norm_text": "которые постоянно дают о себе знать"
+    },
+    {
+     "start": 125,
+     "end": 162,
+     "norm_start": 125,
+     "norm_end": 162,
+     "norm_text": "меня называют всякими словами обижают"
+    },
+    {
+     "start": 163,
+     "end": 194,
+     "norm_start": 163,
+     "norm_end": 194,
+     "norm_text": "я не могу ничего с этим сделать"
+    },
+    {
+     "start": 195,
+     "end": 236,
+     "norm_start": 195,
+     "norm_end": 236,
+     "norm_text": "у меня уже почти 2 года плохое настроение"
+    },
+    {
+     "start": 237,
+     "end": 283,
+     "norm_start": 237,
+     "norm_end": 283,
+     "norm_text": "засыпаю в плохому настроению и просипаюсь тоже"
+    },
+    {
+     "start": 284,
+     "end": 301,
+     "norm_start": 284,
+     "norm_end": 301,
+     "norm_text": "у меня нет друзей"
+    },
+    {
+     "start": 302,
+     "end": 321,
+     "norm_start": 302,
+     "norm_end": 320,
+     "norm_text": "я пытался их найти"
+    },
+    {
+     "start": 322,
+     "end": 338,
+     "norm_start": 322,
+     "norm_end": 338,
+     "norm_text": "но не получилось"
+    },
+    {
+     "start": 339,
+     "end": 351,
+     "norm_start": 339,
+     "norm_end": 351,
+     "norm_text": "хочу умереть"
+    },
+    {
+     "start": 352,
+     "end": 377,
+     "norm_start": 352,
+     "norm_end": 377,
+     "norm_text": "чтобы это все закончилось"
+    },
+    {
+     "start": 378,
+     "end": 414,
+     "norm_start": 378,
+     "norm_end": 414,
+     "norm_text": "жить постоянно в страхе очень тяжело"
+    },
+    {
+     "start": 415,
+     "end": 449,
+     "norm_start": 415,
+     "norm_end": 449,
+     "norm_text": "у меня проблемы с нервной психикой"
+    },
+    {
+     "start": 450,
+     "end": 487,
+     "norm_start": 450,
+     "norm_end": 486,
+     "norm_text": "я пробовал поменять свой стиль жизни"
+    },
+    {
+     "start": 488,
+     "end": 511,
+     "norm_start": 488,
+     "norm_end": 511,
+     "norm_text": "но ничего не изменилось"
+    },
+    {
+     "start": 512,
+     "end": 526,
+     "norm_start": 512,
+     "norm_end": 526,
+     "norm_text": "что мне делать"
+    }
+   ]
+  }
+ }
+}

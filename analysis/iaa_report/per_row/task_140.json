@@ -1,0 +1,45 @@
+{
+ "task_idx": 140,
+ "text": "Я в глазах большинства людей \"выгляжу злой\".",
+ "stratum": "presuicidal_short_simple",
+ "data_id": "6a90f9f2d86d470d946bc5359434275e-50",
+ "n_tokens": 10,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "Не сложное",
+   "spans": [
+    {
+     "start": 0,
+     "end": 44,
+     "norm_start": 0,
+     "norm_end": 42,
+     "norm_text": "Я в глазах большинства людей \"выгляжу злой"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "Не сложное",
+   "spans": [
+    {
+     "start": 0,
+     "end": 43,
+     "norm_start": 0,
+     "norm_end": 42,
+     "norm_text": "Я в глазах большинства людей \"выгляжу злой"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "Не сложное",
+   "spans": [
+    {
+     "start": 0,
+     "end": 43,
+     "norm_start": 0,
+     "norm_end": 42,
+     "norm_text": "Я в глазах большинства людей \"выгляжу злой"
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,150 @@
+{
+ "task_idx": 108,
+ "text": "Родился в селе в те самые 90-е. в школе учился хорошо до класса 7-8. родила меня мать в 17 лет( ее изнасиловал мой биологический отец, выпивала, ее родители алкоголики.",
+ "stratum": "presuicidal_multilabel_bsp",
+ "data_id": "50ab74e0bf124beca699a510b85c5bc9-2",
+ "n_tokens": 35,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "БСП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 30,
+     "norm_start": 0,
+     "norm_end": 30,
+     "norm_text": "Родился в селе в те самые 90-е"
+    },
+    {
+     "start": 32,
+     "end": 67,
+     "norm_start": 32,
+     "norm_end": 67,
+     "norm_text": "в школе учился хорошо до класса 7-8"
+    },
+    {
+     "start": 69,
+     "end": 95,
+     "norm_start": 69,
+     "norm_end": 94,
+     "norm_text": "родила меня мать в 17 лет"
+    },
+    {
+     "start": 96,
+     "end": 133,
+     "norm_start": 96,
+     "norm_end": 133,
+     "norm_text": "ее изнасиловал мой биологический отец"
+    },
+    {
+     "start": 135,
+     "end": 143,
+     "norm_start": 135,
+     "norm_end": 143,
+     "norm_text": "выпивала"
+    },
+    {
+     "start": 145,
+     "end": 168,
+     "norm_start": 145,
+     "norm_end": 167,
+     "norm_text": "ее родители алкоголики"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 31,
+     "norm_start": 0,
+     "norm_end": 30,
+     "norm_text": "Родился в селе в те самые 90-е"
+    },
+    {
+     "start": 32,
+     "end": 67,
+     "norm_start": 32,
+     "norm_end": 67,
+     "norm_text": "в школе учился хорошо до класса 7-8"
+    },
+    {
+     "start": 69,
+     "end": 94,
+     "norm_start": 69,
+     "norm_end": 94,
+     "norm_text": "родила меня мать в 17 лет"
+    },
+    {
+     "start": 96,
+     "end": 133,
+     "norm_start": 96,
+     "norm_end": 133,
+     "norm_text": "ее изнасиловал мой биологический отец"
+    },
+    {
+     "start": 135,
+     "end": 143,
+     "norm_start": 135,
+     "norm_end": 143,
+     "norm_text": "выпивала"
+    },
+    {
+     "start": 145,
+     "end": 167,
+     "norm_start": 145,
+     "norm_end": 167,
+     "norm_text": "ее родители алкоголики"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 31,
+     "norm_start": 0,
+     "norm_end": 30,
+     "norm_text": "Родился в селе в те самые 90-е"
+    },
+    {
+     "start": 31,
+     "end": 68,
+     "norm_start": 32,
+     "norm_end": 67,
+     "norm_text": "в школе учился хорошо до класса 7-8"
+    },
+    {
+     "start": 69,
+     "end": 94,
+     "norm_start": 69,
+     "norm_end": 94,
+     "norm_text": "родила меня мать в 17 лет"
+    },
+    {
+     "start": 96,
+     "end": 134,
+     "norm_start": 96,
+     "norm_end": 133,
+     "norm_text": "ее изнасиловал мой биологический отец"
+    },
+    {
+     "start": 135,
+     "end": 144,
+     "norm_start": 135,
+     "norm_end": 143,
+     "norm_text": "выпивала"
+    },
+    {
+     "start": 145,
+     "end": 168,
+     "norm_start": 145,
+     "norm_end": 167,
+     "norm_text": "ее родители алкоголики"
+    }
+   ]
+  }
+ }
+}

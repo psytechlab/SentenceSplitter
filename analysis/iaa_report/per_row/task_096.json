@@ -1,0 +1,87 @@
+{
+ "task_idx": 96,
+ "text": "От дома мамы я в 500км+ денег ноль, срок не маленький, куда идти то?",
+ "stratum": "presuicidal_multilabel_conj",
+ "data_id": "8b28ef9a83894010b29d4c9e0031e562-1",
+ "n_tokens": 19,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "БСП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 23,
+     "norm_start": 0,
+     "norm_end": 23,
+     "norm_text": "От дома мамы я в 500км+"
+    },
+    {
+     "start": 24,
+     "end": 35,
+     "norm_start": 24,
+     "norm_end": 34,
+     "norm_text": "денег ноль"
+    },
+    {
+     "start": 36,
+     "end": 53,
+     "norm_start": 36,
+     "norm_end": 53,
+     "norm_text": "срок не маленький"
+    },
+    {
+     "start": 55,
+     "end": 68,
+     "norm_start": 55,
+     "norm_end": 67,
+     "norm_text": "куда идти то"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "БСП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 23,
+     "norm_start": 0,
+     "norm_end": 23,
+     "norm_text": "От дома мамы я в 500км+"
+    },
+    {
+     "start": 24,
+     "end": 34,
+     "norm_start": 24,
+     "norm_end": 34,
+     "norm_text": "денег ноль"
+    },
+    {
+     "start": 36,
+     "end": 53,
+     "norm_start": 36,
+     "norm_end": 53,
+     "norm_text": "срок не маленький"
+    },
+    {
+     "start": 55,
+     "end": 67,
+     "norm_start": 55,
+     "norm_end": 67,
+     "norm_text": "куда идти то"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "Не сложное",
+   "spans": [
+    {
+     "start": 0,
+     "end": 68,
+     "norm_start": 0,
+     "norm_end": 67,
+     "norm_text": "От дома мамы я в 500км+ денег ноль, срок не маленький, куда идти то"
+    }
+   ]
+  }
+ }
+}

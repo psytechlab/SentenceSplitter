@@ -1,0 +1,66 @@
+{
+ "task_idx": 111,
+ "text": "С одной стороны я может и хочу в детский дом, а умереть мне хочется больше.",
+ "stratum": "presuicidal_multilabel_conj",
+ "data_id": "cc5fa9cabd32496baa9a214e011dcf18-2",
+ "n_tokens": 17,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "ССП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 44,
+     "norm_start": 0,
+     "norm_end": 44,
+     "norm_text": "С одной стороны я может и хочу в детский дом"
+    },
+    {
+     "start": 46,
+     "end": 75,
+     "norm_start": 46,
+     "norm_end": 74,
+     "norm_text": "а умереть мне хочется больше"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "ССП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 44,
+     "norm_start": 0,
+     "norm_end": 44,
+     "norm_text": "С одной стороны я может и хочу в детский дом"
+    },
+    {
+     "start": 46,
+     "end": 74,
+     "norm_start": 46,
+     "norm_end": 74,
+     "norm_text": "а умереть мне хочется больше"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "СПП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 45,
+     "norm_start": 0,
+     "norm_end": 44,
+     "norm_text": "С одной стороны я может и хочу в детский дом"
+    },
+    {
+     "start": 46,
+     "end": 75,
+     "norm_start": 46,
+     "norm_end": 74,
+     "norm_text": "а умереть мне хочется больше"
+    }
+   ]
+  }
+ }
+}

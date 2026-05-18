@@ -1,0 +1,66 @@
+{
+ "task_idx": 174,
+ "text": "везде, это полное кидалово ) мстить буду ск!)",
+ "stratum": "solyanka_twitter_short_simple",
+ "data_id": "",
+ "n_tokens": 11,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "БСП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 28,
+     "norm_start": 0,
+     "norm_end": 26,
+     "norm_text": "везде, это полное кидалово"
+    },
+    {
+     "start": 29,
+     "end": 45,
+     "norm_start": 29,
+     "norm_end": 43,
+     "norm_text": "мстить буду ск"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "БСП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 26,
+     "norm_start": 0,
+     "norm_end": 26,
+     "norm_text": "везде, это полное кидалово"
+    },
+    {
+     "start": 29,
+     "end": 43,
+     "norm_start": 29,
+     "norm_end": 43,
+     "norm_text": "мстить буду ск"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "БСП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 26,
+     "norm_start": 0,
+     "norm_end": 26,
+     "norm_text": "везде, это полное кидалово"
+    },
+    {
+     "start": 29,
+     "end": 44,
+     "norm_start": 29,
+     "norm_end": 43,
+     "norm_text": "мстить буду ск"
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,108 @@
+{
+ "task_idx": 169,
+ "text": "а ведь я знаю что я хорош, и могу добиться расположения ЛЮБОЙ дамы любой непикап нет это все, я умею общаться с людьми.",
+ "stratum": "presuicidal_monolabel_long",
+ "data_id": "2e1e867fe25740f686b8fed09d5f340c-45",
+ "n_tokens": 26,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 13,
+     "norm_start": 0,
+     "norm_end": 13,
+     "norm_text": "а ведь я знаю"
+    },
+    {
+     "start": 14,
+     "end": 25,
+     "norm_start": 14,
+     "norm_end": 25,
+     "norm_text": "что я хорош"
+    },
+    {
+     "start": 27,
+     "end": 92,
+     "norm_start": 27,
+     "norm_end": 92,
+     "norm_text": "и могу добиться расположения ЛЮБОЙ дамы любой непикап нет это все"
+    },
+    {
+     "start": 94,
+     "end": 119,
+     "norm_start": 94,
+     "norm_end": 118,
+     "norm_text": "я умею общаться с людьми"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 13,
+     "norm_start": 0,
+     "norm_end": 13,
+     "norm_text": "а ведь я знаю"
+    },
+    {
+     "start": 14,
+     "end": 25,
+     "norm_start": 14,
+     "norm_end": 25,
+     "norm_text": "что я хорош"
+    },
+    {
+     "start": 26,
+     "end": 66,
+     "norm_start": 27,
+     "norm_end": 66,
+     "norm_text": "и могу добиться расположения ЛЮБОЙ дамы"
+    },
+    {
+     "start": 67,
+     "end": 92,
+     "norm_start": 67,
+     "norm_end": 92,
+     "norm_text": "любой непикап нет это все"
+    },
+    {
+     "start": 94,
+     "end": 118,
+     "norm_start": 94,
+     "norm_end": 118,
+     "norm_text": "я умею общаться с людьми"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 13,
+     "norm_start": 0,
+     "norm_end": 13,
+     "norm_text": "а ведь я знаю"
+    },
+    {
+     "start": 14,
+     "end": 92,
+     "norm_start": 14,
+     "norm_end": 92,
+     "norm_text": "что я хорош, и могу добиться расположения ЛЮБОЙ дамы любой непикап нет это все"
+    },
+    {
+     "start": 93,
+     "end": 119,
+     "norm_start": 94,
+     "norm_end": 118,
+     "norm_text": "я умею общаться с людьми"
+    }
+   ]
+  }
+ }
+}

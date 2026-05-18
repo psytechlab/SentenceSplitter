@@ -1,0 +1,178 @@
+{
+ "task_idx": 57,
+ "text": "Мне плохо от того, что я такая эгоистка, что слабая, думаю только о себе, о том, что никогда не смогу выучиться 4 года, ведь там надо стараться, а я. Так хочется покончить со всем, чтобы больше не было всего этого.",
+ "stratum": "presuicidal_monolabel_long",
+ "data_id": "035a4161de504bf4855e8026d19a9e87-7",
+ "n_tokens": 50,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 17,
+     "norm_start": 0,
+     "norm_end": 17,
+     "norm_text": "Мне плохо от того"
+    },
+    {
+     "start": 19,
+     "end": 39,
+     "norm_start": 19,
+     "norm_end": 39,
+     "norm_text": "что я такая эгоистка"
+    },
+    {
+     "start": 41,
+     "end": 51,
+     "norm_start": 41,
+     "norm_end": 51,
+     "norm_text": "что слабая"
+    },
+    {
+     "start": 53,
+     "end": 79,
+     "norm_start": 53,
+     "norm_end": 79,
+     "norm_text": "думаю только о себе, о том"
+    },
+    {
+     "start": 81,
+     "end": 118,
+     "norm_start": 81,
+     "norm_end": 118,
+     "norm_text": "что никогда не смогу выучиться 4 года"
+    },
+    {
+     "start": 120,
+     "end": 143,
+     "norm_start": 120,
+     "norm_end": 143,
+     "norm_text": "ведь там надо стараться"
+    },
+    {
+     "start": 145,
+     "end": 148,
+     "norm_start": 145,
+     "norm_end": 148,
+     "norm_text": "а я"
+    },
+    {
+     "start": 150,
+     "end": 179,
+     "norm_start": 150,
+     "norm_end": 179,
+     "norm_text": "Так хочется покончить со всем"
+    },
+    {
+     "start": 181,
+     "end": 214,
+     "norm_start": 181,
+     "norm_end": 213,
+     "norm_text": "чтобы больше не было всего этого"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 17,
+     "norm_start": 0,
+     "norm_end": 17,
+     "norm_text": "Мне плохо от того"
+    },
+    {
+     "start": 19,
+     "end": 39,
+     "norm_start": 19,
+     "norm_end": 39,
+     "norm_text": "что я такая эгоистка"
+    },
+    {
+     "start": 41,
+     "end": 51,
+     "norm_start": 41,
+     "norm_end": 51,
+     "norm_text": "что слабая"
+    },
+    {
+     "start": 53,
+     "end": 72,
+     "norm_start": 53,
+     "norm_end": 72,
+     "norm_text": "думаю только о себе"
+    },
+    {
+     "start": 74,
+     "end": 118,
+     "norm_start": 74,
+     "norm_end": 118,
+     "norm_text": "о том, что никогда не смогу выучиться 4 года"
+    },
+    {
+     "start": 120,
+     "end": 143,
+     "norm_start": 120,
+     "norm_end": 143,
+     "norm_text": "ведь там надо стараться"
+    },
+    {
+     "start": 145,
+     "end": 148,
+     "norm_start": 145,
+     "norm_end": 148,
+     "norm_text": "а я"
+    },
+    {
+     "start": 150,
+     "end": 179,
+     "norm_start": 150,
+     "norm_end": 179,
+     "norm_text": "Так хочется покончить со всем"
+    },
+    {
+     "start": 181,
+     "end": 213,
+     "norm_start": 181,
+     "norm_end": 213,
+     "norm_text": "чтобы больше не было всего этого"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 18,
+     "norm_start": 0,
+     "norm_end": 17,
+     "norm_text": "Мне плохо от того"
+    },
+    {
+     "start": 19,
+     "end": 149,
+     "norm_start": 19,
+     "norm_end": 148,
+     "norm_text": "что я такая эгоистка, что слабая, думаю только о себе, о том, что никогда не смогу выучиться 4 года, ведь там надо стараться, а я"
+    },
+    {
+     "start": 150,
+     "end": 180,
+     "norm_start": 150,
+     "norm_end": 179,
+     "norm_text": "Так хочется покончить со всем"
+    },
+    {
+     "start": 181,
+     "end": 214,
+     "norm_start": 181,
+     "norm_end": 213,
+     "norm_text": "чтобы больше не было всего этого"
+    }
+   ]
+  }
+ }
+}

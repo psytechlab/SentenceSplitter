@@ -1,0 +1,150 @@
+{
+ "task_idx": 7,
+ "text": "А ещё он пьет, это началось давно и продолжается до сих пор, пьет довольно часто и много, ночью заваливается домой, пока мы спим, из-за этого мы не высыпаемся и утром идем в таком состоянии на работу.",
+ "stratum": "presuicidal_multilabel_conj",
+ "data_id": "d647516914c4436ba73f22b50735e0ee-21",
+ "n_tokens": 42,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 13,
+     "norm_start": 0,
+     "norm_end": 13,
+     "norm_text": "А ещё он пьет"
+    },
+    {
+     "start": 15,
+     "end": 59,
+     "norm_start": 15,
+     "norm_end": 59,
+     "norm_text": "это началось давно и продолжается до сих пор"
+    },
+    {
+     "start": 61,
+     "end": 88,
+     "norm_start": 61,
+     "norm_end": 88,
+     "norm_text": "пьет довольно часто и много"
+    },
+    {
+     "start": 90,
+     "end": 114,
+     "norm_start": 90,
+     "norm_end": 114,
+     "norm_text": "ночью заваливается домой"
+    },
+    {
+     "start": 116,
+     "end": 128,
+     "norm_start": 116,
+     "norm_end": 128,
+     "norm_text": "пока мы спим"
+    },
+    {
+     "start": 130,
+     "end": 200,
+     "norm_start": 130,
+     "norm_end": 199,
+     "norm_text": "из-за этого мы не высыпаемся и утром идем в таком состоянии на работу"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 13,
+     "norm_start": 0,
+     "norm_end": 13,
+     "norm_text": "А ещё он пьет"
+    },
+    {
+     "start": 15,
+     "end": 59,
+     "norm_start": 15,
+     "norm_end": 59,
+     "norm_text": "это началось давно и продолжается до сих пор"
+    },
+    {
+     "start": 61,
+     "end": 88,
+     "norm_start": 61,
+     "norm_end": 88,
+     "norm_text": "пьет довольно часто и много"
+    },
+    {
+     "start": 90,
+     "end": 114,
+     "norm_start": 90,
+     "norm_end": 114,
+     "norm_text": "ночью заваливается домой"
+    },
+    {
+     "start": 116,
+     "end": 128,
+     "norm_start": 116,
+     "norm_end": 128,
+     "norm_text": "пока мы спим"
+    },
+    {
+     "start": 130,
+     "end": 158,
+     "norm_start": 130,
+     "norm_end": 158,
+     "norm_text": "из-за этого мы не высыпаемся"
+    },
+    {
+     "start": 159,
+     "end": 199,
+     "norm_start": 159,
+     "norm_end": 199,
+     "norm_text": "и утром идем в таком состоянии на работу"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 14,
+     "norm_start": 0,
+     "norm_end": 13,
+     "norm_text": "А ещё он пьет"
+    },
+    {
+     "start": 15,
+     "end": 60,
+     "norm_start": 15,
+     "norm_end": 59,
+     "norm_text": "это началось давно и продолжается до сих пор"
+    },
+    {
+     "start": 61,
+     "end": 115,
+     "norm_start": 61,
+     "norm_end": 114,
+     "norm_text": "пьет довольно часто и много, ночью заваливается домой"
+    },
+    {
+     "start": 116,
+     "end": 129,
+     "norm_start": 116,
+     "norm_end": 128,
+     "norm_text": "пока мы спим"
+    },
+    {
+     "start": 130,
+     "end": 200,
+     "norm_start": 130,
+     "norm_end": 199,
+     "norm_text": "из-за этого мы не высыпаемся и утром идем в таком состоянии на работу"
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,115 @@
+{
+ "task_idx": 79,
+ "text": "Не могу спать, по ночам - каждый день просыпаюсь в 3 ночи, и начинается - лезет какой-то бред, что нужно совершить суицид, или сломать себе что нибудь",
+ "stratum": "presuicidal_multilabel_conj",
+ "data_id": "826343f116ff44d4930086cb241e5e0f-0",
+ "n_tokens": 31,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 13,
+     "norm_start": 0,
+     "norm_end": 13,
+     "norm_text": "Не могу спать"
+    },
+    {
+     "start": 15,
+     "end": 57,
+     "norm_start": 15,
+     "norm_end": 57,
+     "norm_text": "по ночам - каждый день просыпаюсь в 3 ночи"
+    },
+    {
+     "start": 59,
+     "end": 93,
+     "norm_start": 59,
+     "norm_end": 93,
+     "norm_text": "и начинается - лезет какой-то бред"
+    },
+    {
+     "start": 95,
+     "end": 150,
+     "norm_start": 95,
+     "norm_end": 150,
+     "norm_text": "что нужно совершить суицид, или сломать себе что нибудь"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 23,
+     "norm_start": 0,
+     "norm_end": 23,
+     "norm_text": "Не могу спать, по ночам"
+    },
+    {
+     "start": 26,
+     "end": 57,
+     "norm_start": 26,
+     "norm_end": 57,
+     "norm_text": "каждый день просыпаюсь в 3 ночи"
+    },
+    {
+     "start": 59,
+     "end": 71,
+     "norm_start": 59,
+     "norm_end": 71,
+     "norm_text": "и начинается"
+    },
+    {
+     "start": 74,
+     "end": 93,
+     "norm_start": 74,
+     "norm_end": 93,
+     "norm_text": "лезет какой-то бред"
+    },
+    {
+     "start": 95,
+     "end": 150,
+     "norm_start": 95,
+     "norm_end": 150,
+     "norm_text": "что нужно совершить суицид, или сломать себе что нибудь"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 14,
+     "norm_start": 0,
+     "norm_end": 13,
+     "norm_text": "Не могу спать"
+    },
+    {
+     "start": 15,
+     "end": 71,
+     "norm_start": 15,
+     "norm_end": 71,
+     "norm_text": "по ночам - каждый день просыпаюсь в 3 ночи, и начинается"
+    },
+    {
+     "start": 74,
+     "end": 94,
+     "norm_start": 74,
+     "norm_end": 93,
+     "norm_text": "лезет какой-то бред"
+    },
+    {
+     "start": 95,
+     "end": 150,
+     "norm_start": 95,
+     "norm_end": 150,
+     "norm_text": "что нужно совершить суицид, или сломать себе что нибудь"
+    }
+   ]
+  }
+ }
+}

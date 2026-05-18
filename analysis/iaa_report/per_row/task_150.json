@@ -1,0 +1,108 @@
+{
+ "task_idx": 150,
+ "text": "Я познакомился с ее родителями, на которых, как она мне сказала, я произвел очень хорошее впечатление.",
+ "stratum": "presuicidal_monolabel_long",
+ "data_id": "47f9e6956b354708b26a28888b27d6f4-9",
+ "n_tokens": 20,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "СПП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 31,
+     "norm_start": 0,
+     "norm_end": 30,
+     "norm_text": "Я познакомился с ее родителями"
+    },
+    {
+     "start": 32,
+     "end": 42,
+     "norm_start": 32,
+     "norm_end": 42,
+     "norm_text": "на которых"
+    },
+    {
+     "start": 44,
+     "end": 63,
+     "norm_start": 44,
+     "norm_end": 63,
+     "norm_text": "как она мне сказала"
+    },
+    {
+     "start": 65,
+     "end": 102,
+     "norm_start": 65,
+     "norm_end": 101,
+     "norm_text": "я произвел очень хорошее впечатление"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "СПП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 30,
+     "norm_start": 0,
+     "norm_end": 30,
+     "norm_text": "Я познакомился с ее родителями"
+    },
+    {
+     "start": 32,
+     "end": 42,
+     "norm_start": 32,
+     "norm_end": 42,
+     "norm_text": "на которых"
+    },
+    {
+     "start": 44,
+     "end": 63,
+     "norm_start": 44,
+     "norm_end": 63,
+     "norm_text": "как она мне сказала"
+    },
+    {
+     "start": 65,
+     "end": 101,
+     "norm_start": 65,
+     "norm_end": 101,
+     "norm_text": "я произвел очень хорошее впечатление"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 31,
+     "norm_start": 0,
+     "norm_end": 30,
+     "norm_text": "Я познакомился с ее родителями"
+    },
+    {
+     "start": 32,
+     "end": 43,
+     "norm_start": 32,
+     "norm_end": 42,
+     "norm_text": "на которых"
+    },
+    {
+     "start": 44,
+     "end": 64,
+     "norm_start": 44,
+     "norm_end": 63,
+     "norm_text": "как она мне сказала"
+    },
+    {
+     "start": 65,
+     "end": 102,
+     "norm_start": 65,
+     "norm_end": 101,
+     "norm_text": "я произвел очень хорошее впечатление"
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,66 @@
+{
+ "task_idx": 82,
+ "text": "Недавно я еле-еле уговорила маму отвести меня к психиатру ( она куча раз отказывала мне.",
+ "stratum": "presuicidal_multilabel_conj",
+ "data_id": "f3e538e7de464fa1bc3b20ea3f09747c-47",
+ "n_tokens": 16,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "БСП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 57,
+     "norm_start": 0,
+     "norm_end": 57,
+     "norm_text": "Недавно я еле-еле уговорила маму отвести меня к психиатру"
+    },
+    {
+     "start": 60,
+     "end": 88,
+     "norm_start": 60,
+     "norm_end": 87,
+     "norm_text": "она куча раз отказывала мне"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "БСП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 57,
+     "norm_start": 0,
+     "norm_end": 57,
+     "norm_text": "Недавно я еле-еле уговорила маму отвести меня к психиатру"
+    },
+    {
+     "start": 60,
+     "end": 87,
+     "norm_start": 60,
+     "norm_end": 87,
+     "norm_text": "она куча раз отказывала мне"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "БСП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 57,
+     "norm_start": 0,
+     "norm_end": 57,
+     "norm_text": "Недавно я еле-еле уговорила маму отвести меня к психиатру"
+    },
+    {
+     "start": 60,
+     "end": 88,
+     "norm_start": 60,
+     "norm_end": 87,
+     "norm_text": "она куча раз отказывала мне"
+    }
+   ]
+  }
+ }
+}

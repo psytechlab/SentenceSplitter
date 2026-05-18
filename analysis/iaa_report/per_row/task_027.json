@@ -1,0 +1,129 @@
+{
+ "task_idx": 27,
+ "text": "Дело в том, что я постоянно переживаю за свои прошлые какие-то ошибки, поступки, осознаю то, что неправильно тогда поступала, постоянно мучаю себя, зачем?",
+ "stratum": "presuicidal_monolabel_long",
+ "data_id": "8603c51d7a134c3382d62215c6a5c909-1",
+ "n_tokens": 30,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 10,
+     "norm_start": 0,
+     "norm_end": 10,
+     "norm_text": "Дело в том"
+    },
+    {
+     "start": 12,
+     "end": 91,
+     "norm_start": 12,
+     "norm_end": 91,
+     "norm_text": "что я постоянно переживаю за свои прошлые какие-то ошибки, поступки, осознаю то"
+    },
+    {
+     "start": 93,
+     "end": 124,
+     "norm_start": 93,
+     "norm_end": 124,
+     "norm_text": "что неправильно тогда поступала"
+    },
+    {
+     "start": 126,
+     "end": 146,
+     "norm_start": 126,
+     "norm_end": 146,
+     "norm_text": "постоянно мучаю себя"
+    },
+    {
+     "start": 148,
+     "end": 154,
+     "norm_start": 148,
+     "norm_end": 153,
+     "norm_text": "зачем"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 10,
+     "norm_start": 0,
+     "norm_end": 10,
+     "norm_text": "Дело в том"
+    },
+    {
+     "start": 12,
+     "end": 79,
+     "norm_start": 12,
+     "norm_end": 79,
+     "norm_text": "что я постоянно переживаю за свои прошлые какие-то ошибки, поступки"
+    },
+    {
+     "start": 81,
+     "end": 91,
+     "norm_start": 81,
+     "norm_end": 91,
+     "norm_text": "осознаю то"
+    },
+    {
+     "start": 93,
+     "end": 124,
+     "norm_start": 93,
+     "norm_end": 124,
+     "norm_text": "что неправильно тогда поступала"
+    },
+    {
+     "start": 126,
+     "end": 146,
+     "norm_start": 126,
+     "norm_end": 146,
+     "norm_text": "постоянно мучаю себя"
+    },
+    {
+     "start": 148,
+     "end": 153,
+     "norm_start": 148,
+     "norm_end": 153,
+     "norm_text": "зачем"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 80,
+     "norm_start": 0,
+     "norm_end": 79,
+     "norm_text": "Дело в том, что я постоянно переживаю за свои прошлые какие-то ошибки, поступки"
+    },
+    {
+     "start": 81,
+     "end": 92,
+     "norm_start": 81,
+     "norm_end": 91,
+     "norm_text": "осознаю то"
+    },
+    {
+     "start": 93,
+     "end": 125,
+     "norm_start": 93,
+     "norm_end": 124,
+     "norm_text": "что неправильно тогда поступала"
+    },
+    {
+     "start": 126,
+     "end": 154,
+     "norm_start": 126,
+     "norm_end": 153,
+     "norm_text": "постоянно мучаю себя, зачем"
+    }
+   ]
+  }
+ }
+}

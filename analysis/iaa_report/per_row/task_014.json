@@ -1,0 +1,66 @@
+{
+ "task_idx": 14,
+ "text": "В первом классе меня все любили всем мальчикам я нравилась.",
+ "stratum": "presuicidal_short_simple",
+ "data_id": "b5004400c5f34b39ad85132a63a173a6-4",
+ "n_tokens": 11,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "БСП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 31,
+     "norm_start": 0,
+     "norm_end": 31,
+     "norm_text": "В первом классе меня все любили"
+    },
+    {
+     "start": 32,
+     "end": 59,
+     "norm_start": 32,
+     "norm_end": 58,
+     "norm_text": "всем мальчикам я нравилась"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "БСП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 31,
+     "norm_start": 0,
+     "norm_end": 31,
+     "norm_text": "В первом классе меня все любили"
+    },
+    {
+     "start": 32,
+     "end": 58,
+     "norm_start": 32,
+     "norm_end": 58,
+     "norm_text": "всем мальчикам я нравилась"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "БСП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 31,
+     "norm_start": 0,
+     "norm_end": 31,
+     "norm_text": "В первом классе меня все любили"
+    },
+    {
+     "start": 32,
+     "end": 59,
+     "norm_start": 32,
+     "norm_end": 58,
+     "norm_text": "всем мальчикам я нравилась"
+    }
+   ]
+  }
+ }
+}

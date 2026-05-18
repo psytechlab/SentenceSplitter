@@ -1,0 +1,66 @@
+{
+ "task_idx": 194,
+ "text": "сейчас мне 20. конечно, за всё это время были и счастливые моменты.",
+ "stratum": "other",
+ "data_id": "d31ea9f417e54f459652ccdf676bd55a-2",
+ "n_tokens": 15,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "БСП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 14,
+     "norm_start": 0,
+     "norm_end": 13,
+     "norm_text": "сейчас мне 20"
+    },
+    {
+     "start": 15,
+     "end": 67,
+     "norm_start": 15,
+     "norm_end": 66,
+     "norm_text": "конечно, за всё это время были и счастливые моменты"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "БСП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 13,
+     "norm_start": 0,
+     "norm_end": 13,
+     "norm_text": "сейчас мне 20"
+    },
+    {
+     "start": 15,
+     "end": 66,
+     "norm_start": 15,
+     "norm_end": 66,
+     "norm_text": "конечно, за всё это время были и счастливые моменты"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "БСП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 14,
+     "norm_start": 0,
+     "norm_end": 13,
+     "norm_text": "сейчас мне 20"
+    },
+    {
+     "start": 15,
+     "end": 67,
+     "norm_start": 15,
+     "norm_end": 66,
+     "norm_text": "конечно, за всё это время были и счастливые моменты"
+    }
+   ]
+  }
+ }
+}

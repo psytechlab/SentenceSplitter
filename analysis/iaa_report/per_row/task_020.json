@@ -1,0 +1,66 @@
+{
+ "task_idx": 20,
+ "text": "Всё еще усугубляют некоторые проблемы со здоровьем, я заикающийся очкарик.",
+ "stratum": "presuicidal_multilabel_bsp",
+ "data_id": "2df8795a592542d2a1faf0cdaa8774a1-11",
+ "n_tokens": 12,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "БСП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 50,
+     "norm_start": 0,
+     "norm_end": 50,
+     "norm_text": "Всё еще усугубляют некоторые проблемы со здоровьем"
+    },
+    {
+     "start": 52,
+     "end": 74,
+     "norm_start": 52,
+     "norm_end": 73,
+     "norm_text": "я заикающийся очкарик"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "БСП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 50,
+     "norm_start": 0,
+     "norm_end": 50,
+     "norm_text": "Всё еще усугубляют некоторые проблемы со здоровьем"
+    },
+    {
+     "start": 52,
+     "end": 73,
+     "norm_start": 52,
+     "norm_end": 73,
+     "norm_text": "я заикающийся очкарик"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "БСП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 51,
+     "norm_start": 0,
+     "norm_end": 50,
+     "norm_text": "Всё еще усугубляют некоторые проблемы со здоровьем"
+    },
+    {
+     "start": 52,
+     "end": 74,
+     "norm_start": 52,
+     "norm_end": 73,
+     "norm_text": "я заикающийся очкарик"
+    }
+   ]
+  }
+ }
+}

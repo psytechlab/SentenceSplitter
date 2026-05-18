@@ -1,0 +1,45 @@
+{
+ "task_idx": 145,
+ "text": "Я искал в интернете легкий способ смерти.",
+ "stratum": "presuicidal_short_simple",
+ "data_id": "e96c5d895bd340889eb813b255f5e1a4-2",
+ "n_tokens": 8,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "Не сложное",
+   "spans": [
+    {
+     "start": 0,
+     "end": 41,
+     "norm_start": 0,
+     "norm_end": 40,
+     "norm_text": "Я искал в интернете легкий способ смерти"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "Не сложное",
+   "spans": [
+    {
+     "start": 0,
+     "end": 40,
+     "norm_start": 0,
+     "norm_end": 40,
+     "norm_text": "Я искал в интернете легкий способ смерти"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "Не сложное",
+   "spans": [
+    {
+     "start": 0,
+     "end": 41,
+     "norm_start": 0,
+     "norm_end": 40,
+     "norm_text": "Я искал в интернете легкий способ смерти"
+    }
+   ]
+  }
+ }
+}

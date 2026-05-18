@@ -1,0 +1,73 @@
+{
+ "task_idx": 25,
+ "text": "Да может я и глупость скажу, но сам факт Я ЖИТЬ БОЛЬШЕ НЕХОЧУ.",
+ "stratum": "presuicidal_multilabel_conj",
+ "data_id": "7d28f1d097bb4c6c87e2510461fb2685-1",
+ "n_tokens": 15,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 27,
+     "norm_start": 0,
+     "norm_end": 27,
+     "norm_text": "Да может я и глупость скажу"
+    },
+    {
+     "start": 29,
+     "end": 40,
+     "norm_start": 29,
+     "norm_end": 40,
+     "norm_text": "но сам факт"
+    },
+    {
+     "start": 41,
+     "end": 62,
+     "norm_start": 41,
+     "norm_end": 61,
+     "norm_text": "Я ЖИТЬ БОЛЬШЕ НЕХОЧУ"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "СПП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 27,
+     "norm_start": 0,
+     "norm_end": 27,
+     "norm_text": "Да может я и глупость скажу"
+    },
+    {
+     "start": 29,
+     "end": 61,
+     "norm_start": 29,
+     "norm_end": 61,
+     "norm_text": "но сам факт Я ЖИТЬ БОЛЬШЕ НЕХОЧУ"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "СПП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 27,
+     "norm_start": 0,
+     "norm_end": 27,
+     "norm_text": "Да может я и глупость скажу"
+    },
+    {
+     "start": 29,
+     "end": 62,
+     "norm_start": 29,
+     "norm_end": 61,
+     "norm_text": "но сам факт Я ЖИТЬ БОЛЬШЕ НЕХОЧУ"
+    }
+   ]
+  }
+ }
+}

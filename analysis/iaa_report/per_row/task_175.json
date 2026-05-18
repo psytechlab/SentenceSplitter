@@ -1,0 +1,45 @@
+{
+ "task_idx": 175,
+ "text": "завтра походу будет ужасный день(",
+ "stratum": "solyanka_social_media_multi",
+ "data_id": "",
+ "n_tokens": 6,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "Не сложное",
+   "spans": [
+    {
+     "start": 0,
+     "end": 33,
+     "norm_start": 0,
+     "norm_end": 32,
+     "norm_text": "завтра походу будет ужасный день"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "Не сложное",
+   "spans": [
+    {
+     "start": 0,
+     "end": 32,
+     "norm_start": 0,
+     "norm_end": 32,
+     "norm_text": "завтра походу будет ужасный день"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "Не сложное",
+   "spans": [
+    {
+     "start": 0,
+     "end": 33,
+     "norm_start": 0,
+     "norm_end": 32,
+     "norm_text": "завтра походу будет ужасный день"
+    }
+   ]
+  }
+ }
+}

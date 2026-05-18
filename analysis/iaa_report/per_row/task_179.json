@@ -1,0 +1,115 @@
+{
+ "task_idx": 179,
+ "text": "летом нужно было где-то жить, за что-то есть, на работу меня никуда не брали или брали но платили мизерную зп, помощи от близких не было.",
+ "stratum": "presuicidal_multilabel_conj",
+ "data_id": "3fb0d251c06948249d961ed3d142f7a2-21",
+ "n_tokens": 29,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "БСП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 44,
+     "norm_start": 0,
+     "norm_end": 44,
+     "norm_text": "летом нужно было где-то жить, за что-то есть"
+    },
+    {
+     "start": 46,
+     "end": 109,
+     "norm_start": 46,
+     "norm_end": 109,
+     "norm_text": "на работу меня никуда не брали или брали но платили мизерную зп"
+    },
+    {
+     "start": 111,
+     "end": 137,
+     "norm_start": 111,
+     "norm_end": 136,
+     "norm_text": "помощи от близких не было"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 28,
+     "norm_start": 0,
+     "norm_end": 28,
+     "norm_text": "летом нужно было где-то жить"
+    },
+    {
+     "start": 30,
+     "end": 44,
+     "norm_start": 30,
+     "norm_end": 44,
+     "norm_text": "за что-то есть"
+    },
+    {
+     "start": 46,
+     "end": 86,
+     "norm_start": 46,
+     "norm_end": 86,
+     "norm_text": "на работу меня никуда не брали или брали"
+    },
+    {
+     "start": 87,
+     "end": 109,
+     "norm_start": 87,
+     "norm_end": 109,
+     "norm_text": "но платили мизерную зп"
+    },
+    {
+     "start": 111,
+     "end": 136,
+     "norm_start": 111,
+     "norm_end": 136,
+     "norm_text": "помощи от близких не было"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 45,
+     "norm_start": 0,
+     "norm_end": 44,
+     "norm_text": "летом нужно было где-то жить, за что-то есть"
+    },
+    {
+     "start": 46,
+     "end": 76,
+     "norm_start": 46,
+     "norm_end": 76,
+     "norm_text": "на работу меня никуда не брали"
+    },
+    {
+     "start": 77,
+     "end": 86,
+     "norm_start": 77,
+     "norm_end": 86,
+     "norm_text": "или брали"
+    },
+    {
+     "start": 87,
+     "end": 110,
+     "norm_start": 87,
+     "norm_end": 109,
+     "norm_text": "но платили мизерную зп"
+    },
+    {
+     "start": 110,
+     "end": 137,
+     "norm_start": 111,
+     "norm_end": 136,
+     "norm_text": "помощи от близких не было"
+    }
+   ]
+  }
+ }
+}

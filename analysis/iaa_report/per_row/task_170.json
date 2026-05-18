@@ -1,0 +1,45 @@
+{
+ "task_idx": 170,
+ "text": "аж плакать хочется:(",
+ "stratum": "solyanka_twitter_short_simple",
+ "data_id": "",
+ "n_tokens": 4,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "Не сложное",
+   "spans": [
+    {
+     "start": 0,
+     "end": 20,
+     "norm_start": 0,
+     "norm_end": 18,
+     "norm_text": "аж плакать хочется"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "Не сложное",
+   "spans": [
+    {
+     "start": 0,
+     "end": 18,
+     "norm_start": 0,
+     "norm_end": 18,
+     "norm_text": "аж плакать хочется"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "Не сложное",
+   "spans": [
+    {
+     "start": 0,
+     "end": 20,
+     "norm_start": 0,
+     "norm_end": 18,
+     "norm_text": "аж плакать хочется"
+    }
+   ]
+  }
+ }
+}

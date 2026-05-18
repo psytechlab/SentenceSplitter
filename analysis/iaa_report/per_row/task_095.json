@@ -1,0 +1,115 @@
+{
+ "task_idx": 95,
+ "text": "Он начал пить, я уходила, возвращалась, он закодировался, не пьет третий год. В июне этого года можно снова будет пить.",
+ "stratum": "presuicidal_multilabel_conj",
+ "data_id": "cc74a3da245647df9cd911a69e0e0741-2",
+ "n_tokens": 26,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "БСП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 13,
+     "norm_start": 0,
+     "norm_end": 13,
+     "norm_text": "Он начал пить"
+    },
+    {
+     "start": 15,
+     "end": 38,
+     "norm_start": 15,
+     "norm_end": 38,
+     "norm_text": "я уходила, возвращалась"
+    },
+    {
+     "start": 40,
+     "end": 56,
+     "norm_start": 40,
+     "norm_end": 56,
+     "norm_text": "он закодировался"
+    },
+    {
+     "start": 58,
+     "end": 76,
+     "norm_start": 58,
+     "norm_end": 76,
+     "norm_text": "не пьет третий год"
+    },
+    {
+     "start": 78,
+     "end": 119,
+     "norm_start": 78,
+     "norm_end": 118,
+     "norm_text": "В июне этого года можно снова будет пить"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "БСП",
+   "spans": [
+    {
+     "start": 0,
+     "end": 13,
+     "norm_start": 0,
+     "norm_end": 13,
+     "norm_text": "Он начал пить"
+    },
+    {
+     "start": 15,
+     "end": 38,
+     "norm_start": 15,
+     "norm_end": 38,
+     "norm_text": "я уходила, возвращалась"
+    },
+    {
+     "start": 40,
+     "end": 76,
+     "norm_start": 40,
+     "norm_end": 76,
+     "norm_text": "он закодировался, не пьет третий год"
+    },
+    {
+     "start": 78,
+     "end": 118,
+     "norm_start": 78,
+     "norm_end": 118,
+     "norm_text": "В июне этого года можно снова будет пить"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 14,
+     "norm_start": 0,
+     "norm_end": 13,
+     "norm_text": "Он начал пить"
+    },
+    {
+     "start": 15,
+     "end": 39,
+     "norm_start": 15,
+     "norm_end": 38,
+     "norm_text": "я уходила, возвращалась"
+    },
+    {
+     "start": 40,
+     "end": 77,
+     "norm_start": 40,
+     "norm_end": 76,
+     "norm_text": "он закодировался, не пьет третий год"
+    },
+    {
+     "start": 78,
+     "end": 119,
+     "norm_start": 78,
+     "norm_end": 118,
+     "norm_text": "В июне этого года можно снова будет пить"
+    }
+   ]
+  }
+ }
+}

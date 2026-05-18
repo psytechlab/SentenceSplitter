@@ -1,0 +1,122 @@
+{
+ "task_idx": 188,
+ "text": "он полностью мне подходит... в нас сколько общего,что это пугает... но чувства...их нет...и это главная проблема(((",
+ "stratum": "solyanka_social_media_multi",
+ "data_id": "",
+ "n_tokens": 27,
+ "annotations": {
+  "daniil": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 28,
+     "norm_start": 0,
+     "norm_end": 25,
+     "norm_text": "он полностью мне подходит"
+    },
+    {
+     "start": 29,
+     "end": 50,
+     "norm_start": 29,
+     "norm_end": 49,
+     "norm_text": "в нас сколько общего"
+    },
+    {
+     "start": 50,
+     "end": 67,
+     "norm_start": 50,
+     "norm_end": 64,
+     "norm_text": "что это пугает"
+    },
+    {
+     "start": 68,
+     "end": 90,
+     "norm_start": 68,
+     "norm_end": 87,
+     "norm_text": "но чувства...их нет"
+    },
+    {
+     "start": 90,
+     "end": 115,
+     "norm_start": 90,
+     "norm_end": 112,
+     "norm_text": "и это главная проблема"
+    }
+   ]
+  },
+  "shirin": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 25,
+     "norm_start": 0,
+     "norm_end": 25,
+     "norm_text": "он полностью мне подходит"
+    },
+    {
+     "start": 29,
+     "end": 49,
+     "norm_start": 29,
+     "norm_end": 49,
+     "norm_text": "в нас сколько общего"
+    },
+    {
+     "start": 50,
+     "end": 64,
+     "norm_start": 50,
+     "norm_end": 64,
+     "norm_text": "что это пугает"
+    },
+    {
+     "start": 68,
+     "end": 87,
+     "norm_start": 68,
+     "norm_end": 87,
+     "norm_text": "но чувства...их нет"
+    },
+    {
+     "start": 90,
+     "end": 112,
+     "norm_start": 90,
+     "norm_end": 112,
+     "norm_text": "и это главная проблема"
+    }
+   ]
+  },
+  "igor": {
+   "sentence_type": "Смешанного типа",
+   "spans": [
+    {
+     "start": 0,
+     "end": 28,
+     "norm_start": 0,
+     "norm_end": 25,
+     "norm_text": "он полностью мне подходит"
+    },
+    {
+     "start": 29,
+     "end": 67,
+     "norm_start": 29,
+     "norm_end": 64,
+     "norm_text": "в нас сколько общего,что это пугает"
+    },
+    {
+     "start": 68,
+     "end": 90,
+     "norm_start": 68,
+     "norm_end": 87,
+     "norm_text": "но чувства...их нет"
+    },
+    {
+     "start": 90,
+     "end": 112,
+     "norm_start": 90,
+     "norm_end": 112,
+     "norm_text": "и это главная проблема"
+    }
+   ]
+  }
+ }
+}
