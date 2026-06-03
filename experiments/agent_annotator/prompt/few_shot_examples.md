@@ -1,6 +1,6 @@
 # Few-shot примеры — 6 эталонных разметок
 
-Все 6 примеров взяты из validation/ground_truth.csv — задачи, где **все три аннотатора согласились единогласно** (daniil_type == shirin_type == igor_type).  
+Все 6 примеров взяты из validation/data/ground_truth.csv — задачи, где **все три аннотатора согласились единогласно** (daniil_type == shirin_type == igor_type).  
 Spans указаны в символьных смещениях (start:end, exclusive), строго соответствуют разметке аннотаторов.
 
 ---

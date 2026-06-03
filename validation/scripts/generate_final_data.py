@@ -3,6 +3,8 @@
 import csv
 from collections import Counter
 import numpy as np
+import os as _os, sys as _sys
+_sys.path.insert(0, _os.path.dirname(_os.path.dirname(_os.path.abspath(__file__))))
 import lib
 import categorize_indep as ci
 
@@ -42,7 +44,7 @@ for tk in tasks:
         "shirin_type": tk["anns"]["shirin"]["stype"] or "",
         "igor_type": tk["anns"]["igor"]["stype"] or "",
     })
-with open(lib.ROOT / "validation/categorization_by_agent.csv", "w",
+with open(lib.ROOT / "validation/data/categorization_by_agent.csv", "w",
           encoding="utf-8", newline="") as f:
     w = csv.DictWriter(f, fieldnames=list(rows[0].keys()))
     w.writeheader()

@@ -2,6 +2,8 @@
 import csv
 import math
 import numpy as np
+import os as _os, sys as _sys
+_sys.path.insert(0, _os.path.dirname(_os.path.dirname(_os.path.abspath(__file__))))
 import lib
 
 tasks = lib.load_tasks()
@@ -314,7 +316,7 @@ for a, b in PAIRS:
     L.append(f"\n_Топ путаница: «{conf[0][1]}»({a}) ↔ «{conf[0][2]}»({b}) — "
              f"{conf[0][0]} раз._")
 
-open(lib.ROOT / "validation/02_metrics_validation.md", "w",
+open(lib.ROOT / "validation/reports/02_metrics_validation.md", "w",
      encoding="utf-8").write("\n".join(L))
 print("written 02_metrics_validation.md  lines:", len(L))
 print("eqcount/diffcount:", eqcount, diffcount)

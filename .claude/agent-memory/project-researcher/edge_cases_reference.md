@@ -4,7 +4,7 @@ description: Location and provenance of edge_cases.md; which phenomena the annot
 type: reference
 ---
 
-File: notebooks/sampling/edge_cases.md
+File: notebooks/sampling/notes/edge_cases.md
 Last rewritten: 2026-05-07 (full rewrite from annotation doc verbatim quotes)
 Source doc: https://docs.google.com/document/d/1Qs6AVKL_Fi3dovBxS_Ad_mP3VMZK71cq_4MguGIY2hY
 

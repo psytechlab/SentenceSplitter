@@ -65,7 +65,7 @@ Validation against Shirin's 120 examples shows V1 has perfect recall (R=1.000) o
 
 ## Known consequence: однородные/обороты/вводные in sample
 
-`edge_cases.md` specifies that homogeneous predicates (однородные сказуемые), participial / adverbial-participial phrases (причастные / деепричастные обороты), and parenthetical constructions (вводные конструкции) should be treated as single clauses by annotators (EXCLUDE rule).
+`../notes/edge_cases.md` specifies that homogeneous predicates (однородные сказуемые), participial / adverbial-participial phrases (причастные / деепричастные обороты), and parenthetical constructions (вводные конструкции) should be treated as single clauses by annotators (EXCLUDE rule).
 
 The chosen heuristic V1 (`has_conjunction OR has_asyndetic_markers`) does NOT pre-filter these out. A sentence like *«Она встала и пошла к окну»* — homogeneous predicates joined by «и» — will be classified as complex by V1 and may end up in the annotation sample.
 

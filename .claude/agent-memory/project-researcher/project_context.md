@@ -10,8 +10,8 @@ Domain: social-media mental-health text (Russian).
 Key artifacts:
 - `notebooks/Split_llm.ipynb` — LLM-based splitter using Qwen2.5-7B-Instruct via HuggingFace `transformers.pipeline`. Input: single Russian sentence. Output: `{"simple_parts": [...]}`. Runs in Colab; requires GPU and HF_TOKEN.
 - `notebooks/sampling/heuristics/conjunctions.json` — extracted conjunction/marker table (SSP/SPP/BSP) from annotation guide.
-- `notebooks/sampling/edge_cases.md` — include/exclude rules for sampling, derived from GitHub issue #5.
-- `notebooks/sampling/llm_splitter_notes.md` — audit of Split_llm.ipynb for reuse in simple-sentence validation.
+- `notebooks/sampling/notes/edge_cases.md` — include/exclude rules for sampling, derived from GitHub issue #5.
+- `notebooks/sampling/notes/llm_splitter_notes.md` — audit of Split_llm.ipynb for reuse in simple-sentence validation.
 
 Annotation instruction Google Doc: https://docs.google.com/document/d/1Qs6AVKL_Fi3dovBxS_Ad_mP3VMZK71cq_4MguGIY2hY
 

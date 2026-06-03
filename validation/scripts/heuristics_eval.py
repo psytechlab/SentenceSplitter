@@ -4,6 +4,8 @@ import sys
 from pathlib import Path
 from collections import Counter
 
+import os as _os, sys as _sys
+_sys.path.insert(0, _os.path.dirname(_os.path.dirname(_os.path.abspath(__file__))))
 import lib
 
 # импорт эвристик отбора
@@ -44,7 +46,7 @@ for tk in tasks:
         "ambiguous": ambiguous,
     })
 
-with open(lib.ROOT / "validation/ground_truth.csv", "w", encoding="utf-8", newline="") as f:
+with open(lib.ROOT / "validation/data/ground_truth.csv", "w", encoding="utf-8", newline="") as f:
     w = csv.DictWriter(f, fieldnames=list(gt_rows[0].keys()))
     w.writeheader()
     w.writerows(gt_rows)
@@ -74,7 +76,7 @@ for tk in tasks:
         "is_complex_v1": v1, "is_complex_v2": v2, "is_multilabel": ml,
     })
 
-with open(lib.ROOT / "validation/heuristic_predictions.csv", "w",
+with open(lib.ROOT / "validation/data/heuristic_predictions.csv", "w",
           encoding="utf-8", newline="") as f:
     cols = ["task_id", "has_conjunction", "has_asyndetic", "finite_verbs_ge_2",
             "is_complex_v1", "is_complex_v2", "is_multilabel"]
@@ -130,7 +132,7 @@ for key, name in HEURS:
 
 if __name__ == "__main__":
     import json
-    Path(lib.ROOT / "validation/_heur_results.json").write_text(
+    Path(lib.ROOT / "validation/data/_heur_results.json").write_text(
         json.dumps({"results": results, "n_eval": len(eval_ids),
                     "n_amb": n_amb, "n_cx": n_cx, "n_sx": n_sx},
                    ensure_ascii=False))

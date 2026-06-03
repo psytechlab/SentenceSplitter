@@ -8,6 +8,8 @@ matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 import seaborn as sns
 
+import os as _os, sys as _sys
+_sys.path.insert(0, _os.path.dirname(_os.path.dirname(_os.path.abspath(__file__))))
 import lib
 import categorize_indep as ci
 
@@ -422,7 +424,7 @@ plt.savefig(lib.ROOT / "validation/plots/35_stratum_category.png", dpi=110)
 plt.close()
 
 L.append("## 3.5 Матрица Stratum × Category (моя категоризация)\n")
-L.append("График: `plots/35_stratum_category.png`.\n")
+L.append("График: `../plots/35_stratum_category.png`.\n")
 L.append("| Страта | " + " | ".join(c[:11] for c in mine_cats) + " | Σ |")
 L.append("|" + "---|" * (len(mine_cats) + 2))
 for i, st in enumerate(strata):
@@ -558,7 +560,7 @@ L.append("- **`other` (n≈23) не разобран** — это крупней
          "к «регулярному разбору», но внутри неё прячутся "
          "`homogeneous_predicates` и пограничные БСП-кейсы.\n")
 
-open(lib.ROOT / "validation/03_heuristics_vs_metrics.md", "w",
+open(lib.ROOT / "validation/reports/03_heuristics_vs_metrics.md", "w",
      encoding="utf-8").write("\n".join(L))
 print("written 03_heuristics_vs_metrics.md  lines:", len(L))
 raw, k, al = agreement_measures(allp)

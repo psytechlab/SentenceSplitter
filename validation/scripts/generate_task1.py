@@ -1,6 +1,8 @@
 """Задача 1: полный построчный список расхождений -> 01_disagreement_full_list.md"""
 import csv
 import numpy as np
+import os as _os, sys as _sys
+_sys.path.insert(0, _os.path.dirname(_os.path.dirname(_os.path.abspath(__file__))))
 import lib
 import categorize_indep as ci
 
@@ -142,7 +144,7 @@ L.append(f"\n_Согласие на 97 `punctuation_noise`: "
          f"Согласие на {len(real)} задачах с реальным (норм.) расхождением: "
          f"{real_agree}/{len(real)} = {100*real_agree/len(real):.1f}%._")
 
-open(lib.ROOT / "validation/01_disagreement_full_list.md", "w",
+open(lib.ROOT / "validation/reports/01_disagreement_full_list.md", "w",
      encoding="utf-8").write("\n".join(L))
 print("written 01_disagreement_full_list.md  lines:", len(L))
 print("total agreement:", total_agree, "/", len(rows),

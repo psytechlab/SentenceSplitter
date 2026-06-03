@@ -22,7 +22,7 @@ _Мета-валидация эвристик отбора `notebooks/sampling/h
 - `is_complex_gt = False`, если ≥2 из 3 поставили «Не сложное»;
 - `ambiguous`, если большинства нет — исключается из метрик.
 
-**Результат:** complex = 155, simple = 45, **ambiguous = 0**. Все 200 задач получили устойчивое большинство (в т.ч. 2 задачи с одним пропущенным типом — оставшиеся 2 аннотатора согласились). GT сохранён в `ground_truth.csv`.
+**Результат:** complex = 155, simple = 45, **ambiguous = 0**. Все 200 задач получили устойчивое большинство (в т.ч. 2 задачи с одним пропущенным типом — оставшиеся 2 аннотатора согласились). GT сохранён в `validation/data/ground_truth.csv`.
 
 Эвристики (`heuristic_predictions.csv`) применены через прямой импорт `filters.py`:
 - `has_conjunction(text)` — наличие союза ССП/СПП (regex по таблице `conjunctions.json`);
@@ -72,7 +72,7 @@ n_eval = 200 (155 complex / 45 simple), исключено ambiguous = 0.
 
 ### 4.1 False Positives — 21 (эвристика «сложное», GT «простое»)
 
-Доминирующий паттерн — **однородные члены / однородные сказуемые**, соединённые «и» или запятыми. По правилу разметки (`edge_cases.md`) цепочка однородных членов при одном подлежащем — **одна клауза**, но `has_conjunction` срабатывает на «и», а `has_asyndetic_markers` — на запятые между однородными членами.
+Доминирующий паттерн — **однородные члены / однородные сказуемые**, соединённые «и» или запятыми. По правилу разметки (`notebooks/sampling/notes/edge_cases.md`) цепочка однородных членов при одном подлежащем — **одна клауза**, но `has_conjunction` срабатывает на «и», а `has_asyndetic_markers` — на запятые между однородными членами.
 
 | # | Триггер | Текст |
 |---|---|---|
@@ -172,6 +172,6 @@ n_eval = 200 (155 complex / 45 simple), исключено ambiguous = 0.
 
 ## Артефакты
 
-- `validation/ground_truth.csv` — majority-voting GT (200 задач).
-- `validation/heuristic_predictions.csv` — предсказания всех эвристик.
+- `validation/data/ground_truth.csv` — majority-voting GT (200 задач).
+- `validation/data/heuristic_predictions.csv` — предсказания всех эвристик.
 - `validation/heuristics_eval.py` — независимый скрипт валидации.

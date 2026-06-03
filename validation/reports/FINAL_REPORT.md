@@ -259,9 +259,9 @@ Igor режет систематически **крупнее** (на 14% мен
 - [02_metrics_validation.md](02_metrics_validation.md) — независимая валидация всех метрик (30/30 сверок, три реализации α).
 - [03_heuristics_vs_metrics.md](03_heuristics_vs_metrics.md) — failure modes, метрики по категориям (две версии), гипотезы H1–H4, корреляции, тройная мера согласия, спот-чек.
 - [04_heuristics_vs_ground_truth.md](04_heuristics_vs_ground_truth.md) — валидация эвристик отбора выборки против majority-voting ground truth (метрики, анализ ошибок, срез по стратам, V1 vs V2).
-- `validation/categorization_by_agent.csv` — **независимая категоризация всех 195 расхождений** (task_idx, auto/agent категории, метрики задачи, span'ы и типы трёх аннотаторов). **Рекомендуется как замена `disagreements.csv` для всех будущих анализов** до появления LLM-судьи / экспертной разметки.
-- `validation/ground_truth.csv` — majority-voting GT «сложное/простое» по 200 задачам (типы трёх аннотаторов, `majority_type`, `is_complex_gt`, `ambiguous`).
-- `validation/heuristic_predictions.csv` — предсказания эвристик отбора (`has_conjunction`, `has_asyndetic`, `finite_verbs_ge_2`, `is_complex_v1`, `is_complex_v2`, `is_multilabel`) по 200 задачам.
+- `validation/data/categorization_by_agent.csv` — **независимая категоризация всех 195 расхождений** (task_idx, auto/agent категории, метрики задачи, span'ы и типы трёх аннотаторов). **Рекомендуется как замена `disagreements.csv` для всех будущих анализов** до появления LLM-судьи / экспертной разметки.
+- `validation/data/ground_truth.csv` — majority-voting GT «сложное/простое» по 200 задачам (типы трёх аннотаторов, `majority_type`, `is_complex_gt`, `ambiguous`).
+- `validation/data/heuristic_predictions.csv` — предсказания эвристик отбора (`has_conjunction`, `has_asyndetic`, `finite_verbs_ge_2`, `is_complex_v1`, `is_complex_v2`, `is_multilabel`) по 200 задачам.
 - `validation/plots/35_stratum_category.png` — heatmap Stratum × Category.
 - `validation/lib.py`, `validation/categorize_indep.py`, `validation/heuristics_eval.py` — независимые реимплементации (загрузка, нормализация, метрики, категоризация, валидация эвристик).
 
