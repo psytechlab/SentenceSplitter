@@ -6,4 +6,4 @@
 - Метрики (test): F1=0.753 | Recall=0.768 | Accuracy=0.910
 
 ### Примечание
-В ближайшем времени модель будет официально опубликована на Hugging Face Hub организации [psytechlab](https://huggingface.co/psytechlab), so stay tuned!
+Пока модель выложена на диск: [ссылка](https://drive.google.com/file/d/1GLV-n6KCyzIRGAyG7kFST35FeBCpYZqI/view?usp=sharing). В ближайшем времени модель будет официально опубликована на Hugging Face Hub организации [psytechlab](https://huggingface.co/psytechlab), so stay tuned!
